@@ -1,0 +1,560 @@
+	Organization		Sponsorship Category	Years of Sponsorship	Allocation															
+	ASUC Mental Health Commission		GOVT		$500															
+	ASUC Publications and Media Board		GOVT		"$8,000"															
+	ASUC Financial WellnESC Commission		GOVT		"$3,000"															
+	ASUC Housing Commission		GOVT		"$3,000"															
+	ASUC Sexual Violence Commission		GOVT		"$3,000"															
+	ASUC Restorative Justice Commission		GOVT		"$3,000"															
+	ASUC Intimate Partner Violence Commission		GOVT		"$3,000"															
+	ASUC Police Oversight Commission		GOVT		"$3,000"															
+	ASUC Diversity Affairs Commission		GOVT		"$3,000"															
+	ASUC Sustainability Team		GOVT		"$3,000"															
+	"ASUC Student Union Programming, Entertainment, and Recreation Board"		GOVT		$0															
+	CalTV		GOVT		"$11,000"															
+	Innovative Design		GOVT		"$7,200"															
+	Helios Solar Program		GOVT		$250															
+	Open Computing Facility		GOVT		"$35,000"															
+	DeCal Board		GOVT		"$4,000"														
+	BARE Magazine		PUB	13	"$3,262"															
+	Berkeley Fiction Review		PUB	37	"$2,200"															
+	Berkeley Poetry Review		PUB	26	"$1,216"															
+	Berkeley Science Review		PUB	20	"$1,200"															
+	Berkeley Scientific Journal		PUB	4	$900															
+	Blue & Gold Yearbook		PUB	6	$560															
+	Cal Literature and Arts Magazine		PUB	29	"$3,000"															
+	Caliber Magazine		PUB	11	"$9,500"															
+	Caravan Travel & Style Magazine		PUB	3	$250															
+	Clio's Scroll		PUB	21	"$1,400"															
+	Garb		PUB	4	"$1,100"															
+	GIA MAG		PUB	2	$700															
+	Heuristic Squelch		PUB	24	"$8,000"															
+	Intercollegiate Finance Journal at UC Berkeley		PUB	2	$560															
+	La Raza Law Journal 		PUB	1	Sponsorship Only															
+	Maganda Magazine		PUB	31	"$1,500"															
+	Perennial: The Undergraduate Environmental Journal of Berkeley		PUB	2	$700															
+	Perspective Magazine		PUB	23	$250															
+	Policy Review at Berkeley		PUB	2	$700															
+	Public Health Advocate		PUB	16	"$1,500"															
+	"Smart Ass, The"		PUB	19	"$3,300"															
+	Spoon University at Berkeley		PUB	7	"$1,000"															
+	threads (formerly known as Al-Bayan)		PUB	21	"$11,000"															
+	To An Unknown God		PUB	12	"$2,900"															
+	0 Comedy		SAG	2	$250															
+	180 Degrees Consulting at Berkeley		SAG	5	$400															
+	3D Modeling and Animation at Berkeley		SAG	2	$400															
+	3DMC (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Abba Modern		SAG	4	$250															
+	AccelerateHer@Berkeley		SAG	2	$250															
+	acts2fellowship		SAG	19	"$4,730"															
+	Aerospace Society of Automative Engineers (children of Engineering Student Council)		SAG	1	Sponsorship															
+	Afghan Student Association		SAG	13	"$2,400"															
+	AFX Dance		SAG	8	Sponsorship Only															
+	"Alpha Epsilon Zeta Fraternity, Inc."		SAG	15	"$2,713"															
+	Alpha Kappa Psi		SAG	10	"$1,100"															
+	Alpha Phi Omega		SAG	35	"$3,200"															
+	American Advertising Federation		SAG	5	$400															
+	American Chemical Society at Berkeley Student Chapter		SAG	5	$400															
+	American Institue of Chemical Engineers (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	American Medical Student Association-- Berkeley Premedical Chapter		SAG	22	"$1,000"															
+	American Medical Women's Association at Berkeley		SAG	5	$550															
+	American Society of Civil Engineers (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	American Society of Mechanical Engineers (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Anthropology Undergraduate Association		SAG	2	$400															
+	Arab Student Union		SAG	9	"$1,430"															
+	ARC Repertory Theatre		SAG	2	$250															
+	Argentine Tango Club of Berkeley		SAG	1	$400															
+	Armenian Student Association		SAG	38	"$2,640"															
+	Army Color Guard		SAG	1	$400															
+	Army ROTC Cadet Club		SAG	2	$400															
+	Arnold Air Society		SAG	3	$250															
+	Art and Mind		SAG	3	$500															
+	Artists in Resonance A Cappella		SAG	6	$770															
+	Ascend		SAG	12	$640															
+	"Asha for Education, Berkeley"		SAG	16	"$3,000"															
+	Asian American Association		SAG	23	"$3,594"															
+	"Assistants, Therapists, and Practitioners at Berkeley"		SAG	2	$351															
+	Association for Muslim ProfESCional Development (under Muslim Student Association)		SAG	14	"$1,338"															
+	Association for Socially Responsible BusinESC		SAG	3	$250															
+	Association of Korean Artists		SAG	2	$400															
+	Aurum Cosmetics (Formerly known as Krása Cosmetics Team)		SAG	2	$250															
+	Azaad		SAG	8	$250															
+	Ballet Company at Berkeley		SAG	9	$750															
+	Ballet Folklorico Reflejos de Mexico		SAG	8	$640															
+	Bangali Student Association at Berkeley		SAG	4	$500															
+	Bear Power Fund		SAG	1	$250															
+	BERC Undergraduate		SAG	1	$250															
+	Berkeley Bahai Club		SAG	25	$770															
+	Berkeley Ballroom Dancers		SAG	6	$400															
+	Berkeley Business Society		SAG	4	$400															
+	Berkeley Chinese Students and Scholars Association		SAG	14	"$2,750"															
+	Berkeley College Republicans		SAG	25	"$3,600"															
+	Berkeley Consulting		SAG	3	Sponsorship Only															
+	Berkeley Formula Racing (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Berkeley Hyperloop (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Berkeley Indonesian Student Association		SAG	6	$250															
+	Berkeley Innovation (under Engineering Student Council)		SAG	4	Sponsorship Only															
+	Berkeley Legal Studies Organization		SAG	4	$600															
+	Berkeley Model United Nations Conference		SAG	2	Sponsorship Only															
+	Berkeley Opinion		SAG	7	"$1,375"															
+	Berkeley Student Food Collective		SAG	2	$250															
+	Berkeley Tennis Association		SAG	4	$320															
+	Berkeley Women In BusinESC		SAG	17	$720															
+	Berksan		SAG	1	$400															
+	Big Data at Berkeley		SAG	2	$250															
+	Bioengineering Honor Society (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Biofuels Technology Club (under Engineering Student Council)		SAG	2	Sponsorship Only															
+	Biomedical Engineering Society (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Bioprinting at Berkeley (under Engineering Student Council)		SAG	3	Sponsorship Only															
+	Black Campus Ministries (under InterVarsity Christian Fellowship)		SAG	1	Sponsorship Only															
+	Black Engineering and Science Student Association (under Engineering Student Council)		SAG	6	Sponsorship Only															
+	Black Pre-law Association at Berkeley		SAG	4	$400															
+	bridges Multicultural Resource Center		SAG	24	Sponsorship Only															
+	BusinESC Transfer Network		SAG	1	$250															
+	Cal Ace Space 		SAG	1	$300															
+	Cal American Civil Liberties Union		SAG	4	$366															
+	Cal Berkeley Democrats		SAG	23	"$3,600"															
+	Cal Bhangra		SAG	7	"$3,850"															
+	Cal Black Student Union		SAG	11	"$30,000"															
+	Cal Christian Fellowship (under InterVarsity Christian Fellowship) 		SAG	1	Sponsorship Only															
+	Cal Dragon Boat		SAG	17	"$6,820"															
+	Cal Hawai'i Club		SAG	32	"$2,140"															
+	Cal Hiking and Outdoor Society		SAG	72	"$5,000"															
+	Cal in the Capital		SAG	43	"$3,500"															
+	Cal Japan Club		SAG	13	"$2,200"															
+	Cal Performances Student Ambassadors for the Arts		SAG	7	$376															
+	Cal Pre-Vet Club		SAG	11	$250															
+	Cal Queer and Asian		SAG	11	"$1,600"															
+	Cal Seismic Desgin Team (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Cal Super Mileage Vehicle (CalSMV) (under ESC)		SAG	1	Sponorship Only															
+	Cal Taiko		SAG	16	"$2,800"															
+	Cal Transportation Team (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Cal Undergraduate Public Health Coalition		SAG	16	$250															
+	California Mock Trial		SAG	20	"$21,474"															
+	CalSlam		SAG	16	"$1,440"															
+	CalSol (under Engineering Student Council)		SAG	2	Sponsorship Only															
+	Capital Investments at Berkeley		SAG	1	Sponsorship Only															
+	Chamber Chorus Association		SAG	1	$250															
+	Chec Consulting (under Engineering Student Council)		SAG	1	$400															
+	ChemE Car (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	ChESC Club at Berkeley		SAG	1	$400															
+	Chi Episilon Civil Engineering Honor Society (under ESC) 		SAG	1	Sponsorship Only															
+	Chicanx/Latinx Architecture Student Association		SAG	2	$250															
+	Chinese A Cappella at Berkeley		SAG	7	$500															
+	Chinese Finance Club		SAG	2	$500															
+	Chinese Psychology Group at Berkeley		SAG	3	$500															
+	Chinese Reading Group At Berkeley		SAG	1	$400															
+	Chinese Student Association		SAG	31	"$5,800"															
+	Cinematic Arts and Production Club		SAG	1	$400															
+	Circle K International		SAG	26	"$6,100"															
+	Civil and Environmental Engineering Joint Fundraising Committee		SAG	3	Sponsorship Only															
+	Coalition to Defend Affirmative Action By Any Means NecESCary		SAG	22	"$5,000"															
+	CodeBase (under Engineering Student Council)		SAG	4	Sponsorship Only															
+	Codeology		SAG	4	$400															
+	Computer Science Undergraduate Association		SAG	47	"$1,920"															
+	Concrete Canoe (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Confi		SAG	1	$250															
+	Consult Your Community (CYC) at Berkeley		SAG	8	"$2,200"															
+	Consulting Regionally in Biotech at Berkeley		SAG	1	Sponsorship Only															
+	Creative Applications to Life in Origami		SAG	9	$250															
+	Cricket Club of Berkeley		SAG	2	Sponsorship Only															
+	Crossroads Christian Fellowship: Chinese for Christ Berkeley Church		SAG	2	$250															
+	CS KickStart		SAG	8	"$2,200"															
+	Curling Club at Berkeley		SAG	8	$570															
+	Dance Board of Berkeley Dance Community		SAG	4	Sponsorship only															
+	Danceworx		SAG	24	"$5,000"															
+	Data Bears		SAG	1	$250															
+	Data Science Society at Berkeley		SAG	4	$400															
+	DataStory		SAG	1	Sponsorship Only															
+	De Colores (under QARC)		SAG	1	Sponsorship Only															
+	Debate Society of Berkeley		SAG	8	"$2,000"															
+	DeCadence		SAG	20	"$1,650"															
+	Deewani		SAG	1	$400															
+	Delta Phi Epsilon Co-ed ProfESCional Foreign Service Fraternity		SAG	17	$400															
+	Delta Xi Phi Multicultural Sorority Inc.		SAG	4	$400															
+	Design Engineering Collaborative (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Dil Se		SAG	5	$600															
+	Earthquake Engineering Research Institute at Berkeley		SAG	2	$250															
+	East Asian Union		SAG	11	"$3,245"															
+	Eggster Organization		SAG	20	$500															
+	EGO (Cal's Traditional Korean Percussion Group)		SAG	10	"$1,430"															
+	EnableTech (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Engineering 4 Kids (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Engineering Solutions @ Berkeley (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Engineering Student Council		SAG	29	"$92,763"															
+	Engineers For A Sustainable World - Berkeley (under Engineering Student Council)		SAG	2	Sponsorship Only															
+	Entomology Club		SAG	3	$250															
+	Entrepreneurs @ Berkeley		SAG	3	$250															
+	Environmental Science Students Association		SAG	1	$250															
+	Epsilon Eta		SAG	4	$400															
+	"Eta Kappa Nu, Mu Chapter  (under Engineering Student Council)"		SAG	1	Sponsorship Only															
+	EXP Dance		SAG	4	$500															
+	Faces of African Muslims (under Muslim Student Association)		SAG	3	Sponsorship Only															
+	Fashion and Student Trends		SAG	9	$800															
+	Fastpitch Softball at Berkeley		SAG	2	$400															
+	Fei Tian Dancers		SAG	17	$250															
+	FEMTech		SAG	2	$250															
+	Fiat Lux Scholars Association		SAG	4	$400															
+	Fintech at Berkeley		SAG	1	$250															
+	Food Science and Tech at Cal (under Engineering Student Council)		SAG	6	Sponsorship Only															
+	"Food, Equity, Entrepreneurship, and Development"		SAG	5	$320															
+	For Christ's Sake		SAG	2	$400															
+	Foresight Pre-Optometry Club		SAG	29	$940															
+	Friends of the Co-ops		SAG	88	"$8,000"															
+	Future Advancers of Science and Technology		SAG	1	Sponsorship Only															
+	"Future BusinESC Leaders of America-Phi Beta Lambda, Inc."		SAG	15	"$4,510"															
+	Game Design and Development at Berkeley		SAG	2	$400															
+	Gamma Rho Lambda 		SAG	4	$500															
+	GenSex		SAG	4	$460															
+	Geological Association at Berkeley		SAG	5	Sponsorship Only															
+	GroTech @ Berkeley		SAG	1	Sponsorship Only															
+	Haas Undergraduate Black BusinESC Association		SAG	13	$400															
+	Hackers at Berkeley (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Healthcare Business Association at Berkeley		SAG	1	Sponsorship Only															
+	Healthcare Consulting Group at Berkeley		SAG	2	$400															
+	Historical Fencing Club of Berkeley		SAG	3	$250															
+	Human Powered Vehicle (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	IDEA FACTORY		SAG	2	$250															
+	iGEM at Berkeley		SAG	3	$250															
+	Ignite Ministries		SAG	2	$400															
+	Indian Students Association (ISA)		SAG	17	"$11,000"															
+	Institute of Industrial and Systems Engineers (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Institute of Transportation Engineers (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	International Family Union		SAG	1	$250															
+	International Relations Council of Berkeley		SAG	4	$500															
+	International Society of Pharmaceutical Engineering (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	International Students Association at Berkeley		SAG	20	"$2,137"															
+	InterVarsity Christian Fellowship		SAG	22	"$5,170"															
+	Invention Corps at Berkeley (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Iranian Students Cultural Organization		SAG	23	"$2,200"															
+	Jain Students Association		SAG	4	$500															
+	Jericho!		SAG	4	$400															
+	K-Popular at Berkeley		SAG	9	$320															
+	Kappa Alpha Pi Pre Law Fraternity		SAG	7	$620															
+	Kendo Club at Berkeley		SAG	5	$500															
+	Klesis		SAG	9	"$1,100"															
+	Koinonia		SAG	16	$600															
+	Korean American Student Association		SAG	39	"$12,000"															
+	Korean Business Organization		SAG	1	$250															
+	Korean Performance Group		SAG	5	$250															
+	Korean Undergraduate Networking Association		SAG	13	$400															
+	Latin American Leadership Society		SAG	7	$640															
+	Launchpad		SAG	4	$500															
+	Laya of Berkeley		SAG	2	$400															
+	Lebanese Student Association at Berkeley		SAG	2	$400															
+	Liberty in North Korea at Berkeley		SAG	16	"$1,200"															
+	Lindy on Sproul		SAG	10	"$1,000"															
+	Linguaphile Student Association		SAG	1	$250															
+	Live Poets Society		SAG	1	$250															
+	"Management, Entrepreneurship, & Technology Student Board"		SAG	2	Sponsorship Only															
+	Market Diagnosis Group		SAG	1	$400															
+	Materials Science and Engineering Association (under Engineering Student Council)		SAG	5	Sponsorship Only															
+	Mathematics Undergraduate Student Association		SAG	4	$400															
+	Microfinance at Berkeley		SAG	8	"$1,000"															
+	Minecraft at Berkeley		SAG	1	$400															
+	"Minorities in Health Conference (under Pilipino Association for Health Careers, Chicano(a)s/Latino(a)s in Health Education)"		SAG	1	$306															
+	Molecular and Cell Biology Cell Developmental Neurobiological Association		SAG	7	$400															
+	"Movement, The"		SAG	20	"$4,400"															
+	Muslim Student Association		SAG	34	"$16,390"															
+	NAACP		SAG	1	$500															
+	Natya at Berkeley		SAG	7	$500															
+	Nazakat at Berkeley		SAG	1	$400															
+	Neurotechnology@Berkeley		SAG	1	Sponsorship Only															
+	Net Impact at Berkeley		SAG	18	$250															
+	Next Generation Consulting		SAG	2	$250															
+	Nigerian Students Association		SAG	4	$600															
+	Nikkei Choral Ensemble		SAG	4	$500															
+	Nikkei Student Union		SAG	18	"$2,750"															
+	Nuclear Engineering Design Collaborative (under Engineering Student Council)		SAG	1	Sponsorship Only															
+	Oscar Wilde House (under QARC)		SAG	1	Sponsorship Only															
+	Out for BusinESC (O4B) (under QARC)		SAG	1	Sponsorship Only															
+	"Out In Science, Technology, Engineering, and Mathematics (oSTEM) (under QARC)"		SAG	10	Sponsorship Only															
+	Outlet		SAG	7	$320															
+	Parliamentary Debate at Berkeley		SAG	11	"$2,160"															
+	Partnership for Pre-ProfESCional Pilipinxs		SAG	20	"$1,040"															
+	"Phi Alpha Delta Law Fraternity, International"		SAG	12	$560															
+	Phi Alpha Theta		SAG	17	$822															
+	Phi Delta Epsilon		SAG	13	$400															
+	Phi Sigma Rho (under ESC)		SAG	1	Sponsorship Only															
+	Phoenix Consulting Group (under Engineering Student Council)		SAG	2	Sponsorship Only															
+	Phoenix Symphony at Berkeley		SAG	6	"$1,540"															
+	Pi Sigma Epsilon		SAG	6	$800															
+	Pi Tau Sigma (under ESC)		SAG	6	Sponsorship Only															
+	Pilipino American Alliance		SAG	30	"$12,000"															
+	Pilipino Association for Health Careers		SAG	28	"$4,520"															
+	"Pilipino Association of Scientists, Architects, and Engineers (under Engineering Student Council)"		SAG	32	"$2,100"															
+	Pointe of Berkeley		SAG	4	$700															
+	Political Computer Science		SAG	2	$250															
+	Pre-Medical Honor Society		SAG	4	$400															
+	"Pre-Pharmacy Informational, Learning and Leadership Society"		SAG	20	"$2,500"															
+	PreDental Society		SAG	37	"$1,375"															
+	Product Development at Berkeley (formerly EPOCH)		SAG	3	$250															
+	"Project pengyou, Berkeley Chapter"		SAG	6	$500															
+	Puente at Berkeley		SAG	3	$250															
+	QJew (under QARC)		SAG	1	Sponsorship Only															
+	Queer + Allied Pre-Health/ Pre-Medical Association		SAG	4	$600															
+	Queer Student Union		SAG	13	"$1,300"															
+	Queer Trans South Asians at Berkeley (under QARC)		SAG	2	Sponsorship Only															
+	Quidditch League at Berkeley		SAG	12	Sponsorship Only															
+	Ra-On		SAG	10	"$1,650"															
+	Raas Ramzat		SAG	4	$500															
+	Re-Entry and Transfer Student Association		SAG	23	"$3,850"															
+	Reclaim		SAG	1	$400															
+	Regents' and Chancellor's Scholars Association		SAG	6	"$1,100"															
+	Robobears (under ESC)		SAG	1	Sponsorship Only															
+	Robotics & Engineering for Youth (under ESC)		SAG	1	Sponsorship Only															
+	Robotics at Berkeley  (under Engineering Student Council)		SAG	6	Sponsorship Only															
+	Rubik's Cube Club at Berkeley		SAG	9	$400															
+	Sahaara at Berkeley		SAG	1	$250															
+	Sales and Trading Club at Berkeley		SAG	1	$250															
+	Salsa at Cal		SAG	9	$250															
+	Seed Base Consulting		SAG	3	$250															
+	Sigma Alpha Nu		SAG	10	$147															
+	Sigma Epsilon Omega		SAG	3	$250															
+	Sigma Eta Pi		SAG	4	$400															
+	"Sigma Psi Zeta Sorority, Inc"		SAG	5	$245															
+	Sikh Students Association		SAG	17	"$1,200"															
+	Sky&X Aerospace		SAG	1	$250															
+	smART		SAG	1	$400															
+	Socially Engaged Engineers (SEE) 		SAG	1	Sponsorship Only															
+	Society of Engineering Sciences (SES) (under ESC)		SAG	1	Sponsorship Only															
+	Society of Linguistics Undergraduate Students		SAG	2	$250															
+	Society of Women Engineers (under ESC)		SAG	1	Sponsorship Only															
+	Solar Decathlon (under ESC)		SAG	1	Sponsorship Only															
+	Songwriting at Berkeley		SAG	4	$400															
+	South Indian Society		SAG	5	"$1,250"															
+	Space Enterprise at Berkeley (under ESC)		SAG	1	Sponsorship Only															
+	Space Technologies and Rocketry (under ESC)		SAG	2	Sponsorship Only															
+	Space Technologies at Cal (under ESC)		SAG	1	Sponsorship Only															
+	SPIRE		SAG	6	$500															
+	Sports Analytics Group at Berkeley (under ESC)		SAG	2	$250															
+	Sports BusinESC Group at Berkeley		SAG	3	$250															
+	Spring Foundation		SAG	8	$250															
+	Statistics Undergraduate Students Association		SAG	6	$720															
+	Steel Bridge (under ESC) 		SAG	1	Sponsorship Only															
+	Student Athlete Gay-Straight Alliance (Cal SAGSA) (under QARC)			1	Sponsorship Only															
+	Student Food Collective		SAG	2	$250															
+	Student Premed Advising Network		SAG	5	$400															
+	Students of Color Emerging in English		SAG	4	$400															
+	Supreme Corks		SAG	1	Sponsorship Only															
+	Sustainable Housing at Cal		SAG	1	$250															
+	Swim Club at Berkeley		SAG	2	$400															
+	T.I.n.Y. Chinese Theatre Group		SAG	5	$400															
+	Taiwanese American Student Association		SAG	24	"$2,151"															
+	Taiwanese Student Association		SAG	24	"$3,300"															
+	TASSEL at Berkeley		SAG	2	$250															
+	Tau Beta Pi (under ESC)		SAG	3	Sponsorship Only															
+	TBD Comedy		SAG	1	$250															
+	Thai Students Association		SAG	2	$250															
+	Thaqalayn Islamic Society of Berkeley		SAG	1	$400															
+	The Alt. Protein Project of Berkeley		SAG	1	$250															
+	The Berkeley Forum		SAG	10	"$12,490"															
+	The Californians		SAG	2	"$1,840"															
+	The Global Citizen		SAG	1	$400															
+	The Golden		SAG	4	$700															
+	"The Omniscient Tutor (Omniscient Tutor, The)"		SAG	1	$250															
+	The Student Immigration Relief Clinic at Berkeley		SAG	3	$294															
+	Theta Tau (under ESC0		SAG	2	$250															
+	Thrive Dance Company		SAG	8	$550															
+	Tokiha		SAG	3	$450															
+	Translational Medicine & Stem Cell Association		SAG	1	$250															
+	Turkish Student Association of Berkeley		SAG	3	$250															
+	UC Berkeley Indus		SAG	32	"$15,000"															
+	UC Berkeley Model United Nations		SAG	28	"$10,120"															
+	UC Rally Committee		SAG	120	"$44,000"															
+	Undergraduate Astronomy Society		SAG	1	$250															
+	Undergraduate Economics Association		SAG	20	$320															
+	Undergraduate Laboratory at Berkeley (ULAB) (under ESC)		SAG	1	Sponsorship Only															
+	Undergraduate Legal Honor Society		SAG	4	$266															
+	Undergraduate Real Estate Club		SAG	6	"$1,200"															
+	Undergraduate Women in Economics		SAG	3	$250															
+	Unmanned Aerial Vehicles at Berkeley (under ESC)			1	Sponsorship Only															
+	Upsilon Pi Epsilon		SAG	2	$250															
+	UpSync		SAG	5	$400															
+	UrsaTech		SAG	1	$400															
+	Valley Consulting Group (under ESC)		SAG	5	Sponsorship Only															
+	VISION		SAG	9	"$1,000"															
+	VR@B (under ESC)		SAG	1	Sponsorship Only															
+	Wave Makers of Berkeley		SAG	3	$250															
+	Women in Mathematics at Berkeley		SAG	7	$335															
+	Women in Politics at Berkeley		SAG	3	$250															
+	Wrestling Club at Berkeley		SAG	1	$400															
+	Young Queer United for Empowerment (under QARC)			1	Sponsorship Only															
+	Zahanat		SAG	4	$500															
+	Zawadi (under QARC)		SAG	1	Sponsorship Only															
+	Women and Youth Supporting Each Other (under CP)		SAG	2	Sponsorship Only															
+	Zeta Chi Consulting (under Pi Sigma Epsilon)		SAG	1	Sponsorship Only													
+	ACE Coaches (under CP)		SISG	5	Sponsorship Only															
+	"Alpha Kappa Alpha Sorority Inc., Rho Chapter"		SISG	4	$400															
+	Alternative Breaks		SISG	18	"$2,800"															
+	American Red Cross at Cal		SISG	16	"$7,000"															
+	ANova (under CP)		SISG	4	Sponsorship Only															
+	Anti-Trafficking Coalition at Berkeley		SISG	12	"$1,600"															
+	ASUC Student Legal Clinic		SISG	37	"$1,200"															
+	Bay Area Environmentally Aware Consulting Network		SISG	12	$320															
+	Be The Match On Campus at Berkeley		SISG	4	$800											
+	Bear Closet		SISG	1	$250															
+	Bears for Palestine		SISG	6	"$2,300"															
+	Berkeley Cambodian Students Association		SISG	6	$913															
+	Berkeley Disaster Team		SISG	5	$800															
+	Berkeley Medical Reserve Corps		SISG	7	"$2,500"															
+	Best Buddies at Berkeley		SISG	14	$640															
+	Bhagat Puran Singh Health Initiative @ Berkeley		SISG	6	"$1,342"															
+	Bias Busters		SISG	2	Sponsorship Only															
+	Blood Pressure Project		SISG	7	$500															
+	Bone Health Initiative		SISG	5	$621															
+	BrainTrust		SISG	1	$325															
+	BUILD Literacy Program		SISG	2	$250															
+	Cal Berkeley Habitat for Humanity (under CP)		SISG	21	Sponsorship Only															
+	Cal Community Music		SISG	35	$514															
+	Cal Rotaract (under CP)		SISG	17	Sponsorship Only															
+	Cal Veterans Group		SISG	12	"$2,714"															
+	California Health Professional Student Alliance		SISG	4	$450															
+	Camp Alima at Berkeley		SISG	1	$250															
+	Camp Kesem Berkeley		SISG	12	"$1,000"															
+	Chicano(a)s/Latino(a)s in Health Education		SISG	30	"$3,200"															
+	Community Projects		SISG	1	"$52,172"															
+	Computer Science Mentors		SISG	5	$250															
+	Creative Residencies for Emerging Artists Teaching Empowerment		SISG	8	$800															
+	Dance the Bay		SISG	7	$660															
+	Daraja at Berkeley		SISG	1	$250															
+	Delta Sigma Theta Sorority Incorporated-Kappa Chapter		SISG	19	"$1,452"															
+	DestrESC With Dogs		SISG	2	$250															
+	Engineers and Mentors of Berkeley (under CP)		SISG	9	Sponsorship Only															
+	Engineers Without Borders at Berkeley (under Engineering Student Council)		SISG	9	Sponsorship Only 															
+	EthiCAL Apparel		SISG	11	Sponsorship Only															
+	Expanding Your Horizons at Berkeley		SISG	8	"$1,000"															
+	Female Empowerment and Mentoring in Technology (under Engineering Student Council)		SISG	1	Sponsorship Only															
+	Financial Literacy and Economic Justice Conference (under CP)		SISG	1	Sponsorship Only															
+	Global Medical Missions Alliance at Berkeley		SISG	4	$500															
+	Health and Medical Apprenticeship Program		SISG	37	"$8,900"															
+	Hep B Project		SISG	3	$250															
+	Hermanos Unidos		SISG	3	$250															
+	Hmong Student Association at Berkeley		SISG	13	"$3,000"															
+	INvent Berkeley		SISG	2	$250															
+	Jakara Movement Club at Berkeley		SISG	4	$500															
+	Jeeva Clinic		SISG	3	$250															
+	Kidney Disease Screening and AwarenESC Program		SISG	4	"$1,000"															
+	Labor Coach Program		SISG	10	"$1,100"															
+	Ladies for Change		SISG	4	$400															
+	"Lambda Theta Nu Sorority, Inc."		SISG	10	"$1,200"															
+	Laotian American Student Representatives		SISG	22	"$4,070"															
+	Let's Rise - Asian Mentorship Program		SISG	15	"$1,419"															
+	Lu-mien Student Union		SISG	1	$372															
+	March of Dimes Collegiate Council		SISG	3	$373															
+	MEDLIFE		SISG	10	$825															
+	Mood Psychology at Berkeley		SISG	1	$500															
+	National Council of Negro Women		SISG	14	"$1,800"															
+	Oakland Asian Student Educational Services (OASES) (under CP)		SISG	18	Sponsorship Only															
+	Opportunity Through Data		SISG	1	$400															
+	Paper Crane		SISG	1	$250															
+	Patient Advocacy Student Group		SISG	9	"$3,300"															
+	People's Test Preparation Service (under CP)		SISG	24	Sponsorship Only															
+	"Project RISHI, The Berkeley Chapter"		SISG	13	$880															
+	Public Service Internships		SISG	2	$500															
+	Queer Alliance & Resource Center		SISG	52	"$41,850"															
+	Queer Alliance & Resource Center Board Stipends (7 officers)				"$12,000"															
+	Renters' Legal Assistance		SISG	38	$520															
+	Rising Immigrant Scholars through Education (RISE) (under CP)		SISG	12	Sponsorship Only															
+	"Sigma Pi Alpha Sorority, Inc."		SISG	11	$800															
+	Social Justice Symposium (under CP)		SISG	1	Sponsorship Only															
+	Social Welfare LGBTQ+ Student Caucus		SISG	1	$250															
+	Southeast Asian Mentorship		SISG	12	"$1,320"															
+	Southeast Asian Prison Outreach Project		SISG	10	$935															
+	Southeast Asian Student Coalition		SISG	14	"$12,500"															
+	Spectrum: Autism at Cal		SISG	10	$600															
+	Student to Student Peer Counseling		SISG	28	$902															
+	Suitcase Clinic (under CP)		SISG	22	Sponsorship Only															
+	"Support, ENcourage and Develop for Children of Berkeley"		SISG	4	$400															
+	Surayah Student Union		SISG	1	$250															
+	T-Cal		SISG	2	$500															
+	Team HBV		SISG	14	$520															
+	The Bengal Gazette		SISG	1	$500															
+	The Berkeley Group		SISG	18	"$2,400"															
+	The Berkeley Project (under CP)		SISG	14	Sponsorship Only															
+	The Music Connection (under CP)		SISG	4	Sponsorship Only															
+	The PERIOD Project at Berkeley		SISG	2	$250															
+	The Sage Mentorship Project (under CP)		SISG	8	Sponsorship Only															
+	Theater for Charity		SISG	17	"$1,760"															
+	Thrive Aspire Lead (formerly known as True Asian Leaders)		SISG	4	$800															
+	Together Educating All Children in Hospitals		SISG	2	$500															
+	TRENZA		SISG	9	"$2,000"															
+	Universal Love and Peace		SISG	8	$400															
+	VIDA Medical Volunteering at Berkeley		SISG	4	$600															
+	Vietnamese Student Association		SISG	29	"$8,800"															
+	Volunteer Health Interpreters Organization		SISG	15	"$4,300"															
+	Volunteer Income Tax Association Program		SISG	8	$480															
+	Volunteers Around the World at Berkeley		SISG	7	$250															
+	Wonderworks (under CP)		SISG	10	Sponsorship Only															
+	You Mean More		SISG	9	"$1,200"														
+	Academic Opportunity Fund		GRNT		"$20,000"															
+	Arts and Creativity Grant		GRNT		"$5,000"															
+	Greek Opportunity Fund		GRNT		"$2,000"															
+	Intellectual Community Grant		GRNT		"$2,000"															
+	Multicultural Grant		GRNT		"$4,000"															
+	Outstanding Student Recognition Scholarship		SCLR		"$1,000"															
+	Public Service Grant		GRNT		"$3,000"															
+	RISE Scholarship		SCLR		"$7,500"															
+	Student Commuter Grant		GRNT		"$1,400"															
+	Student Organization Travel Grant		GRNT		"$2,000"															
+	Textbook Scholarship		SCLR		"$5,000"															
+	Underserved Student Equity Grant		GRNT		"$1,000"														
+	Chief-of-Staff Stipend		OP		"$2,000"															
+	President Discretionary Fund		OP		"$5,000"															
+	President Stipend		OP		"$4,000"														
+	Chief-of-Staff Stipend		EVP		"$2,000"															
+	EVP Discretionary Fund		EVP		"$3,000"															
+	EVP Spaces Director Stipend		EVP		"$2,000"															
+	EVP Stipend		EVP		"$4,000"														
+	Co-Campus Organizing Directors Stipend		EAVP		"$1,000"															
+	Chief-of-Staff Stipend		EAVP		"$2,000"															
+	EAVP Discretionary Fund		EAVP		"$33,000"															
+	EAVP Stipend		EAVP		"$4,000"															
+	Co-Legislative Affairs Directors Stipend		EAVP		"$1,000"															
+	Legislative Conference		EAVP		"$15,000"															
+	UC Student Association Dues		EAVP		"$52,435"														
+	AAVP Discretionary Fund		AAVP		"$3,500"															
+	AAVP Stipend		AAVP		"$4,000"															
+	Chief-of-Staff Stipend		AAVP		"$2,000"														
+	Internal Chief-of-Staff Stipend		SAO		"$1,500"															
+	External Chief-of-Staff Stipend		SAO		"$1,500"															
+	SAO Discretionary Fund		SAO		"$2,500"															
+	SAO Caseworker stipends (10 stipends)		SAO		"$2,000"															
+	SAO Stipend		SAO		"$4,000"														
+	ASUC Bootcamp		SEN		"$2,000"															
+	ASUC Conference		SEN		"$2,000"															
+	Senate Leadership Institute / Senate Meetings		SEN		"$5,000"															
+	Senators' Discretionary Funds ($500.00 each)		SEN		"$10,000"															
+	Senators' Stipend ($500.00 each)		SEN		"$10,000"													
+	2 Student Union Board of Directors Stipend ($100 each)		AOFR		$200															
+	Chief Appointed Officials Support Staff Stipends 		AOFR		$500															
+	Chief Communication Officer Stipend		AOFR		"$2,000"															
+	Chief Financial Officer Stipend		AOFR		"$2,000"															
+	Chief Legal Officer Stipend		AOFR		"$2,000"															
+	Chief Personnel Officer Stipend		AOFR		"$2,000"															
+	Chief Technology Officer Stipend		AOFR		"$2,000"															
+	Judicial Council Office		AOFR		$0															
+	Livestream Coordinator Stipend		AOFR		$500															
+	Marketing and Communications Office (Discretionary)		AOFR		"$5,000"															
+	Legal Office		AOFR		$105															
+	Finance Office		AOFR		$500															
+	Public Defender Stipend		AOFR		$150															
+	Archives		OPRS		$0															
+	ASUC Administrative Office		OPRS		"$73,000"															
+	ASUC End of Year Banquet		OPRS		"$3,000"															
+	Audit		OPRS		"$25,000"															
+	Bank Fee		OPRS		"$1,000"															
+	Big Ideas		OPRS		"$15,000"															
+	Capital Improvement Fund Allocation		OPRS		"$30,000"															
+	Contingency		OPRS		"$100,000"															
+	Emergency Legal Defense Fund		OPRS		"$190,000"															
+	Legal Fee		OPRS		"$32,000"															
+	Long Term Investment		OPRS		"$1,000"														
+	Elections Council - Chief of Staff Stipend		ELCT		$250															
+	Elections Council - 3 Auditor/Prosecutor Assistant Stipends ($100.00 each)		ELCT		$300															
+	Elections Council - Assistant Chair Stipend		ELCT		$300															
+	Elections Council - Chair Stipend		ELCT		"$1,000"															
+	Elections Council - Chief Auditor Stipend		ELCT		$350															
+	Elections Council - Prosecutor Stipend		ELCT		$300															
+	Elections Operations		ELCT		"$4,500"															
+	D&O Insurance		GEN		"$2,000"															
+	GL Insurance		GEN		"$18,000"
