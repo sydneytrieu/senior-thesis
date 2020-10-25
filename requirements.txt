@@ -1,7 +1,8 @@
-datascience
+IPython
 pandas
 numpy
 matplotlib
-IPython
 scipy
 re
+pickle
+selenium
