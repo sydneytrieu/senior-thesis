@@ -1,0 +1,1680 @@
+,Organization,Designation
+0,#Downcrew,Performing Arts RSO 
+1,*African American Student Development*,Campus Department
+2,*Asian Pacific American Student Development*,Campus Department
+3,"*
+*ASUC Student Union Event Services*",Campus Department
+4,*Berkeley Art Studio*,Campus Department
+5,*Chicanx Latinx Student Development*,Campus Department
+6,*LEAD Center*,Campus Department
+7,*Multicultural Community Center*,Campus Department
+8,*Native American Student Development*,Campus Department
+9,*Student Environmental Resource Center*,Campus Department
+10,*The Green Initiative Fund*,Campus Department
+11,*UC Berkeley Campus Libraries*,Campus Department
+12,*UC Berkeley Career Center*,Campus Department
+13,*UC Berkeley Gender Equity Resource Center*,Campus Department
+14,*UC Berkeley Public Service Center*,Campus Department
+15,180 Degrees Consulting at Berkeley,Service RSO 
+16,3D Modeling and Animation at Berkeley,Technology RSO 
+17,3DMC,Media & Film RSO 
+18,7 Cups at Berkeley,Health & Wellness RSO 
+19,A Better Way at Berkeley,Service RSO 
+20,AAVP Grants,ASUC Government Program 
+21,ABA,Professional RSO 
+22,Abba Modern,Performing Arts RSO 
+23,"A
+ABC Sketches",Media & Film RSO 
+24,Academic Cultural Enrichment Coaches,Service RSO 
+25,AccelerateHer@Berkeley,Professional RSO 
+26,Active for Alzheimer's at Berkeley,Service RSO 
+27,acts2fellowship,Spiritual RSO 
+28,Adventist Christian Fellowship,Spiritual RSO 
+29,"A
+Advocacy Agenda",ASUC Government Program 
+30,Aerospace SAE,Technology RSO 
+31,Afghan Student Association,Cultural & Identity/International RSO 
+32,African American Student Leadership Team,Cultural & Identity/Cultural & Ethnic RSO 
+33,"A
+African American Studies",Campus Department
+34,AFX Dance,Performing Arts RSO 
+35,"A
+Alianza Latinx for Public Health Action",Professional RSO 
+36,Alliance for Diversity in Science and Engineering Chapter at Berkeley,Academic RSO 
+37,Alpha Chi Omega,CalGreeks Panhellenic Council (PHC) Sororities 
+38,Alpha Chi Sigma Professional Chemistry Fraternity,Academic RSO 
+39,Alpha Delta Phi,CalGreeks Interfraternity Council (IFC) Fraternities 
+40,Alpha Delta Pi,CalGreeks Panhellenic Council (PHC) Sororities 
+41,Alpha Epsilon Pi,CalGreeks Interfraternity Council (IFC) Fraternities 
+42,"Alpha Epsilon Zeta Fraternity, Inc.",Professional RSO 
+43,Alpha Gamma Omega,CalGreeks Interfraternity Council (IFC) Fraternities 
+44,"Alpha Kappa Alpha Sorority, Inc.",CalGreeks National Pan-Hellenic Council (NPHC) Fraternities & Sororities 
+45,Alpha Kappa Psi,Academic RSO 
+46,Alpha Phi,CalGreeks Panhellenic Council (PHC) Sororities 
+47,"Alpha Phi Alpha Fraternity, Inc.",CalGreeks National Pan-Hellenic Council (NPHC) Fraternities & Sororities 
+48,Alpha Phi Omega,Service RSO 
+49,Alpha Rho Chi,Academic RSO 
+50,Alpha Sigma Phi,CalGreeks Interfraternity Council (IFC) Fraternities 
+51,Alpha Tau Omega,CalGreeks Interfraternity Council (IFC) Fraternities 
+52,"Alt. Protein Project of Berkeley, The",Academic RSO 
+53,Alternative Breaks,Service RSO 
+54,Alzheimer's Association at Berkeley,Health & Wellness RSO 
+55,American Advertising Federation,Professional RSO 
+56,American Chemical Society at Berkeley Student Chapter,Professional RSO 
+57,American Constitution Society at Berkeley,Academic RSO 
+58,American Enterprise Institute - Executive Council at Berkeley,Political & Advocacy 
+59,American Indian Graduate Student Association,Cultural & Identity/Cultural & Ethnic RSO 
+60,American Institute of Aeronautics and Astronautics,Departmental RSO 
+61,American Institute of Architecture Students,Professional RSO 
+62,American Institute of Chemical Engineers,Departmental RSO 
+63,American Medical Student Association--Berkeley Premedical Chapter,Professional RSO 
+64,American Medical Women's Association at Berkeley,Cultural & Identity/Women Interest RSO 
+65,American Nuclear Society,Academic RSO 
+66,American Optometric Student Association,Professional RSO 
+67,American Physician Scientist Association at Berkeley,Professional RSO 
+68,American Red Cross at Cal,Service RSO 
+69,American Society for Biochemistry and Molecular Biology,Professional RSO 
+70,American Society of Civil Engineers,Academic RSO 
+71,American Society of Landscape Architects,Professional RSO 
+72,American Society of Mechanical Engineers,Professional RSO 
+73,Amigos,Recreational RSO 
+74,Amnesty International,Service RSO 
+75,Animal Law Society at Berkeley Law [Formerly Boalt Hall Animal Law Society],Professional RSO 
+76,Animal Spirits Writing Group,Academic RSO 
+77,ANova,Service RSO 
+78,"A
+Anthropology Students Organized for Research and Action",Departmental RSO 
+79,"A
+Anthropology Undergraduate Association",Departmental RSO 
+80,Anti-Trafficking Coalition at Berkeley,Service RSO 
+81,Arab Student Union,Cultural & Identity/International RSO 
+82,ARC Repertory Theatre (ARC Rep),Performing Arts RSO 
+83,Argentine Tango Club of Berkeley,Performing Arts RSO 
+84,Ark College Group,Spiritual RSO 
+85,Armenian Student Association,Cultural & Identity/International RSO 
+86,Army Color Guard,Departmental RSO 
+87,Army ROTC Cadet Club,Departmental RSO 
+88,Arnold Air Society,Professional RSO 
+89,Art and Mind,Arts RSO 
+90,"A
+Art Practice at Berkeley",Arts RSO 
+91,Artists in Resonance,Performing Arts RSO 
+92,"A
+Arts and Innovation Advocates",Arts RSO 
+93,ASCEND,Professional RSO 
+94,"Asha for Education, Berkeley",Service RSO 
+95,Asian & Pacific Islander Women’s Circle,Cultural & Identity/Women Interest RSO 
+96,Asian American and Pacific Islander Health Research Group,Health & Wellness RSO 
+97,Asian American Association,Cultural & Identity/Cultural & Ethnic RSO 
+98,Asian American Christian Fellowship,Spiritual RSO 
+99,Asian American Law Journal,Publications RSO 
+100,Asian American Studies,No Response
+101,Asian Pacific American Law Students Association,Professional RSO 
+102,Asian Pacific American Pre-Law Association,Cultural & Identity/Cultural & Ethnic RSO 
+103,Asian Pacific Islander Social Worker Caucus,Cultural & Identity/Cultural & Ethnic RSO 
+104,"A
+Assistants, Therapists, And Practitioners at Berkeley",Academic RSO 
+105,Associated Graduates in Near Eastern Studies,Departmental RSO 
+106,Association for Muslim Professional Development,Professional RSO 
+107,Association for Socially Responsible Business,Professional RSO 
+108,Association of Chinese Entrepreneurs at Berkeley,Professional RSO 
+109,Association of Korean Artists,Performing Arts RSO 
+110,"A
+Association of Public Health Infectious Disease Students at Berkeley",Health & Wellness RSO 
+111,ASUC - Elections Council,ASUC Government Office 
+112,ASUC - Office of Academic Affairs,ASUC Government Office 
+113,ASUC - Office of External Affairs,ASUC Government Office 
+114,ASUC - Office of the Executive Vice President,ASUC Government Office 
+115,ASUC - Office of the President,ASUC Government Office 
+116,ASUC - Senate,ASUC Government Office 
+117,ASUC AAVP Scholarships,ASUC Government Office 
+118,ASUC Admin Office,ASUC Government Office 
+119,"A
+ASUC Appointed Officials Support Staff",ASUC Government Office 
+120,ASUC Commercial Revenue (Cal Lodge),ASUC Government Office 
+121,ASUC Diversity Affairs Commission,ASUC Government Program 
+122,"A
+ASUC Executive Office Leadership Institute",ASUC Government Program 
+123,"A
+ASUC Finance Office- Chief Finance Officer (CFO)",ASUC Government Office 
+124,ASUC Financial Wellness Commission,ASUC Government Office 
+125,ASUC Housing Commission,ASUC Government Office 
+126,"A
+ASUC Intern Program",ASUC Government Program 
+127,ASUC Intimate Partner Violence Commission,ASUC Government Office 
+128,ASUC Judicial Council,ASUC Government Office 
+129,"A
+ASUC Legal Office - Chief Legal Officer (CLO)",ASUC Government Office 
+130,ASUC Marketing and Communications Office- Chief Communications Officer (CCO),ASUC Government Office 
+131,ASUC Mental Health Commission,ASUC Government Office 
+132,"A
+ASUC Office of Senator Carolyn Le",ASUC Government Office 
+133,"A
+ASUC Office of Senator Derek Imai",ASUC Government Office 
+134,"A
+ASUC Office of Senator Emily Fregoso",ASUC Government Office 
+135,"A
+ASUC Office of Senator Evina Wang",ASUC Government Office 
+136,"A
+ASUC Office of Senator Haazim Amirali",ASUC Government Office 
+137,"A
+ASUC Office of Senator Jeremiah Kim",ASUC Government Office 
+138,ASUC Office of Senator Joseph Besgen,ASUC Government Office 
+139,"A
+ASUC Office of Senator Liam Will",ASUC Government Office 
+140,"A
+ASUC Office of Senator Media Sina",ASUC Government Office 
+141,"A
+ASUC Office of Senator Melvin Tangonan",ASUC Government Office 
+142,ASUC Office of Senator Nicole Anyanwu,ASUC Government Office 
+143,ASUC Office of Senator Omotara Oloye,ASUC Government Office 
+144,"A
+ASUC Office of Senator Rebecca Soo",ASUC Government Office 
+145,"A
+ASUC Office of Senator Rocky Gerosa",ASUC Government Office 
+146,"A
+ASUC Office of Senator Romario",ASUC Government Office 
+147,"A
+ASUC Office of Senator Senator Pedro De Anda Plascencia",ASUC Government Office 
+148,ASUC Office of Senator Shelby Weiss,ASUC Government Office 
+149,"A
+ASUC Office of Senator Sitara Bellam",ASUC Government Office 
+150,"A
+ASUC Office of Senator Sumrit Grewal",ASUC Government Office 
+151,"A
+ASUC Office of Senator Sylvia Targ",ASUC Government Office 
+152,"A
+ASUC Office of Senator William Wang",ASUC Government Office 
+153,"A
+ASUC Personnel Office- Chief Personnel Officer (CPO)",ASUC Government Office 
+154,"ASUC Perspectives, an ASUC Program under the Office of the President",ASUC Government Program 
+155,ASUC Police Oversight Commission,ASUC Government Program 
+156,"A
+ASUC Post-Traditional Student Commission",ASUC Government Program 
+157,ASUC Publications and Media Board,ASUC Chartered Program 
+158,"A
+ASUC Restorative Justice Commission",ASUC Government Office 
+159,ASUC Senate Contingency Fund,ASUC Government Program 
+160,ASUC Sexual Violence Commission,ASUC Government Program 
+161,ASUC Student Advocate Office,ASUC Government Office 
+162,ASUC Student Legal Clinic,Service RSO 
+163,ASUC Student Union Program Entertainment & Recreation Board,ASUC Chartered Program 
+164,ASUC Sustainability Commission,ASUC Government Program 
+165,"A
+ASUC Technology Office- Chief Technology Officer (CTO)",ASUC Government Office 
+166,Atmospheric Science Association of Berkeley,Academic RSO 
+167,Aurora Consulting,Professional RSO 
+168,Aurum Cosmetics,Technology RSO 
+169,"A
+Autonomous Motion at California",Technology RSO 
+170,Azaad,Performing Arts RSO 
+171,"B-Side, The",Publications RSO 
+172,BACC Campus,Spiritual RSO 
+173,Ballet Company at Berkeley,Performing Arts RSO 
+174,Ballet Folklorico Reflejos De Mexico,Performing Arts RSO 
+175,Bangali Student Association at Berkeley,Cultural & Identity/International RSO 
+176,"B
+Bank of the West Student Organization Grant Program",Campus Department
+177,BAPS Campus Fellowship,Spiritual RSO 
+178,Barbell at Berkeley,Recreational RSO 
+179,BARE Magazine,Publications RSO 
+180,Bay Area Environmentally Aware Consulting Network,Environmental & Sustainability RSO 
+181,"B
+Bay Area Optometric Council Mentorship Program at Berkeley",Academic RSO 
+182,Bay Area Scientists in Schools at Berkeley,Service RSO 
+183,Bay Area Vision Research Day,Academic RSO 
+184,BCS Organizing Committee,Professional RSO 
+185,Be The Match On Campus at Berkeley,Service RSO 
+186,Bear Baller Brand,Recreational RSO 
+187,"B
+Bear Buddies at Berkeley Law",Recreational RSO 
+188,Bear Closet,Cultural & Identity/LGBTQ+ RSO 
+189,Bear Connections,Professional RSO 
+190,Bear Power Fund,Service RSO 
+191,"Bearettes Drill Team at Berkeley, The",Performing Arts RSO 
+192,Bears Against ICE,Political & Advocacy RSO 
+193,Bears for Elder Welfare,Service RSO 
+194,Bears for Israel,Political & Advocacy RSO 
+195,Bears for Palestine,Cultural & Identity/International RSO 
+196,"B
+BearShare",Service RSO 
+197,"B
+BERC Law",Environmental & Sustainability RSO 
+198,BERC Undergraduate,Environmental & Sustainability RSO 
+199,BERKE1337 Cyber Security Team,Technology RSO 
+200,Berkeley Art Museum Pacific Film Archive Student Committee,Arts RSO 
+201,Berkeley Bahai Club,Spiritual Organization 
+202,Berkeley Ballroom Dancers,Performing Arts RSO 
+203,Berkeley Business Society,Professional RSO 
+204,Berkeley Cambodian Students Association,Cultural & Identity/International RSO 
+205,Berkeley Carillon Guild,Performing Arts RSO 
+206,Berkeley Chinese Students and Scholars Association,Cultural & Identity/International RSO 
+207,Berkeley Christian Fellowship,Spiritual RSO 
+208,Berkeley College Republicans,Political & Advocacy RSO 
+209,"B
+Berkeley Conservative Society",Political & Advocacy RSO 
+210,Berkeley Consulting,Professional RSO 
+211,Berkeley Disaster Team,Service RSO 
+212,Berkeley Economic Review,Academic RSO 
+213,Berkeley Energy and Resources Collaborative (Graduate group),Environmental & Sustainability RSO 
+214,Berkeley Fiction Review,Publications RSO 
+215,"Berkeley Forum, The",Professional RSO 
+216,"B
+Berkeley Graduate, The",GA Government Office 
+217,"Berkeley Group, The",Professional RSO 
+218,Berkeley Indonesian Student Association,Cultural & Identity/International RSO 
+219,Berkeley Innovation,Arts RSO 
+220,Berkeley International Office,Campus Department
+221,Berkeley Investment Group,Professional RSO 
+222,Berkeley Journal of African American Law and Policy,Publications RSO 
+223,Berkeley Journal of Criminal Law,Publications RSO 
+224,"B
+Berkeley Journal of Employment and Labor Law",Publications RSO 
+225,Berkeley Journal of Entertainment and Sports Law,Academic RSO 
+226,"Berkeley Journal of Gender, Law & Justice",Publications RSO 
+227,Berkeley Journal of International Law,Publications RSO 
+228,Berkeley Law & Organizing Collective,Professional RSO 
+229,Berkeley Law Anti-Trafficking Project,Service RSO 
+230,"B
+Berkeley Law Muslim Student Association (formerly Boalt Hall Muslim Student Association)",Spiritual RSO 
+231,Berkeley Legal Studies Association,Academic RSO 
+232,Berkeley Medical Reserve Corps,Health & Wellness RSO 
+233,Berkeley Model United Nations Conference (Formerly known as Berkeley Model United Nations),Academic RSO 
+234,Berkeley Nanotechnology Club,Academic RSO 
+235,Berkeley New Music Project,Academic RSO 
+236,Berkeley Organization for Animal Advocacy,Political & Advocacy RSO 
+237,Berkeley Poetry Review,Publications RSO 
+238,"Berkeley Political Review, The",Publications RSO 
+239,"Berkeley Project, The",Service RSO 
+240,Berkeley Public Policy Journal,Publications RSO 
+241,Berkeley Review of Education,Publications RSO 
+242,Berkeley Science Review,Publications RSO 
+243,Berkeley Scientific Journal,Publications RSO 
+244,"B
+Berkeley Student Foundation",ASUC Government Program 
+245,"B
+Berkeley Technology Law Journal",Publications RSO 
+246,Berkeley Tennis Association (Formerly Tennis at Cal),Recreational RSO 
+247,Berkeley Undergraduate Journal,Publications RSO 
+248,Berkeley Water Group Idea Lab,Environmental & Sustainability RSO 
+249,Berkeley Women in Business,Cultural & Identity/Women Interest RSO 
+250,Berksan,Recreational RSO 
+251,Best Buddies at Berkeley,Service RSO 
+252,Best Laid Plans,Performing Arts RSO 
+253,Beta Alpha Psi,Professional RSO 
+254,Beta Corporate Solutions,Professional RSO 
+255,"B
+Beta Sigma Kappa",Professional RSO 
+256,Better Beaches at Berkeley,Environmental
+257,Beyond Academia,Academic RSO 
+258,Beyond the Binary (formerly known as Non-Binary Alliance),Cultural & Identity/LGBTQ+ RSO 
+259,Bhagat Puran Singh Health Initiative at Berkeley,Health & Wellness RSO 
+260,Bias Busters,Departmental RSO 
+261,BicyCal,Environmental & Sustainability RSO 
+262,Big Data at Berkeley,Academic RSO 
+263,"B
+Big Ideas@Berkeley",Campus Department - Advised by Millicent Morris Chaney
+264,Bio-Business Initiative,Professional RSO 
+265,BioEngineering Association of Students,Academic RSO 
+266,Bioengineering Honor Society,Academic RSO 
+267,"B
+BioethiCAL",Academic RSO 
+268,Biofuels Technology Club,Environmental & Sustainability RSO 
+269,Biomedical Engineering Society,Academic RSO 
+270,Biophysics Graduate Group,Departmental RSO 
+271,Bioprinting at Berkeley,Technology RSO 
+272,"B
+Biostatistics Graduate Student Association",Academic RSO 
+273,Black Advocates for Equity in Health,Departmental RSO 
+274,Black Campus Ministries @ Cal,Spiritual RSO 
+275,Black Engineering and Science Students Association,Cultural & Identity/Cultural & Ethnic RSO 
+276,"B
+Black Geographies at Berkeley",Academic RSO 
+277,Black Graduate Engineering and Science Students,Cultural & Identity/Cultural & Ethnic RSO 
+278,Black Graduate Student Association,Cultural & Identity/Cultural & Ethnic RSO 
+279,Black Pre-Law Association at Berkeley,Professional RSO 
+280,Black Recruitment and Retention Center,Sponsored - bridges 
+281,Black Sociological Alliance,Cultural & Identity/Cultural & Ethnic RSO 
+282,Black Student Union,Cultural & Identity/Cultural & Ethnic RSO 
+283,Black Students in Health Association,Cultural & Identity/Cultural & Ethnic RSO 
+284,Blacks in Public Policy,Academic RSO 
+285,"B
+BlackWater Equity Analysis & Research",Professional RSO 
+286,"B
+Blockchain at Berkeley (formerly Bitcoin Association of Berkeley)",Technology RSO 
+287,Blood Pressure Project,Service RSO 
+288,Blue and Gold Yearbook,Publications RSO 
+289,"Blueprint, Technology for Nonprofits",Service RSO 
+290,Boalt Immigration Group,Political & Advocacy RSO 
+291,Boalt on Break,Service RSO 
+292,Board Games at Berkeley,Recreational RSO 
+293,Board of Advocates,Political & Advocacy RSO 
+294,Bold Venture Partners,Professional RSO 
+295,Bone Health Initiative,Health & Wellness RSO 
+296,"Book Club of Berkeley, The",Recreational RSO 
+297,Bootleg Comedy (formerly Mainline Comedy Force),Performing Arts 
+298,Borders and Bodies Collective,Political & Advocacy RSO 
+299,Boricuas at Berkeley,Cultural & Identity/Cultural & Ethnic RSO 
+300,"B
+Bowlt Hall Boaling Society",Professional RSO 
+301,BrainTrust,Health & Wellness RSO 
+302,Brave Resistance Against Inter-Partner Violence,Political & Advocacy RSO 
+303,Brazilian Student Association at Berkeley,Cultural & Identity/International RSO 
+304,"B
+Bread & Roses",Academic RSO 
+305,Breathe at Berkeley,Health & Wellness RSO 
+306,bridges Multicultural Resource Center,Sponsored - bridges 
+307,BridgeUSA at Berkeley,Political & Advocacy RSO 
+308,Bringing Law into Science and Society at Berkeley,Academic RSO 
+309,Brown Issues,Service RSO 
+310,BSCF,Professional RSO 
+311,BUILD Literacy Program,Service RSO 
+312,Building Sustainability at Cal,Environmental & Sustainability RSO 
+313,"B
+Bullet Journal Bears",Arts RSO 
+314,Burma Association at Berkeley,Cultural & Identity/International RSO 
+315,Business Careers in Entertainment Club,Professional RSO 
+316,Business Review at Berkeley,Publications RSO 
+317,Business Transfer Network of Berkeley,Professional RSO 
+318,"C
+CafeCat: Grup de conversa en català",Cultural & Identity/International RSO 
+319,Cal Actuarial League,Professional RSO 
+320,Cal Alumni Student Association,Academic RSO 
+321,Cal American Civil Liberties Union,Political & Advocacy RSO 
+322,Cal Animage Alpha,Media & Film RSO 
+323,Cal Berkeley Democrats,Political & Advocacy RSO 
+324,Cal Bhangra (formerly Golden Bear Competitive Bhangra),Performing Arts RSO 
+325,Cal Christian Fellowship,Spiritual RSO 
+326,Cal Community Music,Performing Arts RSO 
+327,Cal Convergent,Professional RSO 
+328,Cal Dragon Boat,Recreational RSO 
+329,Cal Habitat for Humanity,Service RSO 
+330,Cal Hang-Gliding Club,Recreational RSO 
+331,Cal Hawai'i Club,Cultural & Identity/Cultural & Ethnic RSO 
+332,Cal Hiking and Outdoor Society,Recreational RSO 
+333,Cal in Local Government,Service RSO 
+334,Cal in the Capital,Service RSO 
+335,"C
+Cal Interfaith Council",Supporting the LEAD Center Spiritual Organization communituy
+336,Cal Japan Club,Cultural & Identity/Cultural & Ethnic RSO 
+337,Cal Literature & Arts Magazine,Publications RSO 
+338,Cal Performances Student Ambassadors for the Arts,Arts RSO 
+339,Cal Pre-Vet Club,Academic RSO 
+340,Cal Queer & Asian,Cultural & Identity/LGBTQ+ RSO 
+341,Cal Rotaract,Service RSO 
+342,Cal Running Club,Recreational RSO 
+343,Cal Seismic Design Team,Departmental RSO 
+344,Cal Student Assistance for Public Health,Service RSO 
+345,Cal Student Philanthropy,Service RSO 
+346,Cal Super Mileage Vehicle Team,Departmental RSO 
+347,Cal Taiko,Performing Arts RSO 
+348,Cal Undergraduate Public Health Coalition,Academic RSO 
+349,Cal Veterans Group,Cultural & Identity/Cultural & Ethnic RSO 
+350,CalGreeks Alcohol Task Force,CalGreeks Fraternity & Sorority Support Organizations 
+351,Caliber Magazine,Publications RSO 
+352,California Archery,Recreational RSO 
+353,"C
+California Asylum Representation Clinic",Political & Advocacy RSO 
+354,California CrossFit Club,Recreational RSO 
+355,California Health Professional Student Alliance at UC Berkeley,Political & Advocacy RSO 
+356,California Mock Trial,Academic RSO 
+357,California Public Interest Research Group,Political & Advocacy RSO 
+358,"Californians, The",Sponsored RSO 
+359,"C
+CALLINK TEST ORGANIZATION",Service Student Orgs - Advised by Millicent Morris
+360,CalSlam,Performing Arts RSO 
+361,CalSol,Professional RSO 
+362,CalTV,ASUC Chartered Program 
+363,Camp Alima at Berkeley,Service RSO 
+364,Camp Kesem Berkeley,Service RSO 
+365,Campus Evangelistic Fellowship - Mandarin Group,Spiritual RSO 
+366,Cannabis Law Society,Professional RSO 
+367,Capital Investments at Berkeley,Professional RSO 
+368,"C
+Capri Club",Spiritual RSO 
+369,Caravan Travel & Style Magazine,Publications RSO 
+370,"C
+Casa Esperanza",Service RSO 
+371,Casa Joaquin Murrieta,Professional RSO 
+372,Catholic Students at Cal - Newman Hall,Spiritual RSO 
+373,Catholics at Berkeley Law,Spiritual RSO 
+374,CED Students of Color,Cultural & Identity/Cultural & Ethnic RSO 
+375,Central Americans for Empowerment at Berkeley,Cultural & Identity/International RSO 
+376,Chabad Jewish Student Group at Berkeley,Spiritual RSO 
+377,"C
+Chagas Disease Initiative",Service RSO 
+378,Chamber Chorus Association,Performing Arts RSO 
+379,Chec Consulting (Formerly Chemical Engineering Consulting),Professional RSO 
+380,Chemical and Biomolecular Engineering Graduate Student Advisory Committee,Departmental RSO 
+381,Chemical Engineering Car,Academic RSO 
+382,Chemistry Graduate Life Committee,Departmental RSO 
+383,Chess Club at Berkeley,Recreational RSO 
+384,Chi Epsilon - Civil Engineering Honor Society,Academic RSO 
+385,Chi Omega,CalGreeks Panhellenic Council (PHC) Sororities 
+386,Chi Phi,CalGreeks Interfraternity Council (IFC) Fraternities 
+387,Chi Psi,CalGreeks Interfraternity Council (IFC) Fraternities 
+388,"C
+Chicano Studies",Campus Department
+389,Chicano(a)s/Latino(a)s in Health Education,Cultural & Identity/Cultural & Ethnic RSO 
+390,Chicanx/ Latinx Architecture Student Association [Formerly Chican@/ Latin@ Architecture Student Association],Cultural & Identity/Cultural & Ethnic RSO 
+391,China Law Association at Berkeley,Cultural & Identity/Cultural & Ethnic RSO 
+392,Chinese A Cappella at Berkeley,Performing Arts RSO 
+393,Chinese Finance Club,Professional RSO 
+394,Chinese Graduate and Postdoctoral Scholars Association,Cultural & Identity/Cultural & Ethnic RSO 
+395,Chinese People Union,Cultural & Identity/International RSO 
+396,Chinese Photography Association at Berkeley,Arts RSO 
+397,Chinese Psychology Group at Berkeley,Cultural & Identity/International RSO 
+398,CHINESE READING GROUP AT BERKELEY,Cultural & Identity/International RSO 
+399,Chinese Student Association,Cultural & Identity/International RSO 
+400,Chinese Student Theatre Company,Performing Arts RSO 
+401,Chinmaya Yuva Kendra West at Berkeley,Performing Arts RSO 
+402,Christian Medical and Dental Associations Chapter at Berkeley,Health & Wellness RSO 
+403,"C
+Christians at BerkeleyLaw",Spiritual RSO 
+404,Christians on Campus,Spiritual RSO 
+405,Chun Jin Ahm,Spiritual RSO 
+406,Cinebears,Media & Film RSO 
+407,Cinematic Arts and Production Club,Media & Film RSO 
+408,Circle K International,Service RSO 
+409,Citizen Entrepreneur Network at Berkeley,Professional RSO 
+410,"Citizens Foundation at Berkeley, The",Service RSO 
+411,City Planning + Public Health Master's Students Committee,Professional RSO 
+412,Civil and Environmental Engineering Joint Fundraising Committee,Academic RSO 
+413,"C
+Civil Discourse Society of Berkeley",Political & Advocacy RSO 
+414,"Classical Forum, The",Academic RSO 
+415,"CLEAR Project, The",Academic RSO 
+416,Climbing Team of Berkeley,Recreational RSO 
+417,Clio's Scroll,Publications RSO 
+418,CMG Strategy Consulting (Formerly Creative Marketing Group),Professional RSO 
+419,CNMAT Users Group,Academic RSO 
+420,Coaching Corps at Berkeley,Service RSO 
+421,Coalition for Diversity at Berkeley Law,Departmental RSO 
+422,"C
+Coalition for Self-Determination",Political & Advocacy RSO 
+423,"Coalition for the Institutionalization of Free Menstrual Products, The",Health & Wellness RSO 
+424,"C
+Coalition of Concerned Medical Professionals at Berkeley",Service RSO 
+425,Coalition to Defend Affirmative Action By Any Means Necessary,Political & Advocacy RSO 
+426,Cocoa & Company,Professional RSO 
+427,CodeBase,Lead Center Category: Professional RSO - Advised by Deepak Sharma
+428,Codeology,Technology RSO 
+429,Cognitive Science Students Association,Academic RSO 
+430,"C
+Cognizance",Academic RSO 
+431,College Diabetes Network at Berkeley,Health & Wellness RSO 
+432,"C
+College of Chemistry Article Club",Departmental RSO 
+433,Colleges Against Cancer,Service RSO 
+434,Collegiate 100 (formerly 100 College Black Men),Cultural & Identity/Cultural & Ethnic RSO 
+435,"C
+Colombians at Berkeley",Cultural & Identity/International RSO 
+436,Colors of Theater,Cultural & Identity/Cultural & Ethnic RSO 
+437,Committee for Korea Studies,Cultural & Identity/International RSO 
+438,"C
+Community Building Fund",ASUC Government Program 
+439,Community Legal Outreach,Service RSO 
+440,"C
+Community Projects",Service RSO 
+441,"C
+Community Restorative Justice",Service RSO 
+442,Community Spotlight,Service RSO 
+443,Comparative Literature Undergraduate Journal,Publications RSO 
+444,Computational Materials at Berkeley,Professional RSO 
+445,Computer Science Mentors,Departmental RSO 
+446,Computer Science Undergraduate Association,Academic RSO 
+447,Concrete Canoe,Departmental RSO 
+448,Confi,Health & Wellness RSO 
+449,Conscious and Responsible Engineering and Science,Service RSO - Advised by Millicent Morris
+450,Construction Competition Team,Professional RSO 
+451,Consult Your Community (CYC) at Berkeley,Professional RSO 
+452,Consulting Regionally in Biotech at Berkeley,Professional RSO 
+453,Consulting School,Professional RSO 
+454,Consumer Advocacy and Protection Society,Professional RSO 
+455,Consumer Rights Workshop,Service RSO 
+456,"C
+Contra Costa Reentry Project",Service RSO 
+457,"C
+COOPERATIVE OPPORTUNITY FUND",ASUC Government Program 
+458,Coptic Club at Berkeley,Spiritual RSO 
+459,Corral Correspondence,Service RSO 
+460,Cosmopolitan Philosophy at Berkeley,Academic RSO 
+461,"C
+Crabbers and Anglers of Berkeley",Environmental & Sustainability RSO 
+462,Creative Applications to Life in Origami,Arts RSO 
+463,"C
+Creative Arts to Reinspire and Empower",Arts RSO 
+464,Creative Residencies for Emerging Artists Teaching Empowerment,Service RSO 
+465,Cricket Club of Berkeley,Recreational RSO 
+466,"C
+Criminal Defense Society",Professional RSO 
+467,Crohn's and Colitis Awareness Society,Health & Wellness RSO 
+468,Crossroads Christian Fellowship: Chinese for Christ Berkeley Church,Recreational RSO 
+469,CRSSO - Conservation & Resource Studies Student Organization,Environmental & Sustainability RSO 
+470,Cru,Spiritual RSO 
+471,CS KickStart,Academic RSO 
+472,Curling Club at Berkeley,Recreational RSO 
+473,Daily Californian,Publications RSO 
+474,Dance Board of Berkeley Dance Community,Performing Arts RSO 
+475,Dance For All Bodies,Service RSO 
+476,Dance the Bay,Performing Arts RSO 
+477,Danceworx,Performing Arts RSO 
+478,Daraja at Berkeley,Service RSO 
+479,Data Bears,Technology RSO 
+480,Data Science Society at Berkeley,Technology RSO 
+481,"D
+DataStory",Academic RSO 
+482,Datong Society of China Studies at Berkeley,Departmental RSO 
+483,De Colores [Formerly Young Queers United for Empowerment],Cultural & Identity/LGBTQ+ RSO 
+484,De-stress with Dogs,Health & Wellness RSO 
+485,Debate Society of Berkeley,Academic RSO 
+486,DeCadence,Performing Arts RSO 
+487,Delta Delta Delta,CalGreeks Panhellenic Council (PHC) Sororities 
+488,Delta Gamma,CalGreeks Panhellenic Council (PHC) Sororities 
+489,Delta Kappa Alpha,Professional RSO 
+490,Delta Phi Epsilon Co-ed Professional Foreign Service Fraternity,Professional RSO 
+491,Delta Sigma,CalGreeks Panhellenic Council (PHC) Sororities 
+492,Delta Sigma Phi,CalGreeks Interfraternity Council (IFC) Fraternities 
+493,"Delta Sigma Theta Sorority, Inc.",CalGreeks National Pan-Hellenic Council (NPHC) Fraternities & Sororities 
+494,Delta Upsilon,CalGreeks Interfraternity Council (IFC) Fraternities 
+495,Delta Xi Phi Multicultural Sorority,CalGreeks Multicultural Greek Council (MCGC) Fraternities & Sororities 
+496,Democratic Education at Cal,ASUC Chartered Program 
+497,Department of Integrative Biology Students,Departmental RSO 
+498,Der Kreis,Academic Organizations 
+499,Development Solutions Organization (DSO),Professional RSO 
+500,"D
+Digital Rights Project",Service RSO 
+501,Dil Se,Performing Arts RSO 
+502,"D
+Disabled Law Student and Allies Association",Cultural & Identity/Cultural & Ethnic RSO 
+503,Disney Club at Berkeley,Recreational RSO 
+504,DiversaTech,Technology RSO 
+505,Doctors Without Borders at Berkeley,Service RSO - Advised by Millicent Morris
+506,Drawn to Scale,Performing Arts RSO 
+507,DREAM Campus Ministry,Service RSO 
+508,"D
+DUPE - GA Neuroimaging Student Group at Berkeley",GA Government Project 
+509,Dutch Student Association at Berkeley,Cultural & Identity/International RSO 
+510,Dwinelle Hall Breakers,Recreational RSO 
+511,"E
+Earth Week Committee",ASUC Government Program 
+512,Earthquake Engineering Research Institute at Berkeley,Academic RSO 
+513,East Asian Union,Cultural & Identity/International RSO 
+514,"E
+East Bay Business and Medical Translation Association",Service RSO 
+515,East Bay Dreamers Project,Service RSO 
+516,East Coast Student Union,Cultural & Identity/Cultural & Ethnic RSO 
+517,ecode,Technology RSO 
+518,Ecology Law Quarterly,Publications RSO 
+519,"E
+Economists at Berkeley",Academic RSO 
+520,Education Initiative for Development,Service Organization 
+521,Education Practitioners and Innovators of China at Berkeley,Professional RSO 
+522,EECS Graduate Student League,Recreational RSO 
+523,Effective Altruists of Berkeley,Service RSO 
+524,Eggster Organization,Service RSO 
+525,EGO (Cal's Traditional Korean Percussion Group),Performing Arts RSO 
+526,"E
+Egyptian Student Association at Berkeley",Cultural & Identity/International RSO 
+527,ElectionLaw@Boalt,Academic RSO 
+528,"E
+Electrical Engineering Graduate Student Association",Academic RSO 
+529,Eleven: The Undergraduate Journal of Sociology,Publications RSO 
+530,"E
+Empowering Women of Color Conference",GA Government Project 
+531,EnableTech,Professional RSO 
+532,Enactus of Berkeley (formerly SIFE),Professional RSO 
+533,Endocrinology Graduate Student Group,Academic RSO 
+534,Energy and Resources Grad Students (ERGS),Academic Student Orgs 
+535,"E
+Energy and Resources Group Student Advocacy Committee for Equity and Inclusion",Academic RSO 
+536,Engineering and Project Management Society,Professional RSO 
+537,Engineering for Kids,Service RSO 
+538,Engineering Student Council,Departmental RSO 
+539,Engineering Wellness at Berkeley,Health & Wellness RSO 
+540,Engineers and Mentors of Berkeley,Academic RSO 
+541,Engineers For A Sustainable World -Berkeley,Environmental & Sustainability RSO 
+542,Engineers in Action at Berkeley,Service RSO 
+543,Engineers Without Borders at Berkeley,Service RSO 
+544,English Undergraduate Association,Academic RSO 
+545,Entomology Club,Academic RSO 
+546,Entomology Students' Organization,Departmental RSO 
+547,Entrepreneurs @ Berkeley,Professional RSO 
+548,Environmental Conservation Outreach,Environmental & Sustainability RSO 
+549,"E
+Environmental Engineering Advocacy Team",Academic RSO 
+550,Environmental Health Sciences Graduate Students,Environmental & Sustainability RSO 
+551,Environmental Law Society @ Berkeley Law (formerly Boalt Environmental Law Society),Environmental & Sustainability RSO 
+552,Environmental Sciences Student Association,Environmental & Sustainability RSO 
+553,Environmental Team,Environmental & Sustainability RSO 
+554,Epsilon Eta,Environmental & Sustainability RSO 
+555,Epsilon Pi at Berkeley,Academic RSO 
+556,ERG Online,Environmental & Sustainability RSO 
+557,ESPM Graduate Diversity Council,Departmental RSO 
+558,ESPM Graduate Student Association,Departmental RSO 
+559,"E
+ESPM Graduate Student Research Organizing Committee for the Symposium",Departmental RSO 
+560,Eta Kappa Nu,Academic RSO 
+561,Eta Omega Chi,Professional RSO 
+562,EthiCAL Apparel,Environmental & Sustainability RSO 
+563,Ethnic Studies 5th Account,ASUC Government Program 
+564,Evangel Christian Fellowship,Spiritual RSO 
+565,EXP Dance,Performing Arts RSO 
+566,Expanding Your Horizons at Berkeley,Service RSO 
+567,"E
+eXperimental Computing Facility",Technology RSO 
+568,Exposure-Organization of Student Photographers,Arts RSO 
+569,Extended Reality at Berkeley (formerly known as Virtual Reality),Technology RSO 
+570,EyeChat!,Professional RSO 
+571,Faces of African Muslims Students,Spiritual RSO 
+572,"F
+Faculty Mentoring Award",GA Government Project 
+573,"F
+Falun Dafa Club @ Berkeley",Spiritual RSO 
+574,"F
+Families at BerkeleyLaw",Cultural & Identity/Cultural & Ethnic RSO 
+575,Fashion and Student Trends,Arts RSO 
+576,Fastpitch Softball at Berkeley,Recreational RSO 
+577,Federalist Society at Berkeley Law,Political & Advocacy RSO 
+578,FeelGood,Service RSO 
+579,Fei Tian Dancers,Performing Arts RSO 
+580,Fellowship in Christ in Berkeley,Spiritual RSO 
+581,Feminist Majority Leadership Alliance of Berkeley,Political & Advocacy RSO 
+582,FEMTech,Cultural & Identity/Women Interest RSO 
+583,Fiat Lux Scholars Association (Formerly Cal Opportunity Scholars Association),Academic RSO 
+584,Filipino & Philippine Studies Working Group,Academic RSO 
+585,Financial Literacy and Economic Justice Conference,Professional RSO 
+586,"F
+Fintech at Berkeley",Professional RSO 
+587,Fintech Investment Network,Technology RSO 
+588,First Generation Professionals,Professional RSO 
+589,First Love at Berkeley,Spiritual RSO 
+590,"F
+Fishing Club at Berkeley",Recreational RSO 
+591,Flying at Berkeley,Recreational RSO 
+592,Food Friendly Finance,Professional RSO 
+593,Food Justice Project,Professional RSO 
+594,Food Science and Tech at Cal,Academic RSO 
+595,"Food, Equity, Entrepreneurship, & Development",Professional RSO 
+596,For Christ's Sake,Performing Arts RSO 
+597,Foresight Pre-Optometry Club,Academic RSO 
+598,Formula Electric at Berkeley (Formerly bLoop),Technology RSO 
+599,Formula SAE (Society of Automotive Engineers),Academic RSO 
+600,Foster Education Project,Political & Advocacy RSO 
+601,"Free Peach, The",Publications RSO 
+602,Free Speech Club of Berkeley,Political & Advocacy RSO 
+603,Free Ventures,Professional RSO 
+604,"F
+Friends of All Ages",Service RSO 
+605,"F
+Friends of Prajwala at Berkeley",Political & Advocacy RSO 
+606,Friends of the Berkeley Free Clinic,Health & Wellness RSO 
+607,Friends of the Co-ops,Cultural & Identity/Cultural & Ethnic RSO 
+608,Friends of the Theatre,Performing Arts RSO 
+609,"F
+From Mothers to Mothers",Health & Wellness RSO 
+610,Future Advancers of Science and Technology,Service RSO 
+611,"Future Business Leaders of America-Phi Beta Lambda, Inc.",Professional RSO 
+612,Future Surgeons of America Club,Professional RSO 
+613,"G
+GA Basic Needs Project",GA Government Project 
+614,GA Berkeley Business Law Journal,Publications RSO 
+615,GA Campus Affairs Vice President,GA Government Office 
+616,"G
+GA Commercial Revenues",GA Government Office 
+617,"G
+GA Contingency",GA Government Office 
+618,"G
+GA Development",GA Government Office 
+619,"G
+GA Disabled Students Advocacy Project",GA Government Project: Primary Advisor Dylan Howser
+620,"G
+GA Environmental Sustainability Project",GA Government Project 
+621,"G
+GA Executive Board",GA Government Office 
+622,"G
+GA External Affairs Vice President",GA Government Office 
+623,GA Funding,GA Government Office 
+624,"G
+GA Funding Committee Chair",GA Government Office 
+625,"G
+GA Graduate Events",GA Government Office 
+626,"G
+GA Graduate Meetings, Events, and Resources",GA Government Office 
+627,"G
+GA Graduate Mentoring Project",GA Government Office 
+628,"G
+GA Graduate Student Advocate",GA Government Office 
+629,"G
+GA Grants",GA Government Office 
+630,"G
+GA Group Resources",GA Government Office 
+631,GA Internal Vice President,GA Government Office 
+632,"G
+GA IT",GA Government Office 
+633,"G
+GA Management",GA Government Office 
+634,"G
+GA Misc. Activities Account",GA Government Office 
+635,GA Operating / Business Office,GA Government Office 
+636,GA President,GA Government Office 
+637,"G
+GA Projects",GA Government Office 
+638,"G
+GA Publication",GA Government Office 
+639,"G
+GA Reserves",GA Government Office 
+640,GA Rules Officer,GA Government Office 
+641,"G
+GA Training Organization TESTING ONLY",GA Government Office 
+642,"G
+GA Travel Award",Inactive Page
+643,"G
+GA Travel Funds (branch of GA Funding)",GA Government Office 
+644,"G
+GA Unallocated Budget",GA Government Office 
+645,"G
+GA Vice President of Finance",GA Government Office 
+646,"G
+GA VP of Equity and Inclusion",GA Government Office 
+647,"G
+GA Working Groups Group",GA Government Office 
+648,Game Design and Development at Berkeley (Formerly GameCraft),Recreational RSO 
+649,Gaming at Berkeley,Recreational RSO 
+650,Gamma Phi Beta,CalGreeks Panhellenic Council (PHC) Sororities 
+651,Gamma Rho Lambda,CalGreeks Multicultural Greek Council (MCGC) Fraternities & Sororities 
+652,"Gamma Zeta Alpha Fraternity, Inc.",CalGreeks Multicultural Greek Council (MCGC) Fraternities & Sororities 
+653,Garb,Publications RSO 
+654,GATES MILLENNIUM SCHOLARS ASSOCIATION,Service RSO 
+655,GenSex (formerly FemSex),Cultural & Identity/Women Interest RSO 
+656,GeoEngineering Graduate Student Association at Berkeley,Academic RSO 
+657,"G
+Geography Group on Gender and Difference",Academic RSO 
+658,Geological Association at Berkeley,Departmental RSO 
+659,GeoWall at Berkeley,Academic RSO 
+660,"G
+German Grad Film Club",Academic RSO 
+661,Gia Magazine,Publications RSO 
+662,GiANT Filmmakers,Media & Film RSO 
+663,Gift of Life at Berkeley,Health & Wellness RSO 
+664,Gifts at Berkeley,Arts RSO 
+665,Gill Tract Farm Student Coalition,Environmental & Sustainability RSO 
+666,Girl Up,Cultural & Identity/Women Interest RSO 
+667,"G
+Girls Teaching Girls to Code at Berkeley",Technology RSO 
+668,Global Business Brigades at Berkeley,Service RSO 
+669,Global Citizen,Publications RSO 
+670,Global Corporate Law at Berkeley (Formerly Boalt Global Corporate Law Society),Academic RSO 
+671,Global Health Brigades at Berkeley,Service RSO 
+672,Global Leadership Organization at Berkeley,Service RSO 
+673,Global Medical Missions Alliance at Berkeley,Service RSO 
+674,Global Medical Training,Service RSO 
+675,Global Physical Therapy at Berkeley,Professional RSO 
+676,Globalmed,Publications RSO 
+677,GlobeMed at Berkeley,Political & Advocacy RSO 
+678,Golden Records,Professional RSO 
+679,"Golden, The (formerly Golden Women)",Performing Arts RSO 
+680,"G
+Grads in Germanics",Academic RSO 
+681,Graduate Architecture Student Union,Departmental RSO 
+682,"G
+Graduate Assembly",GA Government Office 
+683,"G
+Graduate Assembly Governance Workgroup (GA GWG)",GA Government Office 
+684,"G
+Graduate Assembly of Students in Psychology",Departmental RSO 
+685,"G
+Graduate Economics Association",Departmental RSO 
+686,"G
+Graduate Geographers of Berkeley",Departmental RSO 
+687,"G
+Graduate Global Development",GA Government Office 
+688,"G
+Graduate Minority Outreach Recruitment and Retention",GA Government Project 
+689,"G
+Graduate Minority Student Project",GA Government Project 
+690,Graduate School of Education Research Day Organizational Committee,Departmental RSO 
+691,"G
+Graduate School of Education Student Association",Departmental RSO 
+692,Graduate Social Club,GA Government Office 
+693,"G
+Graduate Student Parent Advocacy",GA Government Project 
+694,"G
+Graduate Student Wellness Project",GA Government Project 
+695,Graduate Students de la Raza,Cultural & Identity/Cultural & Ethnic RSO 
+696,Graduate Women of Engineering,Cultural & Identity/Women Interest RSO 
+697,"G
+Graduate Women's Project",GA Government Project 
+698,Grant a Wish at Berkeley,Service RSO 
+699,Greeks Against Sexual Assault at Berkeley (GASA),CalGreeks Fraternity & Sorority Support Organizations 
+700,Greening the Greeks,CalGreeks Fraternity & Sorority Support Organizations 
+701,"G
+GroTech @ Berkeley",Technology RSO 
+702,Ground Up Journal,Publications RSO 
+703,Gun Violence Prevention Project,Professional RSO 
+704,Haas Business School Association,Academic RSO 
+705,Haas Undergraduate Black Business Association,Professional RSO 
+706,Hack the Bay,Technology RSO 
+707,"H
+Hands and Feet",Service RSO 
+708,Happy Period at Berkeley,Service RSO 
+709,Health and Medical Apprenticeship Program,Health & Wellness RSO 
+710,Health Coaching at Berkeley,Health & Wellness RSO 
+711,Health Guardians of Berkeley,Academic RSO 
+712,Health Leads at Berkeley,Service RSO 
+713,Health Solutions of Berkeley,Service RSO 
+714,Healthcare & Biotech Law Society [Formerly Boalt Healthcare & Biotech Law Society],Academic RSO 
+715,"H
+Healthcare Business Association at Berkeley",Professional RSO 
+716,Healthcare Consulting Group at Berkeley,Professional RSO 
+717,Heart Chan at Berkeley,Spiritual RSO 
+718,Heartfulness at Berkeley,Health & Wellness RSO 
+719,"H
+Helios Solar Program",ASUC Chartered Program 
+720,Helix @ Berkeley,Service RSO 
+721,Hellenic Student Association at Berkeley,Cultural & Identity/International RSO 
+722,Hep B Project,Service RSO 
+723,Her Campus of Berkeley,Media RSO 
+724,Hermanas Unidas de UC Berkeley,Cultural & Identity/Cultural & Ethnic RSO 
+725,Hermanos Unidos,Cultural & Identity/Cultural & Ethnic RSO 
+726,"Heuristic Squelch, The",Publications RSO 
+727,Hidden Road Initiative,Service RSO 
+728,Hillel Student Board at Berkeley,Spiritual RSO 
+729,Hispanic Engineers and Scientists,Academic RSO 
+730,Historical Fencing Club of Berkeley,Recreational RSO 
+731,History Graduate Association,Academic RSO 
+732,Hmong Student Association at Berkeley,Cultural & Identity/International RSO 
+733,Home of Students Christian Fellowship,Spiritual RSO 
+734,"H
+Homeless Ministry at Berkeley",Service RSO 
+735,"H
+Homelessness Service Project",Service RSO 
+736,Hong Kong Affairs Association of Berkeley,Political & Advocacy RSO 
+737,Hong Kong Student Association,Cultural & Identity/International RSO 
+738,"H
+Hub for Equity and Administrative Representation",Academic RSO 
+739,Human Powered Vehicle,Academic RSO 
+740,"H
+Human Rights Review at Berkeley",Publications RSO 
+741,Humans of Berkeley,Media & Film RSO 
+742,"I
+I-Clicker Rental Program",ASUC Government Program 
+743,IDEA Factory,Academic RSO 
+744,"Idealist Journal, The",Publications RSO 
+745,Identity and Gender Spectrum,Cultural & Identity/LGBTQ+ RSO - Advised by Anthony Garrison
+746,"I
+IEEE Power and Energy at Berkeley",Academic RSO 
+747,IEEE Student Branch,Academic RSO 
+748,"I
+IEOR Graduate Student Group (formerly Student INFORMS)",Academic RSO 
+749,If/When/How: Lawyering for Reproductive Justice at Berkeley,Political & Advocacy RSO 
+750,"I
+iGEM at Berkeley",Academic/Tech
+751,"I
+Ignite Ministries",Spiritual RSO 
+752,Improv4Charity,Service RSO 
+753,Indian Students Association,Cultural & Identity/International RSO 
+754,Indigenous and Native Coalition (INC) Recruitment and Retention Center,Sponsored - bridges 
+755,Information Management Student Association,Departmental RSO 
+756,Innovate at Berkeley,Technology RSO 
+757,Innovative Design,ASUC Chartered Program 
+758,InnoWorks of Berkeley,Service RSO 
+759,Inside the Living Room,Service RSO 
+760,Institute of Industrial and Systems Engineers,Academic RSO 
+761,Institute of Transportation Engineers at Berkeley,Academic RSO 
+762,"I
+Integrative Biology Graduate Student Association",Departmental RSO 
+763,Intercollegiate Finance Journal at Berkeley,Publications RSO 
+764,InterCP,Spiritual RSO 
+765,Interfraternity Council (IFC),CalGreeks Fraternity & Sorority Support Organizations 
+766,"Intermission Orchestra, The",Performing Arts RSO 
+767,"I
+International & Undocumented Student Project (GA Project)",GA Government Project 
+768,International Building Performance Simulation Association/ASHRAE Berkeley,Professional RSO 
+769,"I
+International Consulting Club at Berkeley",Professional RSO 
+770,International Family Union,Service RSO 
+771,International Graduate Student Ministry,Spiritual RSO 
+772,International Human Rights Workshop,Service RSO 
+773,International Refugee Assistance Project at Berkeley Law,Political & Advocacy RSO 
+774,International Relations Council of Berkeley,Professional RSO 
+775,International Service Club,Service RSO 
+776,International Society for Pharmaceutical Engineering,Academic RSO 
+777,International Students Association at Berkeley,Cultural & Identity/International RSO 
+778,International Undergraduate Student Ministry,Spiritual RSO 
+779,International Youth and Students for Social Equality,Political & Advocacy RSO 
+780,Interstitials MSE Mentoring Program,Academic RSO 
+781,Intertribal Student Council,Cultural & Identity/Cultural & Ethnic RSO 
+782,InterVarsity Christian Fellowship,Spiritual RSO 
+783,INvent,Technology RSO 
+784,Invention Corps of Berkeley,Technology RSO 
+785,"Iota Sigma Pi, Hydrogen Chapter",Professional RSO 
+786,Iranian Student Association in America,Cultural & Identity/International RSO 
+787,Iranian Students Cultural Organization,Cultural & Identity/Cultural & Ethnic RSO 
+788,Irish Dancers of Berkeley,Recreational RSO 
+789,Ismailis at Berkeley,Spiritual Organization 
+790,Italian Society at Berkeley,Cultural & Identity/International RSO 
+791,Iu-Mien Student Union,Cultural & Identity/International RSO 
+792,Jain Students Association,Spiritual RSO 
+793,Jakara Movement Club at Berkeley,Cultural & Identity/Cultural & Ethnic RSO 
+794,Jeeva Clinic,Service RSO 
+795,"J
+Jehovah's Witnesses at Berkeley",Spiritual RSO 
+796,Jericho!,Performing Arts RSO 
+797,"J
+Jewish Students Association at Berkeley Law",Professional RSO 
+798,Jewish Voice for Peace at Berkeley,Political & Advocacy RSO 
+799,Jews of Color Collective,Cultural & Identity/Cultural & Ethnic RSO 
+800,Jugger at Berkeley,Recreational RSO 
+801,Jurisbrewdence,Recreational RSO 
+802,K-Popular at Berkeley,Cultural & Identity/Cultural & Ethnic RSO 
+803,Kairos Dance Co.,Performing Arts RSO 
+804,Kalanjiyam at Berkeley,Health & Wellness RSO 
+805,Kappa Alpha Order,CalGreeks Interfraternity Council (IFC) Fraternities 
+806,Kappa Alpha Pi Pre-Law Fraternity,Professional RSO 
+807,"Kappa Alpha Psi Fraternity, Inc.",CalGreeks National Pan-Hellenic Council (NPHC) Fraternities & Sororities 
+808,Kappa Alpha Theta,CalGreeks Panhellenic Council (PHC) Sororities 
+809,"K
+Kappa Delta Rho",CalGreeks Interfraternity Council (IFC) Fraternities 
+810,Kappa Gamma Delta,Professional RSO 
+811,Kappa Kappa Gamma,CalGreeks Panhellenic Council (PHC) Sororities 
+812,Kappa Sigma,CalGreeks Interfraternity Council (IFC) Fraternities 
+813,Kendo Club,Recreational RSO 
+814,Kidney Disease Screening and Awareness Program,Service RSO 
+815,Kids in Nutrition,Service RSO 
+816,Kink Club,Health & Wellness RSO 
+817,Klesis,Spiritual RSO 
+818,Knights of the Square Table,Recreational RSO 
+819,Koinonia Campus Fellowship,Spiritual RSO 
+820,Kojobs at Berkeley,Professional RSO 
+821,Korea Campus Crusade for Christ,Spiritual RSO 
+822,Korean American Student Association,Cultural & Identity/Cultural & Ethnic RSO 
+823,"K
+Korean Business Organization",Professional RSO 
+824,"K
+Korean Christian Biblical & Theological Studies (Originally ""BCPC"")",Spiritual RSO 
+825,Korean Compassion at Berkeley,Service RSO 
+826,Korean Performance Group,Performing Arts RSO 
+827,Korean Undergraduate Networking Association,Professional RSO 
+828,Korean-American Scientists and Engineers Association (Silicon Valley Chapter),Academic RSO 
+829,KOSMOS,Performing Arts RSO 
+830,"L
+La Campanella",Spiritual RSO 
+831,La Dolce Vita Italian Studies Club,Cultural & Identity/International RSO 
+832,La Fe - IVCF,Spiritual RSO 
+833,"L
+La Raza Law Journal",Publications RSO 
+834,La Raza Law Students Association,Cultural & Identity/Cultural & Ethnic RSO 
+835,"L
+La Raza Workers' and Tenants' Rights Clinic",Service RSO 
+836,Labor Coach Program,Service RSO 
+837,Ladies for Change,Cultural & Identity/Women Interest RSO 
+838,"Lambda Theta Alpha Latin Sorority, Inc.",CalGreeks Multicultural Greek Council (MCGC) Fraternities & Sororities 
+839,"Lambda Theta Nu Sorority, Inc.",CalGreeks Multicultural Greek Council (MCGC) Fraternities & Sororities 
+840,"Lambda Theta Phi, Latin Fraternity, Inc.",CalGreeks Multicultural Greek Council (MCGC) Fraternities & Sororities 
+841,"Lambda Upsilon Lambda Fraternity, Inc.",CalGreeks Multicultural Greek Council (MCGC) Fraternities & Sororities 
+842,Laotian American Student Representatives,Cultural & Identity/Cultural & Ethnic RSO 
+843,Latin American Leadership Society,Cultural & Identity/Cultural & Ethnic RSO 
+844,Latino Business Student Association,Academic RSO 
+845,Latino/a Association of Graduate Students in Engineering and Science,Cultural & Identity/Cultural & Ethnic RSO 
+846,Latinx Caucus,Cultural & Identity/Cultural & Ethnic RSO 
+847,Latinx Pre-Law Society,Professional RSO 
+848,Launchpad,Technology RSO 
+849,Laundry Love Project,Spiritual RSO 
+850,Law and Political Economy Society of Berkeley,Academic RSO 
+851,"L
+Law and Society Graduate Association",Professional RSO 
+852,Law Students for Justice in Palestine,Political & Advocacy RSO 
+853,Law Students of African Descent,Cultural & Identity/Cultural & Ethnic RSO 
+854,Laya of Berkeley,Performing Arts RSO 
+855,LDS Student Association,Spiritual RSO 
+856,Le Cercle Français of Berkeley,Cultural & Identity/International RSO 
+857,"L
+lead center test group 17",Service RSO 
+858,Learning Enterprises at Berkeley,Service RSO 
+859,"L
+Legal Automation Workshop",Service RSO 
+860,Legends of Berkeley,Recreational RSO 
+861,Let's Rise - Asian Mentorship Program,Service RSO 
+862,Liberty in North Korea at Berkeley,Political & Advocacy RSO 
+863,"L
+Light Electric Vehicles at Berkeley",Technology RSO 
+864,Lindy On Sproul,Performing Arts RSO 
+865,Linguaphile Student Association,Professional RSO 
+866,Live Poets Society,Arts RSO 
+867,"L
+Local Service Club",Service RSO 
+868,Logging Sports Team,Recreational RSO 
+869,Love Your Melon Campus Crew at Berkeley,Service RSO 
+870,"L
+Lower Sproul Referendum",ASUC Government Office 
+871,LW Passion Fellowship,Spiritual RSO 
+872,Macau Student Association,Cultural & Identity/International RSO 
+873,Machine Learning at Berkeley,Technology RSO 
+874,maganda magazine,Publications RSO 
+875,"M
+Magic Club, The",Performing Arts RSO 
+876,Maimonides,Cultural & Identity/Cultural & Ethnic RSO 
+877,Main Stacks Dance Team,Performing Arts RSO 
+878,Malaysian Student Association at Berkeley,Cultural & Identity/International RSO 
+879,Management Consulting Club at Berkeley,Professional RSO 
+880,"Management, Entrepreneurship & Technology Student Board",Departmental RSO 
+881,March of Dimes Collegiate Council,Service Organization 
+882,Mariachi Luz de Oro,Performing Arts RSO 
+883,Market Diagnosis Group at Berkeley,Professional RSO 
+884,Materials Science and Engineering Association,Departmental RSO 
+885,Materials Science and Engineering Graduate Student Council,Departmental RSO 
+886,Math Tournament at Berkeley,Academic RSO 
+887,Mathematics Graduate Students Association,Departmental RSO 
+888,Mathematics Undergraduate Student Association,Academic RSO 
+889,Matriculate,Service RSO 
+890,Maya at UC Berkeley,Performing Arts RSO 
+891,"M
+MBA Association",Academic RSO 
+892,"M
+Mechanical Engineering Graduate Student Council",Academic RSO 
+893,"M
+Medical Division at the Suitcase Clinic",Service RSO 
+894,Medical Reallocation Initiative,Service RSO 
+895,Medical Technology at Berkeley,Technology RSO 
+896,"M
+Meditative Arts (MA)",Spiritual RSO 
+897,MEDLIFE,Service RSO 
+898,Mexican Association of Students at Berkeley,Cultural & Identity/International RSO 
+899,Microbial Biology Graduate Student Group,Academic RSO 
+900,Microbial Sciences Association,Academic RSO 
+901,Microfinance at Berkeley,Service RSO 
+902,Middle Eastern and North African Law Students Association [Formerly Middle Eastern Law Students Association],Cultural & Identity/International RSO 
+903,Middle Eastern Business Association,Professional RSO 
+904,Middle Eastern North African Recruitment and Retention Center,Sponsored - bridges 
+905,Migrant Advocacy Project (Formerly Rebuild with Refugees),Service RSO 
+906,Military and Veterans at Berkeley Law,Professional RSO 
+907,Mind Body Nutrition: Students for Integrative and Preventive Medicine,Health & Wellness RSO 
+908,Mindfulness at Berkeley,Health & Wellness RSO 
+909,Minecraft at Berkeley,Recreational RSO 
+910,Minorities in Health Conference,Professional RSO 
+911,Minority Association of Pre-Medical Students,Professional RSO 
+912,Mixed @ Berkeley Recruitment and Retention Center - MRRC (formerly Mixed Student Union - MSU),Sponsored - bridges 
+913,Mobile Developers of Berkeley,Technology RSO 
+914,Molecular and Cell Biology Cell Developmental Neurobiological Association,Departmental RSO 
+915,Molecular Cell Biology Graduate Student Organization,Departmental RSO 
+916,Molecular Cell Biology Undergraduate Student Association,Departmental RSO 
+917,Mongolian Student Association,Cultural & Identity/Cultural & Ethnic RSO 
+918,Mood Psychology at Berkeley,Academic RSO 
+919,Morning Sign Out,Publications RSO 
+920,MOVE: API Organizing Fellowship,Service RSO 
+921,"Movement, The",Performing Arts RSO 
+922,Multi-Cultural Greek Council,CalGreeks Multicultural Greek Council (MCGC) Fraternities & Sororities 
+923,Multicultural Advocates in Political Science (MAPS) (Formerly Minorities Associated in Political Science),Political & Advocacy RSO 
+924,"M
+Museum of Tomorrow at Berkeley",Environmental & Sustainability RSO 
+925,"Music Connection, The",Service RSO 
+926,"M
+Music Meditation Club",Health & Wellness RSO 
+927,Muslim Student Association,Spiritual RSO 
+928,Muxeres Activas en Letras y Cambio Social at Berkeley,Academic RSO 
+929,"M
+Mycology Club at Berkeley",Environmental & Sustainability RSO 
+930,"NAACP - University of California, Berkeley",Political & Advocacy RSO 
+931,"N
+NALA Project at Berkeley",Service RSO 
+932,"N
+Name and Gender Change Workshop",Service RSO 
+933,NAMI on Campus at Berkeley,Health & Wellness RSO 
+934,Naos House of Prayer,Spiritual RSO 
+935,National Association of Black Journalists,Professional RSO 
+936,National Council of Negro Women,Cultural & Identity/Women Interest RSO 
+937,"National Lawyers Guild, Berkeley Law Chapter",Professional RSO 
+938,National Optometric Student Association,Departmental RSO 
+939,National Organization for Women,Cultural & Identity/Women Interest RSO 
+940,National Pan-Hellenic Council,CalGreeks Fraternity & Sorority Support Organizations 
+941,"N
+National School Project at Berkeley",Spiritual RSO 
+942,National Society of Leadership and Success- Sigma Alpha Pi,Professional RSO 
+943,"N
+Native American Law Students Association",Professional RSO 
+944,"N
+Native American Studies",Campus Department
+945,Natya at Berkeley,Performing Arts RSO 
+946,Navy ROTC Wardroom,Departmental RSO 
+947,Nazakat at Berkeley,Performing Arts RSO 
+948,Nepalese Student Association,Cultural & Identity/International RSO 
+949,Net Impact at Berkeley,Professional RSO 
+950,NeuroScience Club at Berkeley,Professional RSO 
+951,Neurotechnology at Berkeley,Technology RSO 
+952,New Beginning Academics Student Association,Academic RSO 
+953,Next Generation Consulting at Berkeley,Professional RSO 
+954,Nigerian Students Association,Cultural & Identity/International RSO 
+955,Nikkei Choral Ensemble,Performing Arts RSO 
+956,Nikkei Student Union,Cultural & Identity/International RSO 
+957,"N
+Not Left, Not Right, Forward",Political & Advocacy RSO 
+958,Nuclear Engineering Design Collaborative,Academic RSO 
+959,Nuclear Policy Working Group,Academic RSO 
+960,"N
+Nukids Nubies",Service RSO 
+961,Nurturing Infants and Care for the Underrepresented,Service Student Orgs - Advised by Millicent Morris
+962,NutrigenomX at Berkeley,Academic RSO 
+963,Oakland Asian Student Educational Services,Service RSO 
+964,"O
+Office of Student Development",No Response
+965,Older Wiser Law Students of Berkeley,Professional RSO 
+966,Olive Tree Initiative,Sponsored RSO 
+967,"Omega Phi Beta Sorority, Inc.",CalGreeks Multicultural Greek Council (MCGC) Fraternities & Sororities 
+968,"Omniscient Tutor, The",Media & Film RSO 
+969,Open Air,Spiritual RSO 
+970,Open Computing Facility,ASUC Government Program 
+971,Opportunity Through Data,Technology RSO 
+972,Optimir Consulting,Professional RSO 
+973,Optometric Business Management Club of Berkeley (formerly known as Private Practice Club of Berkeley),Professional RSO 
+974,Optometric Student Association,Departmental RSO 
+975,Optometry Class of 2020 at Berkeley,Departmental RSO 
+976,Optometry Class of 2021 at Berkeley,Departmental RSO 
+977,Optometry Class of 2022 at Berkeley,Departmental RSO 
+978,Optometry Class of 2023 at Berkeley (formerly Optometry Class of 2019),Departmental RSO 
+979,Organization of Jewish Graduate Students,Cultural & Identity/Cultural & Ethnic RSO 
+980,"O
+Organizations Research Group",Academic RSO 
+981,Orthodox Christian Fellowship at Berkeley,Spiritual RSO 
+982,Out for Business at Berkeley,Cultural & Identity/LGBTQ+ RSO 
+983,"Out in Science, Technology, Engineering, and Mathematics",Cultural & Identity/LGBTQ+ RSO 
+984,Outlet,Arts RSO 
+985,Overwatch at Berkeley,Recreational RSO 
+986,OWN IT at Berkeley,Cultural & Identity/Women Interest RSO 
+987,Pakistani Student Association,Cultural & Identity/International RSO 
+988,Panhellenic Council (PHC),CalGreeks Fraternity & Sorority Support Organizations 
+989,Paper Crane,Arts RSO 
+990,Paragon Consulting at Berkeley,Professional RSO 
+991,"P
+Parliamentary Debate at Berkeley",Academic RSO 
+992,Partners In Health Engage at Berkeley,Service RSO 
+993,Partnership for Pre-Professional Pilipinxs,Professional RSO 
+994,"P
+Partnerships Across the Decades",Service RSO 
+995,Patent Law Society,Professional RSO 
+996,PATH to Care Center Peer Educators,Health & Wellness RSO 
+997,Patient Advocacy Student Group,Service RSO 
+998,Paving an Accessible Trail to Higher Education,Service RSO 
+999,Peer Health Exchange,Service RSO 
+1000,Peer Wellness Coalition,Health & Wellness RSO 
+1001,"Peers Espousing Amiability, Cooperation, and Education",Service RSO 
+1002,Pencil to Paper,Service RSO 
+1003,People's Park Solidarity Committee,Political & Advocacy RSO 
+1004,People's Test Preparation Service,Service RSO 
+1005,Perennial : The Undergraduate Environmental Journal of Berkeley,Publications RSO 
+1006,Performance Studies Research Collective,Departmental RSO 
+1007,"PERIOD Project at Berkeley, The",Political & Advocacy RSO 
+1008,"P
+Personal Computer Master Race at Berkeley",Technology RSO 
+1009,Perspective Magazine,Publications RSO 
+1010,Phalanx: Pre-Medical Consulting,Academic RSO 
+1011,"P
+PhD Consulting Club at Berkeley",Academic RSO 
+1012,"Phi Alpha Delta Law Fraternity, International",Professional RSO 
+1013,Phi Alpha Theta,Academic RSO 
+1014,"Phi Beta Sigma, Fraternity Incorporated",CalGreeks National Pan-Hellenic Council (NPHC) Fraternities & Sororities 
+1015,Phi Chi Pre-Health Fraternity,Professional RSO 
+1016,Phi Delta Epsilon,Professional RSO 
+1017,Phi Delta Theta,CalGreeks Interfraternity Council (IFC) Fraternities 
+1018,Phi Kappa Psi,CalGreeks Interfraternity Council (IFC) Fraternities 
+1019,"P
+Phi Kappa Sigma",CalGreeks Interfraternity Council (IFC) Fraternities 
+1020,Phi Kappa Tau,CalGreeks Interfraternity Council (IFC) Fraternities 
+1021,Phi Sigma Rho,CalGreeks Multicultural Greek Council (MCGC) Fraternities & Sororities 
+1022,Philosophy Forum,Academic RSO 
+1023,Phoenix Consulting Group,Professional RSO 
+1024,Phoenix Symphony at Berkeley,Performing Arts RSO 
+1025,"P
+Pi Alpha Phi",CalGreeks Interfraternity Council (IFC) Fraternities 
+1026,"P
+Pi Beta Phi",CalGreeks Panhellenic Council (PHC) Sororities 
+1027,"P
+Pi Kappa Alpha",CalGreeks Interfraternity Council (IFC) Fraternities 
+1028,Pi Kappa Phi,CalGreeks Interfraternity Council (IFC) Fraternities 
+1029,Pi Lambda Phi,CalGreeks Interfraternity Council (IFC) Fraternities 
+1030,Pi Sigma Epsilon,Professional RSO 
+1031,Pi Tau Sigma,Academic RSO 
+1032,Pilipino American Alliance,Cultural & Identity/Cultural & Ethnic RSO 
+1033,"P
+Pilipino American Graduate Student Association",Cultural & Identity/Cultural & Ethnic RSO 
+1034,Pilipino American Law Society,Professional RSO 
+1035,Pilipino Association for Health Careers,Professional RSO 
+1036,Pilipino Basketball Association,Recreational RSO 
+1037,Pilipinx Academic Student Services,Sponsored - bridges 
+1038,"Pilipinx Association of Scientists, Architects, and Engineers (Formerly Pilipino Association of Scientists, Architects, and Engineers)",Professional RSO 
+1039,Pioneers in Engineering,Academic RSO 
+1040,Planning Students Association,Academic RSO 
+1041,Plant & Microbial Biology Graduate Student Group,Departmental RSO 
+1042,Planty Social,Academic RSO 
+1043,PlexTech,Technology RSO 
+1044,Pointe of Berkeley,Performing Arts RSO 
+1045,Pokemon Club at Berkeley,Recreational RSO 
+1046,"P
+Police Review Project",Professional RSO 
+1047,Policy Review at Berkeley,Political & Advocacy RSO 
+1048,Polish Club of Berkeley,Cultural & Identity/International RSO 
+1049,Political and Election Empowerment Project,Professional RSO 
+1050,Political Computer Science,Technology RSO 
+1051,"P
+Post-Conviction Advocacy Project, The",Service RSO 
+1052,Pre-Health Student Council,Health & Wellness RSO 
+1053,Pre-Medical Honor Society,Academic RSO 
+1054,Pre-Nursing Society,Professional RSO 
+1055,"Pre-Pharmacy Informational, Learning and Leadership Society",Professional RSO 
+1056,PreDental Society,Professional RSO 
+1057,"Presence Fellowship, The",Spiritual RSO 
+1058,"P
+Prisoner Advocacy Network at Berkeley",Political & Advocacy RSO 
+1059,"P
+Privacy Law at Berkeley (also known as PrivLAB or PLAB)",Academic RSO 
+1060,ProBonotes (formerly Boalt A Cappella),Performing Arts RSO 
+1061,Product Development at Berkeley (Formerly EPOCH),Professional RSO 
+1062,Product Space at Berkeley,Technology RSO 
+1063,Progressive Student Association,Political & Advocacy RSO 
+1064,"P
+Project Coordinator Liaison",GA Government Office 
+1065,"Project Pengyou, Berkeley Chapter",Cultural & Identity/International RSO 
+1066,"Project Rishi, The Berkeley Chapter",Service RSO 
+1067,"P
+Project Safety and Field Equity",Health & Wellness RSO 
+1068,Project Spreading Multiculturalism and Inspiring Leadership through Education,Service RSO 
+1069,"P
+Promoting the Study of Erhu Through Worldwide Opportunities",Health & Wellness RSO 
+1070,Prosthetics for Change at Berkeley,Service RSO 
+1071,Psi Chi,Academic RSO 
+1072,Psychedelic Science at Berkeley,Academic RSO 
+1073,Public Health Advocate,Publications RSO 
+1074,"P
+Publications and Media Center",Campus Department
+1075,Puente at Berkeley,Service RSO 
+1076,Puerto Rico Se Levanta,Service RSO 
+1077,Punjabis at Berkeley,Cultural & Identity/International RSO 
+1078,"Q
+QJew",Cultural & Identity/Cultural & Ethnic RSO 
+1079,Quant at Berkeley,Academic RSO 
+1080,Quantum Computing at Berkeley,Technology RSO 
+1081,Queer + Allied Pre-Health / Pre-Medical Association,Cultural & Identity/LGBTQ+ RSO 
+1082,Queer Alliance & Resource Center,Cultural & Identity/LGBTQ+ RSO 
+1083,"Q
+Queer and Trans Geographers of Berkeley",Cultural & Identity/LGBTQ+ RSO 
+1084,Queer Caucus,Cultural & Identity/LGBTQ+ RSO 
+1085,Queer Grads,Cultural & Identity/LGBTQ+ RSO 
+1086,Queer Student Union,Cultural & Identity/LGBTQ+ RSO 
+1087,"Q
+Queer Trans Advocacy Project",GA Government Office 
+1088,"Queer Trans South, Southwest Asians, and North Africans at Berkeley (QTSSWANA) [Formerly Queer Trans South Asians at Berkeley (QTSAB)]",Cultural & Identity/LGBTQ+ RSO 
+1089,"Q
+Queer Womxn in Law",Cultural & Identity/LGBTQ+ RSO 
+1090,"Q
+Queering Public Health",Cultural & Identity/LGBTQ+ RSO 
+1091,"Q
+Queers United in Revolutionary Subversion",Cultural & Identity/LGBTQ+ RSO 
+1092,qui parle: Critical Humanities and Social Sciences,Publications RSO 
+1093,Quidditch League at Berkeley,Recreational RSO 
+1094,Quiz Bowl Club,Recreational RSO 
+1095,Ra-On,Performing Arts RSO 
+1096,Raas Ramzat,Performing Arts RSO 
+1097,"R
+Radical Geographers Working Group",Political & Advocacy RSO 
+1098,RAPrEvention,Health & Wellness RSO 
+1099,"R
+RAW Media",Media & Film RSO 
+1100,Raíces Recruitment and Retention Center (formerly Raza Recruitment and Retention Center),Sponsored - bridges 
+1101,Re-entry and Transfer Student Association,Service RSO 
+1102,REACH! Asian Pacific American Recruitment and Retention Center,Sponsored - bridges 
+1103,"R
+Reclaim",Political & Advocacy RSO 
+1104,"R
+Reentry Advocacy Project",Service RSO 
+1105,Reformed University Fellowship,Spiritual RSO 
+1106,Regents' and Chancellor's Scholars Association,Professional RSO 
+1107,"R
+Remnant Fellowship",Spiritual RSO 
+1108,Renters' Legal Assistance,Service RSO 
+1109,Reproductive Justice Project,Political & Advocacy RSO 
+1110,Residence Hall Assembly,Service RSO 
+1111,"R
+Residential & Student Services Programs",Campus Department
+1112,Restorative Justice Committee,Political & Advocacy RSO 
+1113,Restorative Justice League,Service RSO 
+1114,ReUSE,Environmental & Sustainability RSO 
+1115,Review of International Conflict and Security,Publications RSO 
+1116,Rising Immigrant Scholars through Education - RISE,Service RSO 
+1117,RoboBears,Professional RSO 
+1118,Robomaster at Berkeley,Technology RSO 
+1119,Robotics & Engineering for Youth,Service RSO 
+1120,Robotics at Berkeley,Technology RSO 
+1121,Rubik's Cube Club at Berkeley,Recreational RSO 
+1122,Russian Student Association,Cultural & Identity/International RSO 
+1123,SACNAS for Graduate Students at Berkeley,Academic RSO 
+1124,"Sage Mentorship Project, The",Service RSO 
+1125,"S
+Sahaara at Berkeley",Service RSO 
+1126,Sales and Trading Club at Berkeley,Professional RSO 
+1127,"S
+Salesforce Student User Group at Berkeley",Professional RSO 
+1128,Salsa at Cal,Recreational RSO 
+1129,"S
+Scholar Athletes from Abroad",Cultural & Identity/International RSO 
+1130,School of Public Health Student Government,Departmental RSO 
+1131,School Psychology Student Association,Academic RSO 
+1132,Science Fiction and Fantasy Short Story Workshop,Publications RSO 
+1133,Science Leadership and Management,Professional RSO 
+1134,Science Olympiad at Berkeley,Academic RSO 
+1135,Science Policy Group at Berkeley,Political & Advocacy RSO 
+1136,"S
+Sciences Po-Berkeley Student Board",Academic RSO 
+1137,SCUBA at Berkeley,Recreational RSO 
+1138,Secular Student Alliance at Berkeley,Political & Advocacy - Advised by Millicent Morris
+1139,"S
+See Also Literary Journal",Publications RSO 
+1140,See the Lord – Student Chapter at Berkeley,Service RSO 
+1141,Seed Base Consulting,Professional RSO 
+1142,"SEEDS: Strategies for Ecology, Education, Diversity, and Sustainability",Environmental & Sustainability RSO 
+1143,"S
+Service Group Community Page",Service RSO 
+1144,She(256),Cultural & Identity/Women Interest RSO 
+1145,Sigma Alpha Epsilon,CalGreeks Interfraternity Council (IFC) Fraternities 
+1146,Sigma Alpha Mu,CalGreeks Interfraternity Council (IFC) Fraternities 
+1147,Sigma Alpha Nu,Academic RSO 
+1148,Sigma Chi,CalGreeks Interfraternity Council (IFC) Fraternities 
+1149,Sigma Epsilon Omega,CalGreeks Multicultural Greek Council (MCGC) Fraternities & Sororities 
+1150,Sigma Eta Pi,Professional RSO 
+1151,"Sigma Gamma Rho Sorority, Inc.",CalGreeks National Pan-Hellenic Council (NPHC) Fraternities & Sororities 
+1152,Sigma Kappa,CalGreeks Panhellenic Council (PHC) Sororities 
+1153,Sigma Mu Delta,Academic RSO 
+1154,Sigma Nu,CalGreeks Interfraternity Council (IFC) Fraternities 
+1155,Sigma Omicron Pi,CalGreeks Multicultural Greek Council (MCGC) Fraternities & Sororities 
+1156,Sigma Phi Omega,CalGreeks Multicultural Greek Council (MCGC) Fraternities & Sororities 
+1157,Sigma Pi,CalGreeks Interfraternity Council (IFC) Fraternities 
+1158,"Sigma Pi Alpha Sorority, Inc.",CalGreeks Multicultural Greek Council (MCGC) Fraternities & Sororities 
+1159,"Sigma Psi Zeta Sorority, Inc.",CalGreeks Panhellenic Council (PHC) Sororities 
+1160,Sikh Students Association,Cultural & Identity/Cultural & Ethnic RSO 
+1161,Singapore Student Association (formerly Singapore Malaysia Student Association),Cultural & Identity/International RSO 
+1162,"S
+Sketchicho!",Professional RSO 
+1163,Ski and Snowboard Team at Berkeley,Recreational RSO 
+1164,SKY Campus Happiness Club at Berkeley,Health & Wellness RSO 
+1165,Sky&X Aerospace,Technology RSO 
+1166,"Smart Ass, The",Publications RSO 
+1167,Smart Woman Securities at Berkeley,Professional RSO 
+1168,Smash At Berkeley,Recreational RSO 
+1169,Smile Train at Berkeley,Service RSO 
+1170,SNAPkids at Berkeley,Service RSO 
+1171,SoBears: Students for Recovery,Health & Wellness RSO 
+1172,Social Justice Symposium,Academic RSO 
+1173,Social Welfare,Academic RSO 
+1174,Social Welfare Association for the Greater Good,Departmental RSO 
+1175,"S
+Social Welfare Graduate Assembly",Academic RSO 
+1176,Social Welfare LGBTQ+ Student Caucus,Cultural & Identity/LGBTQ+ RSO 
+1177,"S
+Socialist Alternative at Berkeley",Political & Advocacy RSO 
+1178,Society for Collegiate Leadership and Achievement,Academic RSO 
+1179,Society for Conservation Biology Berkeley Chapter,Environmental & Sustainability RSO 
+1180,"S
+Society for the Study of Modern Visual Culture at Berkeley",Media & Film RSO 
+1181,Society of Antiquity and its Reception,Academic RSO 
+1182,Society of Asian Scientists and Engineers,Professional RSO 
+1183,Society of Engineering Sciences,Academic RSO 
+1184,Society of Linguistics Undergraduate Students,Departmental RSO 
+1185,Society of Physics Students at Berkeley,Academic RSO 
+1186,Society of Women Engineers,Cultural & Identity/Women Interest RSO 
+1187,Sociological Research Symposium Committee,Academic RSO 
+1188,Socratic Society at Berkeley,Academic RSO 
+1189,Solar Decathlon,Environmental & Sustainability RSO 
+1190,Solar Spring Break,Environmental & Sustainability RSO 
+1191,"Somali, Ethiopian, Eritrean, South Sudanese, Sudanese Association (SEE§A) (formerly as Horn of Africa Student Association - HASA)",Cultural & Identity/International RSO 
+1192,Songwriting at Berkeley,Performing Arts RSO 
+1193,Soon Movement,Spiritual RSO 
+1194,Sorayya Middle Eastern and Central Asian Dance Troupe,Performing Arts RSO 
+1195,South Asian Law Students Association,Academic RSO 
+1196,South Indian Society,Cultural & Identity/International RSO 
+1197,Southeast Asian Mentorship,Service RSO 
+1198,"S
+Southeast Asian Prison Outreach Project",Political & Advocacy RSO 
+1199,Southeast Asian Student Coalition,Cultural & Identity/Cultural & Ethnic RSO 
+1200,Space Enterprise at Berkeley,Technology RSO 
+1201,Space Law Society at Berkeley Law [FORMERLY Boalt Hall Space Law Society],Technology RSO 
+1202,Space Technologies and Rocketry,Professional RSO 
+1203,Space Technologies at California,Professional RSO 
+1204,Speak Out Now (formerly Students for Social Change),Political & Advocacy RSO 
+1205,Speaker Series: India at Berkeley,Cultural & Identity/International RSO 
+1206,Spectrum: Autism at Cal,Political & Advocacy RSO 
+1207,Speech at Berkeley,Academic RSO 
+1208,Spikeball at Berkeley,Recreational RSO 
+1209,SPIRE,Professional RSO 
+1210,"S
+Splash at Berkeley",Service RSO 
+1211,Spoon University at Berkeley,Publications RSO 
+1212,Sports Analytics Group at Berkeley,Professional RSO 
+1213,Sports and Entertainment Law Society,Professional RSO 
+1214,Sports Business Group at Berkeley,Professional RSO 
+1215,Spring Foundation,Service RSO 
+1216,Sproul Stompers,Performing Arts RSO 
+1217,"Startup Law Initiative, The",Academic RSO 
+1218,Statistics Graduate Students Association,Academic RSO 
+1219,Steel Bridge Competition Team,Academic RSO 
+1220,STEM Research Outreach,Academic RSO 
+1221,"STEMinist Chronicles, The",Cultural & Identity/Women Interest RSO 
+1222,"S
+Stock and Futures Club",Professional RSO 
+1223,Strait Talk,Cultural & Identity/International RSO 
+1224,Student Action,Political & Advocacy RSO 
+1225,Student American Academy of Optometry,Academic RSO 
+1226,Student Association for Applied Statistics (Formerly Statistics Undergraduate Students Association),Academic RSO 
+1227,Student Association for Fire Ecology at Berkeley,Academic RSO 
+1228,Student Coalition for Disability Rights,Cultural & Identity/Cultural & Ethnic RSO 
+1229,Student Collaborative for Impact Leadership (Formerly Center for Health Leadership Association),Health & Wellness RSO 
+1230,Student Food Collective,Environmental & Sustainability RSO 
+1231,Student Immigration Relief Clinic at Berkeley,Service RSO 
+1232,Student Leadership Board - YWCA,Service RSO 
+1233,Student Nutrition Advocacy Club,Academic RSO 
+1234,"S
+Student Opportunity Fund (SOF)",Campus Department
+1235,"S
+Student Organization for Advanced Legal Studies",Academic RSO 
+1236,Student Parent Association for Recruitment and Retention,Service RSO 
+1237,Student Parent Food Donations Program,Service RSO 
+1238,Student Premed Advising Network,Academic RSO 
+1239,Student Technology Fund,Campus Department
+1240,Student to Student Peer Counseling,Service RSO 
+1241,Student Union Board,ASUC Government Program 
+1242,Students Against Fascism and War,Political & Advocacy RSO 
+1243,Students Demand Action for Gun Sense In America,Political & Advocacy RSO 
+1244,"S
+Students for a National Health Program",Political & Advocacy RSO 
+1245,"S
+Students for Adaptive Sports",Recreational RSO 
+1246,Students for Basic Needs Justice,Political & Advocacy RSO 
+1247,Students for Economic and Environmental Justice,Environmental & Sustainability RSO 
+1248,"S
+Students for Environmental Advocacy and Global University Leadership on Sustainability",Environmental & Sustainability RSO 
+1249,"S
+Students for Environmental Energy Development",Environmental & Sustainability RSO 
+1250,Students for Hip Hop,Recreational RSO 
+1251,Students for Jovanka,Political & Advocacy RSO 
+1252,Students for Justice in Palestine,Political & Advocacy RSO 
+1253,Students for Life at Berkeley,Political & Advocacy RSO 
+1254,"S
+Students for Racial justice, Inclusion, Diversity, and Equity",Political & Advocacy RSO 
+1255,Students for Warren at Berkeley,Political & Advocacy RSO 
+1256,Students of Applied Science and Technology,Departmental RSO 
+1257,Students of Color Emerging in English (Formerly Latinxs Emerging in English),Academic RSO 
+1258,Students of Color Environmental Collective,Political & Advocacy RSO 
+1259,Students of Color in Public Policy,Academic RSO 
+1260,"S
+Sugar Smart",Health & Wellness RSO 
+1261,Suitcase Clinic,Service RSO 
+1262,"S
+Summer International Exchange",Cultural & Identity/International RSO 
+1263,Sunrise Movement Berkeley,Political & Advocacy RSO 
+1264,"Support, ENcourage and Develop for Children of Berkeley",Academic RSO 
+1265,Supporting Peers in Laid-Back Listening,Health & Wellness RSO 
+1266,"S
+Supreme Corks",Academic RSO 
+1267,Surayah Student Union,Cultural & Identity/International RSO 
+1268,Surfrider Foundation UC Berkeley Club,Environmental & Sustainability RSO 
+1269,"S
+Survivor Advocacy Project",Political & Advocacy RSO 
+1270,Sustainability Team at Berkeley Law,Environmental & Sustainability RSO 
+1271,Sustainable Housing at California (Formerly THIMBY/Solar Decathlon),Environmental & Sustainability RSO 
+1272,Sustainable Technology Competition at Berkeley,Environmental & Sustainability RSO 
+1273,"S
+Swim Club at Berkeley",Recreational RSO 
+1274,Synapse,Publications RSO 
+1275,"S
+Synergy",Performing Arts RSO 
+1276,"S
+Synthesizers for Mental Health",Health & Wellness RSO 
+1277,T-Cal,Health & Wellness RSO 
+1278,T.I.n.Y. Chinese Theatre Group,Performing Arts RSO 
+1279,Taiwanese American Student Association,Cultural & Identity/Cultural & Ethnic RSO 
+1280,Taiwanese Student Association,Cultural & Identity/International RSO 
+1281,TAMID Group,Professional RSO 
+1282,"T
+Tao Vegetarian Cooking and Mindfulness",Health & Wellness RSO 
+1283,TASSEL at Berkeley,Service RSO 
+1284,Tassellink,Academic RSO 
+1285,Tau Beta Pi,Academic RSO 
+1286,Tau Kappa Epsilon,CalGreeks Interfraternity Council (IFC) Fraternities 
+1287,TBD Comedy,Performing Arts RSO 
+1288,Teach in Prison,Service RSO 
+1289,Team HBV,Health & Wellness RSO 
+1290,Team Velociraptors,Performing Arts RSO 
+1291,Tech + Social Impact,Technology RSO 
+1292,"T
+Tech Chair",GA Government Office 
+1293,Tech-Know,Service RSO 
+1294,Technology and Public Interest Law and Policy,Professional RSO 
+1295,"T
+TEST GA Graduate Women",GA Government Office 
+1296,Thai Students Association,Cultural & Identity/International RSO 
+1297,Thaqalayn Islamic Society of Berkeley [Formerly Islamic Awareness of Berkeley],Spiritual RSO 
+1298,Theater for Charity,Performing Arts RSO 
+1299,Theta Chi,CalGreeks Interfraternity Council (IFC) Fraternities 
+1300,Theta Delta Chi,CalGreeks Interfraternity Council (IFC) Fraternities 
+1301,Theta Tau,Professional RSO 
+1302,Think Tank of Berkeley,Professional RSO 
+1303,"Thomistic Institute at Berkeley, The",Spiritual RSO 
+1304,Threads (formerly Al-Bayan),Publications RSO 
+1305,Thrive Aspire Lead (formerly known as True Asian Leaders),Service RSO 
+1306,Thrive Dance Company,Performing Arts RSO 
+1307,Thriving in Science,Professional RSO 
+1308,To An Unknown God,Publications RSO 
+1309,Toastmasters on Campus,Professional RSO 
+1310,Together Educating All Children in Hospitals,Service RSO 
+1311,Tokiha,Service RSO 
+1312,Toppa at Berkeley,Professional RSO 
+1313,Trainers Coalition at Berkeley,Health & Wellness RSO 
+1314,Transfer Coalition,Political & Advocacy RSO 
+1315,Translational Medicine & Stem Cell Association (Formerly Student Society for Stem Cell Research),Academic RSO 
+1316,Transportation Graduate Students Organizing Committee,Departmental RSO 
+1317,"T
+Transportation Team at Berkeley",Departmental RSO 
+1318,TRENZA,Cultural & Identity/Women Interest RSO 
+1319,Triathlon Club at Berkeley,Recreational RSO 
+1320,"Troika: An Undergraduate Journal in Slavic, East European and Eurasian Studies",Publications RSO 
+1321,TrueLement,Performing Arts RSO 
+1322,Turkish Student Association at Berkeley,Cultural & Identity/International RSO 
+1323,Tzu Chi Compassion Relief Foundation,Service RSO 
+1324,UC Berkeley Indus,Cultural & Identity/Cultural & Ethnic RSO 
+1325,UC Berkeley Model United Nations,Academic RSO 
+1326,UC Jazz Ensemble,Performing Arts RSO 
+1327,UC Rally Committee,Service RSO 
+1328,"U
+Unbounded Representation",Academic RSO 
+1329,Unconscious Bias Project at Berkeley,Cultural & Identity/Cultural & Ethnic RSO 
+1330,Undergraduate Astronomy Society - Berkeley,Departmental RSO 
+1331,Undergraduate Communications Association,Academic RSO 
+1332,Undergraduate Economics Association,Academic RSO 
+1333,Undergraduate Finance Association|Undergraduate Management Consulting Group,Professional RSO 
+1334,Undergraduate Group for Theoretical Computing,Departmental RSO 
+1335,Undergraduate Journal of Classics at Berkeley,Publications RSO 
+1336,Undergraduate Laboratory at Berkeley,Academic RSO 
+1337,Undergraduate Legal Honors Society (Formerly Law in Practice at Berkeley),Academic RSO 
+1338,Undergraduate Marketing Association,Academic RSO 
+1339,Undergraduate Political Science Association,Academic RSO 
+1340,Undergraduate Real Estate Club,Professional RSO 
+1341,Undergraduate Student Council of the College of Environmental Design,Departmental RSO 
+1342,Undergraduate Women in Economics at Berkeley,Cultural & Identity/Women Interest RSO 
+1343,Underground Scholars Initiative,Cultural & Identity/Cultural & Ethnic RSO 
+1344,Underrepresented Minorities in Economics (Formerly Students of Color in Economics),Academic RSO 
+1345,Underwater Robotics at Berkeley (Formerly Autonomous Underwater Vehicles Team at Berkeley),Professional RSO 
+1346,UNICEF at Berkeley,Service RSO 
+1347,United Nations Association of Berkeley,Service RSO 
+1348,Unity in Christ,Spiritual RSO 
+1349,UNITY Resource Center,Cultural & Identity/LGBTQ+ RSO 
+1350,Universal Love and Peace,Service RSO 
+1351,Universities Allied for Essential Medicines,Service RSO 
+1352,Unmanned Aerial Vehicles at Berkeley,Professional RSO 
+1353,Upsilon Pi Epsilon,Academic RSO 
+1354,UpSync,Professional RSO 
+1355,"U
+UrsaTech",Technology RSO 
+1356,V-Day at Berkeley,Political & Advocacy RSO 
+1357,Valley Consulting Group,Professional RSO 
+1358,Vendition Sales Society (Formerly Vendition Leadership Society of Berkeley),Professional RSO 
+1359,"V
+Venture Capital at Berkeley",Professional RSO 
+1360,Venture Strategy Solutions at Berkeley,Professional RSO 
+1361,Veritas Graduate Christian Fellowship,Spiritual RSO 
+1362,Vex U Robotics at Berkeley,Technology RSO 
+1363,Victoria's Secret PINK,Arts RSO 
+1364,VIDA Medical Volunteer,Service RSO 
+1365,Vietnamese Student Association,Cultural & Identity/International RSO 
+1366,VISION,Cultural & Identity/International RSO 
+1367,Vision Development Club of Berkeley,Professional RSO 
+1368,Vision Science Club,Academic RSO 
+1369,Visiting Scholars Ministry,Spiritual RSO 
+1370,Volunteer Health Interpreters Organization,Health & Wellness RSO 
+1371,Volunteer Income Tax Assistance Program,Service RSO 
+1372,Volunteers Around the World at Berkeley,Service RSO 
+1373,Volunteers for Medical Outreach,Service RSO 
+1374,Voyager Consulting,Professional RSO 
+1375,Wage Justice Clinic,Service RSO 
+1376,Wave Makers of Berkeley,Academic RSO 
+1377,Web Design and Development at Berkeley,Technology RSO 
+1378,West Coast Swing at Berkeley,Performing Arts RSO 
+1379,Whale Watchers at Berkeley,Recreational RSO 
+1380,Women in Animation at Berkeley,Arts RSO 
+1381,Women in Chemistry Initiative,Cultural & Identity/Women Interest RSO 
+1382,Women in Computer Science and Electrical Engineering,Cultural & Identity/Women Interest RSO 
+1383,"W
+Women in Economics at Berkeley",Cultural & Identity/Women Interest RSO 
+1384,women in leadership,Cultural & Identity/Women's Interest RSO 
+1385,Women in Politics at Berkeley,Political & Advocacy RSO 
+1386,"W
+Women in Public Policy",GA Government Office 
+1387,"W
+Women in Science at Berkeley (Formerly IB Women in Science)",Cultural & Identity/Women's Interest RSO 
+1388,Women in Tech Law,Professional RSO 
+1389,Women of Color Initiative,GA Government Project 
+1390,Womxn Ignite at Berkeley,Political & Advocacy RSO 
+1391,Womxn in Mathematics at Berkeley (Formerly Women in Mathematics at Berkeley),Cultural & Identity/Women Interest RSO 
+1392,Womxn of Berkeley Law (formerly known as Women's Association at Berkeley Law),Cultural & Identity/Women Interest RSO 
+1393,Womxn of Color Collective(formerly known as Berkeley Law Women of Color Collective),Cultural & Identity/Women Interest RSO 
+1394,Wonderworks,Service RSO 
+1395,"W
+Workers Rights Disability Law Clinic",Service RSO 
+1396,"W
+Workers' Rights Clinic",Professional RSO 
+1397,World Peace Buddhists,Spiritual RSO 
+1398,Wrestling Club at Berkeley,Recreational RSO 
+1399,"X
+XR Lab - Immersive Design Student Club",Technology RSO 
+1400,Yemeni Student Association of Berkeley,Cultural & Identity/International RSO 
+1401,You Mean More,Health & Wellness RSO 
+1402,Young Americans for Liberty,Political & Advocacy RSO 
+1403,Young Democratic Socialists of America at Berkeley,Political & Advocacy RSO 
+1404,Young Life College at Berkeley,Spiritual RSO 
+1405,Young Musicians Outreach at Berkeley,Arts RSO 
+1406,"Y
+Youth Advocacy Project",Service RSO 
+1407,YWCA Girls* Group Mentoring Program,Service RSO 
+1408,Zahanat,Performing Arts RSO 
+1409,Zawadi: Black LGBTQ Community at Berkeley,Cultural & Identity/LGBTQ+ RSO 
+1410,"Z
+Zeta Chi Consulting",Professional RSO 
+1411,Zeta Tau Alpha,CalGreeks Panhellenic Council (PHC) Sororities 
+1412,[make]new christian fellowship,Spiritual RSO 
