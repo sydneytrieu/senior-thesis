@@ -1,6 +1,7 @@
 # How the ASUC funds student organizations
 
-To interact with the Jupyter notebooks in this repo, click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sydneytrieu/senior-thesis/main)
+If you have issues viewing Jupyter notebooks in this repo or would like to interact with them, launch Binder here:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sydneytrieu/senior-thesis/main)
 
 ## About
 

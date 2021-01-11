@@ -6,3 +6,4 @@ scipy
 re
 pickle
 selenium
+fuzzywuzzy
