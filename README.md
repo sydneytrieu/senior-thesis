@@ -1,5 +1,4 @@
 # How the ASUC funds student organizations
-_Advised by Professor Deirdre Mulligan_
 
 To interact with the Jupyter notebooks in this repo, click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sydneytrieu/senior-thesis/main)
 
