@@ -1,4 +1,5 @@
 # How the ASUC funds student organizations
+Advised by Deirdre Mulligan, Professor at the School of Information.
 
 ## About
 
