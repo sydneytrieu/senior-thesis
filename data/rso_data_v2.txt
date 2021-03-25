@@ -1589,13 +1589,13 @@
 1587,2016,"Alpha Epsilon Zeta Fraternity, Inc.",SAG,Professional RSO,12,1800.0
 1588,2016,Alpha Kappa Psi,SAG,Academic RSO,6,1200.0
 1589,2016,Alpha Phi Omega,SAG,Service RSO,31,3000.0
-1590,2016,American Indian Science and Engineering Society,SAG,Cultural & Identity/Cultural & Ethnic RSO,0,0.0
-1591,2016,American Institute of Aeronautics and Astronautics,SAG,Departmental RSO,0,0.0
+1590,2016,American Indian Science and Engineering Society,SAG,Cultural & Identity/Cultural & Ethnic RSO,1,0.0
+1591,2016,American Institute of Aeronautics and Astronautics,SAG,Departmental RSO,1,0.0
 1592,2016,American Institute of Architecture Students,SAG,Professional RSO,8,200.0
 1593,2016,American Medical Student Association--Berkeley Premedical Chapter,SAG,Professional RSO,18,500.0
 1594,2016,American Medical Women's Association at Berkeley,SAG,Cultural & Identity/Women Interest RSO,3,500.0
 1595,2016,American Parliamentary Debate Society of Berkeley,SAG,Academic RSO,5,900.0
-1596,2016,Anthropology Undergraduate Association,SAG,Departmental RSO,0,200.0
+1596,2016,Anthropology Undergraduate Association,SAG,Departmental RSO,1,200.0
 1597,2016,Argentine Tango Club of Berkeley,SAG,Performing Arts RSO,6,1200.0
 1598,2016,Armenian Student Association,SAG,Cultural & Identity/International RSO,34,2200.0
 1599,2016,Artists in Resonance,SAG,Performing Arts RSO,1,500.0
@@ -1612,22 +1612,22 @@
 1610,2016,Berkeley Carillon Guild,SAG,Performing Arts RSO,13,250.0
 1611,2016,Berkeley Chinese Students and Scholars Association,SAG,Cultural & Identity/International RSO,11,1400.0
 1612,2016,Berkeley College Republicans,SAG,Political & Advocacy RSO,21,3900.0
-1613,2016,Berkeley Consulting,SAG,Professional RSO,0,0.0
-1615,2016,Berkeley Energy,SAG,Environmental & Sustainability RSO,0,0.0
+1613,2016,Berkeley Consulting,SAG,Professional RSO,1,0.0
+1615,2016,Berkeley Energy,SAG,Environmental & Sustainability RSO,1,0.0
 1616,2016,Berkeley Indonesian Student Association,SAG,Cultural & Identity/International RSO,2,150.0
-1617,2016,Berkeley Innovation,SAG,Arts RSO,0,0.0
-1618,2016,Berkeley Investment Group,SAG,Professional RSO,0,0.0
+1617,2016,Berkeley Innovation,SAG,Arts RSO,1,0.0
+1618,2016,Berkeley Investment Group,SAG,Professional RSO,1,0.0
 1619,2016,BERKOP,SAG,Publications RSO,3,500.0
 1620,2016,Berkeley Organization for Animal Advocacy,SAG,Political & Advocacy RSO,17,1700.0
-1621,2016,Berkeley Undergraduate Sociology Association,SAG,Departmental RSO,0,0.0
+1621,2016,Berkeley Undergraduate Sociology Association,SAG,Departmental RSO,1,0.0
 1622,2016,Berkeley Water Group Idea Lab,SAG,Environmental & Sustainability RSO,1,400.0
 1623,2016,Berkeley Women in Business,SAG,Cultural & Identity/Women Interest RSO,14,500.0
-1624,2016,Bioengineering Honor Society,SAG,Academic RSO,0,0.0
-1625,2016,Blockchain at Berkeley,SAG,Technology RSO,0,0.0
-1626,2016,Black Engineering and Science Students Association,SAG,Cultural & Identity/Cultural & Ethnic RSO,0,0.0
+1624,2016,Bioengineering Honor Society,SAG,Academic RSO,1,0.0
+1625,2016,Blockchain at Berkeley,SAG,Technology RSO,1,0.0
+1626,2016,Black Engineering and Science Students Association,SAG,Cultural & Identity/Cultural & Ethnic RSO,1,0.0
 1627,2016,Black Student Union,SAG,Cultural & Identity/Cultural & Ethnic RSO,7,600.0
 1628,2016,Berkeley Hyperloop,SAG,Technology RSO,1,500.0
-1629,2016,Brazilian Jiu-Jitsu at Berkeley,SAG,Recreational RSO,0,0.0
+1629,2016,Brazilian Jiu-Jitsu at Berkeley,SAG,Recreational RSO,1,0.0
 1630,2016,Business Careers in Entertainment Club,SAG,Professional RSO,3,500.0
 1631,2016,CafeCat: Grup de conversa en català,SAG,Cultural & Identity/International RSO,1,0.0
 1632,2016,Cal Actuarial League,SAG,Professional RSO,12,400.0
@@ -1644,19 +1644,19 @@
 1643,2016,Cal Undergraduate Public Health Coalition,SAG,Academic RSO,13,550.0
 1644,2016,California Mock Trial,SAG,Academic RSO,17,17500.0
 1645,2016,CalSol,SAG,Professional RSO,16,0.0
-1646,2016,Canadian Student Association,SAG,Cultural & Identity/International RSO,0,0.0
+1646,2016,Canadian Student Association,SAG,Cultural & Identity/International RSO,1,0.0
 1647,2016,Capital Investments at Berkeley,SAG,Professional RSO,1,400.0
 1648,2016,Catholic Students at Cal - Newman Hall,SAG,Spiritual RSO,5,500.0
-1649,2016,CED Wellness Leaders,SAG,Health & Wellness RSO,0,0.0
+1649,2016,CED Wellness Leaders,SAG,Health & Wellness RSO,1,0.0
 1650,2016,Channel University,SAG,Spiritual RSO,2,500.0
-1651,2016,Chi Epsilon - Civil Engineering Honor Society,SAG,Academic RSO,0,0.0
+1651,2016,Chi Epsilon - Civil Engineering Honor Society,SAG,Academic RSO,1,0.0
 1652,2016,Chinese A Cappella at Berkeley,SAG,Performing Arts RSO,3,500.0
 1653,2016,Chinese People Union,SAG,Cultural & Identity/International RSO,13,1900.0
 1654,2016,Chinese Student Association,SAG,Cultural & Identity/International RSO,27,3800.0
 1655,2016,Christian Medical and Dental Associations Chapter at Berkeley,SAG,Health & Wellness RSO,4,170.0
 1656,2016,Circle K International,SAG,Service RSO,22,4300.0
 1657,2016,Cognitive Science Students Association,SAG,Academic RSO,23,500.0
-1658,2016,College Ski and Snowboard Club,SAG,Recreational RSO,0,0.0
+1658,2016,College Ski and Snowboard Club,SAG,Recreational RSO,1,0.0
 1659,2016,Colombians at Berkeley,SAG,Cultural & Identity/International RSO,2,500.0
 1660,2016,Committee for Korea Studies,SAG,Cultural & Identity/International RSO,12,900.0
 1661,2016,Common Cause of Berkeley,SAG,Political & Advocacy RSO,5,235.0
@@ -1664,93 +1664,93 @@
 1663,2016,Concrete Canoe,SAG,Departmental RSO,23,0.0
 1664,2016,Connection: Christians in Business,SAG,Spiritual RSO,1,250.0
 1665,2016,Consult Your Community (CYC) at Berkeley,SAG,Professional RSO,1,900.0
-1666,2016,Coptic Club at Berkeley,SAG,Spiritual RSO,0,0.0
+1666,2016,Coptic Club at Berkeley,SAG,Spiritual RSO,1,0.0
 1667,2016,Creative Applications to Life in Origami,SAG,Arts RSO,5,150.0
 1668,2016,CMG Strategy Consulting,SAG,Professional RSO,4,900.0
 1669,2016,Creative Residencies for Emerging Artists Teaching Empowerment,SAG,Service RSO,4,700.0
-1670,2016,CREWs UC Berkeley,SAG,Academic RSO,0,0.0
+1670,2016,CREWs UC Berkeley,SAG,Academic RSO,1,0.0
 1671,2016,Crossroads Christian Fellowship: Chinese for Christ Berkeley Church,SAG,Recreational RSO,6,800.0
-1672,2016,Cru,SAG,Spiritual RSO,0,0.0
-1673,2016,CS KickStart,SAG,Academic RSO,0,0.0
-1674,2016,Cultural Connections of Berkeley,SAG,Cultural & Identity/Cultural & Ethnic RSO,0,200.0
+1672,2016,Cru,SAG,Spiritual RSO,1,0.0
+1673,2016,CS KickStart,SAG,Academic RSO,1,0.0
+1674,2016,Cultural Connections of Berkeley,SAG,Cultural & Identity/Cultural & Ethnic RSO,1,200.0
 1675,2016,Curling Club at Berkeley,SAG,Recreational RSO,4,500.0
 1676,2016,Danceworx,SAG,Performing Arts RSO,20,2000.0
-1677,2016,Data Science Society at Berkeley,SAG,Technology RSO,0,0.0
-1678,2016,Datong Society of China Studies at Berkeley,SAG,Departmental RSO,0,0.0
+1677,2016,Data Science Society at Berkeley,SAG,Technology RSO,1,0.0
+1678,2016,Datong Society of China Studies at Berkeley,SAG,Departmental RSO,1,0.0
 1679,2016,Delta Kappa Alpha,SAG,Professional RSO,1,400.0
 1680,2016,Delta Phi Epsilon Co-ed Professional Foreign Service Fraternity,SAG,Professional RSO,14,500.0
-1681,2016,Department of Integrative Biology Students,SAG,Departmental RSO,0,0.0
-1682,2016,DiversaTech,SAG,Technology RSO,0,0.0
+1681,2016,Department of Integrative Biology Students,SAG,Departmental RSO,1,0.0
+1682,2016,DiversaTech,SAG,Technology RSO,1,0.0
 1683,2016,East Asian Union,SAG,Cultural & Identity/International RSO,6,1400.0
 1684,2016,Eggster Organization,SAG,Service RSO,16,1500.0
 1685,2016,EGO (Cal's Traditional Korean Percussion Group),SAG,Performing Arts RSO,6,900.0
 1686,2016,elecTONIC,SAG,Recreational RSO,1,850.0
-1687,2016,Engineering Innovation & Consulting,SAG,Professional RSO,0,0.0
+1687,2016,Engineering Innovation & Consulting,SAG,Professional RSO,1,0.0
 1688,2016,Engineering Student Council,SAG,Departmental RSO,24,77100.0
 1689,2016,English Undergraduate Association,SAG,Academic RSO,11,300.0
-1690,2016,Epic Movement at Berkeley,SAG,Spiritual RSO,0,0.0
-1691,2016,Escape the Lights Social Club,SAG,Recreational RSO,0,0.0
+1690,2016,Epic Movement at Berkeley,SAG,Spiritual RSO,1,0.0
+1691,2016,Escape the Lights Social Club,SAG,Recreational RSO,1,0.0
 1692,2016,Gaming at Berkeley,SAG,Recreational RSO,4,750.0
-1693,2016,EU Student Ambassadors at Berkeley,SAG,Cultural & Identity/International RSO,0,0.0
+1693,2016,EU Student Ambassadors at Berkeley,SAG,Cultural & Identity/International RSO,1,0.0
 1694,2016,Fashion and Student Trends,SAG,Arts RSO,5,500.0
 1695,2016,Fei Tian Dancers,SAG,Performing Arts RSO,13,500.0
-1696,2016,FEMTech,SAG,Cultural & Identity/Women Interest RSO,0,0.0
+1696,2016,FEMTech,SAG,Cultural & Identity/Women Interest RSO,1,0.0
 1697,2016,Golden Paw Productions,SAG,Media & Film RSO,3,500.0
 1698,2016,Finance and Entrepreneurship Club,SAG,Professional RSO,2,500.0
-1699,2016,Financial Literacy and Economic Justice Conference,SAG,Professional RSO,0,0.0
+1699,2016,Financial Literacy and Economic Justice Conference,SAG,Professional RSO,1,0.0
 1700,2016,Food Science and Tech at Cal,SAG,Academic RSO,3,0.0
-1701,2016,"Food, Equity, Entrepreneurship, & Development",SAG,Professional RSO,0,0.0
+1701,2016,"Food, Equity, Entrepreneurship, & Development",SAG,Professional RSO,1,0.0
 1702,2016,Foresight Pre-Optometry Club,SAG,Academic RSO,25,1150.0
-1703,2016,Freshman and Sophomore Business Club,SAG,Departmental RSO,0,0.0
+1703,2016,Freshman and Sophomore Business Club,SAG,Departmental RSO,1,0.0
 1704,2016,"Future Business Leaders of America-Phi Beta Lambda, Inc.",SAG,Professional RSO,12,1850.0
 1705,2016,Geological Association at Berkeley,SAG,Departmental RSO,1,400.0
-1706,2016,Global Business Brigades at Berkeley,SAG,Service RSO,0,200.0
+1706,2016,Global Business Brigades at Berkeley,SAG,Service RSO,1,200.0
 1707,2016,Cal Bhangra,SAG,Performing Arts RSO,2,500.0
 1708,2016,Golden Squares,SAG,Performing Arts RSO,3,500.0
-1709,2016,Guitar Club at Berkeley,SAG,Performing Arts RSO,0,0.0
+1709,2016,Guitar Club at Berkeley,SAG,Performing Arts RSO,1,0.0
 1710,2016,Haas Business School Association,SAG,Academic RSO,1,500.0
-1711,2016,Hellenic Student Association at Berkeley,SAG,Cultural & Identity/International RSO,0,0.0
+1711,2016,Hellenic Student Association at Berkeley,SAG,Cultural & Identity/International RSO,1,0.0
 1712,2016,Hindu Students Council,SAG,Spiritual RSO,9,1050.0
 1713,2016,Hong Kong Student Association,SAG,Cultural & Identity/International RSO,24,2400.0
 1714,2016,"Somali, Ethiopian, Eritrean, South Sudanese, Sudanese Association (SEE§A)",SAG,Cultural & Identity/International RSO,21,1000.0
 1715,2016,Human Rights of the Incarcerated Coalition,SAG,Service RSO,4,400.0
 1716,2016,Humans of Berkeley,SAG,Media & Film RSO,3,500.0
-1717,2016,Hyperloop Initiative Program,SAG,Professional RSO,0,0.0
+1717,2016,Hyperloop Initiative Program,SAG,Professional RSO,1,0.0
 1718,2016,Indian Students Association,SAG,Cultural & Identity/International RSO,13,8600.0
 1719,2016,UC Berkeley Indus,SAG,Cultural & Identity/Cultural & Ethnic RSO,28,12500.0
 1720,2016,Ink at Berkeley,SAG,Arts RSO,3,500.0
 1721,2016,Interfaith Action Initiative,SAG,Spiritual RSO,2,400.0
-1722,2016,International Students' Advisory Committee,SAG,Cultural & Identity/International RSO,0,0.0
+1722,2016,International Students' Advisory Committee,SAG,Cultural & Identity/International RSO,1,0.0
 1723,2016,International Students Association at Berkeley,SAG,Cultural & Identity/International RSO,16,1100.0
 1724,2016,International Youth and Students for Social Equality,SAG,Political & Advocacy RSO,4,425.0
 1725,2016,InterVarsity Christian Fellowship,SAG,Spiritual RSO,18,3800.0
-1726,2016,"Iota Sigma Pi, Hydrogen Chapter",SAG,Professional RSO,0,0.0
+1726,2016,"Iota Sigma Pi, Hydrogen Chapter",SAG,Professional RSO,1,0.0
 1727,2016,Irish Dancers of Berkeley,SAG,Recreational RSO,3,500.0
 1728,2016,Italian Society at Berkeley,SAG,Cultural & Identity/International RSO,16,1800.0
 1729,2016,Jakara Movement Club at Berkeley,SAG,Cultural & Identity/Cultural & Ethnic RSO,1,0.0
 1730,2016,Jericho!,SAG,Performing Arts RSO,11,500.0
 1731,2016,Jewish Student Union,SAG,Spiritual RSO,39,15000.0
-1732,2016,Jugger at Berkeley,SAG,Recreational RSO,0,400.0
+1732,2016,Jugger at Berkeley,SAG,Recreational RSO,1,400.0
 1733,2016,Kappa Alpha Pi Pre-Law Fraternity,SAG,Professional RSO,2,0.0
 1734,2016,Kappa Alpha Pi Pre-Law Fraternity,SAG,Professional RSO,1,0.0
 1735,2016,Kappa Gamma Delta,SAG,Professional RSO,14,1300.0
-1736,2016,Nazakat at Berkeley,SAG,Performing Arts RSO,0,500.0
+1736,2016,Nazakat at Berkeley,SAG,Performing Arts RSO,1,500.0
 1737,2016,Klesis,SAG,Spiritual RSO,5,1000.0
 1738,2016,Koinonia Campus Fellowship,SAG,Spiritual RSO,11,2050.0
 1739,2016,Korean American Student Association,SAG,Cultural & Identity/Cultural & Ethnic RSO,35,4700.0
 1740,2016,Korean Performance Group,SAG,Performing Arts RSO,2,500.0
-1741,2016,Korean Performance Group,SAG,Performing Arts RSO,0,0.0
-1742,2016,Korean Tennis Club,SAG,Recreational RSO,0,0.0
+1741,2016,Korean Performance Group,SAG,Performing Arts RSO,1,0.0
+1742,2016,Korean Tennis Club,SAG,Recreational RSO,1,0.0
 1743,2016,Korean Undergraduate Networking Association,SAG,Professional RSO,9,400.0
-1744,2016,Korean-American Scientists and Engineers Association (Silicon Valley Chapter),SAG,Academic RSO,0,0.0
+1744,2016,Korean-American Scientists and Engineers Association (Silicon Valley Chapter),SAG,Academic RSO,1,0.0
 1745,2016,K-Popular at Berkeley,SAG,Cultural & Identity/Cultural & Ethnic RSO,6,500.0
 1746,2016,Latin American Leadership Society,SAG,Cultural & Identity/Cultural & Ethnic RSO,2,500.0
 1747,2016,Latinx Pre-Law Society,SAG,Professional RSO,14,1500.0
 1748,2016,Latino Business Student Association,SAG,Academic RSO,1,400.0
 1749,2016,Students of Color Emerging in English,SAG,Academic RSO,1,0.0
-1750,2016,Undergraduate Legal Honors Society,SAG,Academic RSO,0,600.0
+1750,2016,Undergraduate Legal Honors Society,SAG,Academic RSO,1,600.0
 1751,2016,Lebanese Student Association at Berkeley (LSAB),SAG,Cultural & Identity/International RSO,3,700.0
-1752,2016,Legends of Berkeley,SAG,Recreational RSO,0,0.0
+1752,2016,Legends of Berkeley,SAG,Recreational RSO,1,0.0
 1753,2016,Liberty in North Korea at Berkeley,SAG,Political & Advocacy RSO,12,700.0
 1754,2016,Lindy On Sproul,SAG,Performing Arts RSO,6,1100.0
 1755,2016,Lobby Days Coalition at Berkeley,SAG,Political & Advocacy RSO,1,500.0
@@ -1759,18 +1759,18 @@
 1758,2016,Marketing Community at Berkeley,SAG,Professional RSO,3,500.0
 1759,2016,Materials Science and Engineering Association,SAG,Departmental RSO,3,0.0
 1760,2016,Mexican Association of Students at Berkeley,SAG,Cultural & Identity/International RSO,3,500.0
-1761,2016,Microbial Sciences Association,SAG,Academic RSO,0,0.0
+1761,2016,Microbial Sciences Association,SAG,Academic RSO,1,0.0
 1762,2016,Microfinance at Berkeley,SAG,Service RSO,5,500.0
 1763,2016,Mind Body Nutrition: Students for Integrative and Preventive Medicine,SAG,Health & Wellness RSO,4,500.0
 1764,2016,"Molecular and Cell Biology, Cell Developmental, Neurobiological Association",SAG,Departmental RSO,3,500.0
 1765,2016,The Movement,SAG,Performing Arts RSO,16,3700.0
 1766,2016,Muslim Student Association,SAG,Spiritual RSO,30,10400.0
 1767,2016,National Organization for Women,SAG,Cultural & Identity/Women Interest RSO,17,1200.0
-1768,2016,National Student Speech Language Hearing Association at Berkeley,SAG,Academic RSO,0,0.0
-1769,2016,Nepalese Student Association,SAG,Cultural & Identity/International RSO,0,0.0
+1768,2016,National Student Speech Language Hearing Association at Berkeley,SAG,Academic RSO,1,0.0
+1769,2016,Nepalese Student Association,SAG,Cultural & Identity/International RSO,1,0.0
 1770,2016,Net Impact at Berkeley,SAG,Professional RSO,15,1400.0
 1771,2016,Nikkei Student Union,SAG,Cultural & Identity/International RSO,15,1500.0
-1772,2016,Nuclear Policy Working Group,SAG,Academic RSO,0,0.0
+1772,2016,Nuclear Policy Working Group,SAG,Academic RSO,1,0.0
 1773,2016,Olive Tree Initiative,SAG,Sponsored RSO,6,1000.0
 1774,2016,Olive Tree Initiative,SAG,Sponsored RSO,3,800.0
 1775,2016,Omicron Delta Epsilon,SAG,Professional RSO,10,450.0
@@ -1792,9 +1792,9 @@
 1791,2016,Pilipino American Alliance,SAG,Cultural & Identity/Cultural & Ethnic RSO,26,8320.0
 1792,2016,Pilipino Association for Health Careers,SAG,Professional RSO,24,2000.0
 1793,2016,"Pilipinx Association of Scientists, Architects, and Engineers",SAG,Professional RSO,28,900.0
-1794,2016,Pilipino Basketball Association,SAG,Recreational RSO,0,0.0
-1795,2016,Plurality,SAG,Cultural & Identity/LGBTQ+ RSO,0,0.0
-1796,2016,Pointe of Berkeley,SAG,Performing Arts RSO,0,0.0
+1794,2016,Pilipino Basketball Association,SAG,Recreational RSO,1,0.0
+1795,2016,Plurality,SAG,Cultural & Identity/LGBTQ+ RSO,1,0.0
+1796,2016,Pointe of Berkeley,SAG,Performing Arts RSO,1,0.0
 1797,2016,Pokemon Club at Berkeley,SAG,Recreational RSO,4,700.0
 1798,2016,Pre-Law Coalition for Social Justice at Berkeley,SAG,Professional RSO,1,600.0
 1799,2016,PreDental Society,SAG,Professional RSO,34,900.0
@@ -1803,8 +1803,8 @@
 1802,2016,"Pre-Pharmacy Informational, Learning and Leadership Society",SAG,Professional RSO,16,1800.0
 1803,2016,"Project Pengyou, Berkeley Chapter",SAG,Cultural & Identity/International RSO,2,500.0
 1804,2016,Psi Chi,SAG,Academic RSO,10,200.0
-1805,2016,Psychedelic Science Society,SAG,Academic RSO,0,0.0
-1806,2016,Quidditch League at Berkeley,SAG,Recreational RSO,0,400.0
+1805,2016,Psychedelic Science Society,SAG,Academic RSO,1,0.0
+1806,2016,Quidditch League at Berkeley,SAG,Recreational RSO,1,400.0
 1807,2016,Ra-On,SAG,Performing Arts RSO,6,850.0
 1808,2016,Rising Immigrant Scholars through Education - RISE,SAG,Service RSO,3,3000.0
 1809,2016,Rubik's Cube Club at Berkeley,SAG,Recreational RSO,4,475.0
@@ -1812,28 +1812,28 @@
 1811,2016,SACNAS at Berkeley: Undergraduate Chapter,SAG,Service RSO,4,700.0
 1812,2016,Salsa at Cal,SAG,Recreational RSO,6,700.0
 1813,2016,Sather Health: Issues in Student Health,SAG,Publications RSO,4,750.0
-1814,2016,Saudi Arabian Association at Berkeley,SAG,Cultural & Identity/International RSO,0,0.0
-1815,2016,Science Olympiad at Berkeley,SAG,Academic RSO,0,0.0
+1814,2016,Saudi Arabian Association at Berkeley,SAG,Cultural & Identity/International RSO,1,0.0
+1815,2016,Science Olympiad at Berkeley,SAG,Academic RSO,1,0.0
 1816,2016,Sigma Alpha Nu,SAG,Academic RSO,9,300.0
 1817,2016,Sigma Eta Pi,SAG,Professional RSO,1,0.0
 1818,2016,Sigma Iota Rho: International & Area Studies Honor Society,SAG,Academic RSO,2,500.0
 1819,2016,Sikh Students Association,SAG,Cultural & Identity/Cultural & Ethnic RSO,11,1100.0
 1820,2016,Singapore Student Association,SAG,Cultural & Identity/International RSO,9,400.0
-1821,2016,Sirius at Berkeley (Sirius),SAG,Recreational RSO,0,0.0
+1821,2016,Sirius at Berkeley (Sirius),SAG,Recreational RSO,1,0.0
 1822,2016,Smart Woman Securities at Berkeley,SAG,Professional RSO,1,400.0
 1823,2016,Society of Asian Scientists and Engineers,SAG,Professional RSO,5,300.0
-1824,2016,Society of Engineering Sciences,SAG,Academic RSO,0,0.0
-1825,2016,Society of Linguistics Undergraduate Students,SAG,Departmental RSO,0,0.0
+1824,2016,Society of Engineering Sciences,SAG,Academic RSO,1,0.0
+1825,2016,Society of Linguistics Undergraduate Students,SAG,Departmental RSO,1,0.0
 1826,2016,Sociological Research Symposium Committee,SAG,Academic RSO,3,500.0
-1827,2016,Solar Decathlon,SAG,Environmental & Sustainability RSO,0,0.0
+1827,2016,Solar Decathlon,SAG,Environmental & Sustainability RSO,1,0.0
 1828,2016,Speech at Berkeley,SAG,Academic RSO,7,500.0
 1829,2016,SPIRE,SAG,Professional RSO,3,500.0
 1830,2016,Strait Talk,SAG,Cultural & Identity/International RSO,9,1000.0
-1831,2016,Student Nutrition Advocacy Club,SAG,Academic RSO,0,200.0
+1831,2016,Student Nutrition Advocacy Club,SAG,Academic RSO,1,200.0
 1832,2016,Student Premed Advising Network,SAG,Academic RSO,2,400.0
 1833,2016,Translational Medicine & Stem Cell Association,SAG,Academic RSO,4,400.0
 1834,2016,Students for Bernie Sanders,SAG,Political & Advocacy RSO,1,500.0
-1835,2016,Students for Hillary at Berkeley,SAG,Political & Advocacy RSO,0,0.0
+1835,2016,Students for Hillary at Berkeley,SAG,Political & Advocacy RSO,1,0.0
 1836,2016,Students for Hip Hop,SAG,Recreational RSO,16,6900.0
 1837,2016,Students for Life at Berkeley,SAG,Political & Advocacy RSO,18,1400.0
 1838,2016,"Students for Sensible Drug Policy, UC Berkeley Chapter",SAG,Political & Advocacy RSO,6,500.0
@@ -1841,7 +1841,7 @@
 1840,2016,Surf Team at Berkeley ,SAG,Recreational RSO,4,100.0
 1841,2016,T.I.n.Y. Chinese Theatre Group,SAG,Performing Arts RSO,1,500.0
 1842,2016,Taiwanese Student Association,SAG,Cultural & Identity/International RSO,20,2200.0
-1843,2016,TAMID Group,SAG,Professional RSO,0,0.0
+1843,2016,TAMID Group,SAG,Professional RSO,1,0.0
 1844,2016,TBD Comedy,SAG,Performing Arts RSO,5,500.0
 1845,2016,Berkeley Tennis Association,SAG,Recreational RSO,3,200.0
 1846,2016,The Bearettes Drill Team at Berkeley,SAG,Performing Arts RSO,1,400.0
@@ -1851,13 +1851,13 @@
 1850,2016,The Classical Forum at Berkeley,SAG,Academic RSO,2,500.0
 1851,2016,The Music Connection,SAG,Service RSO,8,400.0
 1852,2016,Theatre Rice: Modern Asian-American Theater,SAG,Performing Arts RSO,17,2600.0
-1853,2016,Theatrical,SAG,Performing Arts RSO,0,0.0
+1853,2016,Theatrical,SAG,Performing Arts RSO,1,0.0
 1854,2016,Tiny House in My Backyard,SAG,Environmental & Sustainability RSO,3,500.0
 1855,2016,Toxicology Student Association of Berkeley,SAG,Departmental RSO,6,400.0
 1856,2016,Tzu Chi Compassion Relief Foundation,SAG,Service RSO,9,300.0
 1857,2016,Azaad,SAG,Performing Arts RSO,4,900.0
-1858,2016,Undergraduate Astronomy Society - Berkeley,SAG,Departmental RSO,0,0.0
-1859,2016,Undergraduate Biology Journal Club,SAG,Academic RSO,0,100.0
+1858,2016,Undergraduate Astronomy Society - Berkeley,SAG,Departmental RSO,1,0.0
+1859,2016,Undergraduate Biology Journal Club,SAG,Academic RSO,1,100.0
 1860,2016,Undergraduate Communications Association,SAG,Academic RSO,3,1000.0
 1861,2016,Undergraduate Economics Association,SAG,Academic RSO,16,600.0
 1862,2016,Undergraduate Finance Association|Undergraduate Management Consulting Group,SAG,Professional RSO,9,300.0
@@ -1865,24 +1865,24 @@
 1864,2016,Undergraduate Real Estate Club,SAG,Professional RSO,3,500.0
 1865,2016,Student Association for Applied Statistics,SAG,Academic RSO,2,500.0
 1866,2016,Undergraduate Women in Economics at Berkeley,SAG,Cultural & Identity/Women Interest RSO,1,0.0
-1867,2016,United Nations Association of Berkeley,SAG,Service RSO,0,0.0
+1867,2016,United Nations Association of Berkeley,SAG,Service RSO,1,0.0
 1868,2016,UC Berkeley Model United Nations,SAG,Academic RSO,24,8000.0
 1869,2016,UC Rally Committee,SAG,Service RSO,116,35800.0
-1870,2016,Unmanned Aerial Vehicles at Berkeley,SAG,Professional RSO,0,400.0
+1870,2016,Unmanned Aerial Vehicles at Berkeley,SAG,Professional RSO,1,400.0
 1871,2016,Upsilon Pi Epsilon,SAG,Academic RSO,3,500.0
-1872,2016,Venture Strategy Solutions at Berkeley,SAG,Professional RSO,0,0.0
+1872,2016,Venture Strategy Solutions at Berkeley,SAG,Professional RSO,1,0.0
 1873,2016,Womxn in Mathematics at Berkeley,SAG,Cultural & Identity/Women Interest RSO,3,500.0
-1874,2016,Yemeni Student Association of Berkeley,SAG,Cultural & Identity/International RSO,0,0.0
-1875,2016,(RE)generation: Indigenous Social Welfare Caucus,SISG,Cultural & Identity/Cultural & Ethnic RSO,0,0.0
+1874,2016,Yemeni Student Association of Berkeley,SAG,Cultural & Identity/International RSO,1,0.0
+1875,2016,(RE)generation: Indigenous Social Welfare Caucus,SISG,Cultural & Identity/Cultural & Ethnic RSO,1,0.0
 1876,2016,100 Strong: Female Mentorship and Leadership Development,SISG,Service RSO,3,600.0
 1877,2016,Asian American and Pacific Islander Health Research Group,SISG,Health & Wellness RSO,4,600.0
-1878,2016,Academic Cultural Enrichment Coaches,SISG,Service RSO,0,0.0
-1879,2016,Active for Alzheimer's at Berkeley,SISG,Service RSO,0,0.0
+1878,2016,Academic Cultural Enrichment Coaches,SISG,Service RSO,1,0.0
+1879,2016,Active for Alzheimer's at Berkeley,SISG,Service RSO,1,0.0
 1880,2016,Alternative Breaks,SISG,Service RSO,14,3000.0
 1881,2016,Bone Health Initiative,SISG,Health & Wellness RSO,2,600.0
 1882,2016,American Red Cross at Cal,SISG,Service RSO,12,5400.0
 1883,2016,Amnesty International,SISG,Service RSO,36,700.0
-1884,2016,ANova,SISG,Service RSO,0,0.0
+1884,2016,ANova,SISG,Service RSO,1,0.0
 1885,2016,Anti-Trafficking Coalition at Berkeley,SISG,Service RSO,8,1500.0
 1886,2016,Middle Eastern North African Recruitment and Retention Center,SISG,Sponsored RSO,2,600.0
 1887,2016,ASUC Student Legal Clinic,SISG,Service RSO,33,1500.0
@@ -1894,13 +1894,13 @@
 1893,2016,Berkeley Cambodian Students Association,SISG,Cultural & Identity/International RSO,2,800.0
 1894,2016,Berkeley Medical Reserve Corps,SISG,Health & Wellness RSO,3,600.0
 1895,2016,Best Buddies at Berkeley,SISG,Service RSO,10,500.0
-1896,2016,Best Laid Plans,SISG,Performing Arts RSO,0,0.0
+1896,2016,Best Laid Plans,SISG,Performing Arts RSO,1,0.0
 1897,2016,Black Recruitment and Retention Center,SISG,Sponsored RSO,34,43800.0
 1898,2016,Blood Pressure Project,SISG,Service RSO,3,500.0
 1899,2016,"Blueprint, Technology for Nonprofits",SISG,Service RSO,5,300.0
 1900,2016,Body Peace,SISG,Health & Wellness RSO,4,120.0
 1901,2016,bridges Multicultural Resource Center,SISG,Sponsored RSO,20,27300.0
-1902,2016,BUILD Literacy Program,SISG,Service RSO,0,0.0
+1902,2016,BUILD Literacy Program,SISG,Service RSO,1,0.0
 1903,2016,Cal Habitat for Humanity,SISG,Service RSO,16,2400.0
 1904,2016,Cal in Local Government,SISG,Service RSO,9,1500.0
 1905,2016,Cal Queer & Asian,SISG,Cultural & Identity/LGBTQ+ RSO,7,1100.0
@@ -1911,7 +1911,7 @@
 1910,2016,Chicanx/Latinx Architecture Student Association,SISG,Cultural & Identity/Cultural & Ethnic RSO,3,400.0
 1911,2016,Chicano(a)s/Latino(a)s in Health Education,SISG,Cultural & Identity/Cultural & Ethnic RSO,27,3000.0
 1912,2016,Colleges Against Cancer,SISG,Service RSO,6,1700.0
-1913,2016,Computer Science Mentors,SISG,Departmental RSO,0,0.0
+1913,2016,Computer Science Mentors,SISG,Departmental RSO,1,0.0
 1914,2016,Creative Residencies for Emerging Artists Teaching Empowerment,SISG,Service RSO,4,700.0
 1915,2016,Dance the Bay,SISG,Performing Arts RSO,2,500.0
 1916,2016,Disabled Students' Union,SISG,Cultural & Identity/Cultural & Ethnic RSO,12,1400.0
@@ -1919,16 +1919,16 @@
 1918,2016,Drawn to Scale,SISG,Performing Arts RSO,6,500.0
 1919,2016,DULCE (Diabetes: Unidos Lograremos Controlar Esta Enfermedad),SISG,Health & Wellness RSO,9,800.0
 1920,2016,Effective Altruists of Berkeley,SISG,Service RSO,1,600.0
-1921,2016,Empowered at Berkeley,SISG,Cultural & Identity/Women Interest RSO,0,0.0
-1922,2016,EnableTech,SISG,Professional RSO,0,0.0
+1921,2016,Empowered at Berkeley,SISG,Cultural & Identity/Women Interest RSO,1,0.0
+1922,2016,EnableTech,SISG,Professional RSO,1,0.0
 1923,2016,Engineers Without Borders at Berkeley,SISG,Service RSO,5,0.0
 1924,2016,EthiCAL Apparel,SISG,Environmental & Sustainability RSO,7,600.0
 1925,2016,Expanding Your Horizons at Berkeley,SISG,Service RSO,5,600.0
 1926,2016,FeelGood,SISG,Service RSO,9,1200.0
-1927,2016,"Food, Equity, Entrepreneurship, & Development",SISG,Professional RSO,0,200.0
-1928,2016,FoodInno,SISG,Professional RSO,0,0.0
+1927,2016,"Food, Equity, Entrepreneurship, & Development",SISG,Professional RSO,1,200.0
+1928,2016,FoodInno,SISG,Professional RSO,1,0.0
 1929,2016,Gates Millennium Student Association,SISG,Service RSO,10,950.0
-1930,2016,Get On The Bus DeCal,SISG,Service RSO,0,0.0
+1930,2016,Get On The Bus DeCal,SISG,Service RSO,1,0.0
 1931,2016,GiANT Filmmakers,SISG,Media & Film RSO,11,1910.0
 1932,2016,Global Health Brigades at Berkeley,SISG,Service RSO,10,900.0
 1933,2016,Global Internships @ Berkeley,SISG,Professional RSO,4,300.0
@@ -1955,20 +1955,20 @@
 1954,2016,MEDLIFE,SISG,Service RSO,6,450.0
 1955,2016,Mend a Life at Berkeley,SISG,Service RSO,1,170.0
 1956,2016,Mental Health Coalition,SISG,Health & Wellness RSO,2,500.0
-1957,2016,Mindfulness at Berkeley,SISG,Health & Wellness RSO,0,0.0
+1957,2016,Mindfulness at Berkeley,SISG,Health & Wellness RSO,1,0.0
 1958,2016,Movimiento Estudiantil Chicano/xicana de Atzlan,SISG,Cultural & Identity/Cultural & Ethnic RSO,5,800.0
-1959,2016,NAMI on Campus at Berkeley,SISG,Health & Wellness RSO,0,0.0
+1959,2016,NAMI on Campus at Berkeley,SISG,Health & Wellness RSO,1,0.0
 1960,2016,National Council of Negro Women,SISG,Cultural & Identity/Women Interest RSO,10,2100.0
 1961,2016,Indigenous and Native Coalition (INC) Recruitment and Retention Center,SISG,Sponsored RSO,24,10600.0
 1962,2016,Oakland Asian Student Educational Services,SISG,Service RSO,14,1000.0
-1963,2016,One Health Student Initiative,SISG,Health & Wellness RSO,0,0.0
+1963,2016,One Health Student Initiative,SISG,Health & Wellness RSO,1,0.0
 1964,2016,Partners In Health Engage at Berkeley,SISG,Service RSO,2,600.0
 1965,2016,Patient Advocacy Student Group,SISG,Service RSO,4,1000.0
 1966,2016,Paws and Claws of Berkeley,SISG,Service RSO,5,300.0
 1967,2016,People's Test Preparation Service,SISG,Service RSO,20,2650.0
 1968,2016,Pilipinx Academic Student Services,SISG,Sponsored RSO,32,30600.0
 1969,2016,Project Peanut Butter,SISG,Service RSO,3,600.0
-1970,2016,Project Pueblo at Berkeley,SISG,Service RSO,0,200.0
+1970,2016,Project Pueblo at Berkeley,SISG,Service RSO,1,200.0
 1971,2016,"Project Rishi, The Berkeley Chapter",SISG,Service RSO,9,1200.0
 1972,2016,Project Spreading Multiculturalism and Inspiring Leadership through Education,SISG,Service RSO,8,3000.0
 1973,2016,Project Vision,SISG,Service RSO,10,800.0
@@ -1978,7 +1978,7 @@
 1977,2016,REACH! Asian Pacific American Recruitment and Retention Center,SISG,Sponsored RSO,21,19300.0
 1978,2016,Re-entry and Transfer Student Association,SISG,Service RSO,19,2800.0
 1979,2016,Renters' Legal Assistance,SISG,Service RSO,34,975.0
-1980,2016,ReUSE,SISG,Environmental & Sustainability RSO,0,0.0
+1980,2016,ReUSE,SISG,Environmental & Sustainability RSO,1,0.0
 1981,2016,Cal Rotaract,SISG,Service RSO,12,1600.0
 1982,2016,Save a Refugee,SISG,Service RSO,2,485.0
 1983,2016,Southeast Asian Mentorship,SISG,Service RSO,10,750.0
@@ -1994,21 +1994,21 @@
 1993,2016,Teach in Prison,SISG,Service RSO,7,2650.0
 1994,2016,Team HBV,SISG,Health & Wellness RSO,10,650.0
 1995,2016,The Berkeley Project,SISG,Service RSO,10,1000.0
-1996,2016,The Happy Cart Project at Berkeley,SISG,Service RSO,0,0.0
+1996,2016,The Happy Cart Project at Berkeley,SISG,Service RSO,1,0.0
 1997,2016,The Magnolia Project,SISG,Service RSO,10,1700.0
 1998,2016,The Sage Mentorship Project,SISG,Service RSO,4,600.0
 1999,2016,Youth Support Program,SISG,Service RSO,21,800.0
 2000,2016,Theater for Charity,SISG,Performing Arts RSO,12,2300.0
 2001,2016,TRENZA,SISG,Cultural & Identity/Women Interest RSO,18,1400.0
 2002,2016,Underground Scholars Initiative,SISG,Cultural & Identity/Cultural & Ethnic RSO,2,600.0
-2003,2016,United Nations Refugee Agency at Cal,SISG,Service RSO,0,0.0
+2003,2016,United Nations Refugee Agency at Cal,SISG,Service RSO,1,0.0
 2004,2016,Universities Allied for Essential Medicines,SISG,Service RSO,3,600.0
 2005,2016,V-Day at Berkeley,SISG,Political & Advocacy RSO,6,600.0
 2006,2016,Vietnamese Student Association,SISG,Cultural & Identity/International RSO,25,5600.0
 2007,2016,VISION,SISG,Cultural & Identity/International RSO,10,1000.0
 2008,2016,Volunteer Health Interpreters Organization,SISG,Health & Wellness RSO,11,1700.0
 2009,2016,Volunteer Income Tax Assistance Program,SISG,Service RSO,3,600.0
-2010,2016,Volunteers Around the World Dental Outreach at Berkeley,SISG,Service RSO,0,0.0
+2010,2016,Volunteers Around the World Dental Outreach at Berkeley,SISG,Service RSO,1,0.0
 2011,2016,Volunteers for Medical Outreach,SISG,Service RSO,9,2200.0
 2012,2016,Women and Youth Supporting Each Other,SISG,Health & Wellness RSO,2,250.0
 2013,2016,Wonderworks,SISG,Service RSO,6,600.0
@@ -2058,7 +2058,7 @@
 2057,2017,Alpha Phi Omega,SAG,Service RSO,32,3500.0
 2058,2017,American Advertising Federation,SAG,Professional RSO,2,400.0
 2059,2017,American Chemical Society at Berkeley Student Chapter,SAG,Professional RSO,2,380.0
-2060,2017,American Institute of Aeronautics and Astronautics,SAG,Departmental RSO,1,0.0
+2060,2017,American Institute of Aeronautics and Astronautics,SAG,Departmental RSO,2,0.0
 2061,2017,American Medical Student Association--Berkeley Premedical Chapter,SAG,Professional RSO,19,650.0
 2062,2017,American Medical Women's Association at Berkeley,SAG,Cultural & Identity/Women Interest RSO,2,400.0
 2063,2017,American Society of Civil Engineers,SAG,Academic RSO,1,0.0
@@ -2088,14 +2088,14 @@
 2087,2017,Berkeley Water Group Idea Lab,SAG,Environmental & Sustainability RSO,2,500.0
 2088,2017,Berkeley Women in Business,SAG,Cultural & Identity/Women Interest RSO,14,500.0
 2089,2017,BERKOP,SAG,Publications RSO,1,650.0
-2090,2017,Best Laid Plans,SAG,Performing Arts RSO,1,400.0
+2090,2017,Best Laid Plans,SAG,Performing Arts RSO,2,400.0
 2091,2017,Beta Alpha Psi,SAG,Professional RSO,1,0.0
 2092,2017,Beyond Academia,SAG,Academic RSO,1,0.0
 2093,2017,Black Engineering and Science Students Association,SAG,Cultural & Identity/Cultural & Ethnic RSO,3,0.0
 2094,2017,Black Recruitment and Retention Center,SAG,Sponsored RSO,35,50300.0
 2095,2017,Black Student Union,SAG,Cultural & Identity/Cultural & Ethnic RSO,8,500.0
 2096,2017,Black Students in Health Association,SAG,Cultural & Identity/Cultural & Ethnic RSO,2,200.0
-2097,2017,Blockchain at Berkeley,SAG,Technology RSO,1,0.0
+2097,2017,Blockchain at Berkeley,SAG,Technology RSO,2,0.0
 2098,2017,Board Games at Berkeley,SAG,Recreational RSO,1,500.0
 2099,2017,Bridge Year to Berkeley,SAG,Service RSO,1,400.0
 2100,2017,BridgeUSA at Berkeley,SAG,Political & Advocacy RSO,1,400.0
@@ -2141,7 +2141,7 @@
 2140,2017,CS KickStart,SAG,Academic RSO,5,0.0
 2141,2017,Curling Club at Berkeley,SAG,Recreational RSO,5,600.0
 2142,2017,Danceworx,SAG,Performing Arts RSO,21,3430.0
-2143,2017,Data Science Society at Berkeley,SAG,Technology RSO,1,400.0
+2143,2017,Data Science Society at Berkeley,SAG,Technology RSO,2,400.0
 2144,2017,Debate Society of Berkeley,SAG,Academic RSO,6,466.0
 2145,2017,DeCadence,SAG,Performing Arts RSO,17,2150.0
 2146,2017,Delta Kappa Alpha,SAG,Professional RSO,2,0.0
@@ -2164,7 +2164,7 @@
 2163,2017,FoodInno,SAG,Professional RSO,2,400.0
 2164,2017,Foresight Pre-Optometry Club,SAG,Academic RSO,26,1175.0
 2165,2017,Free Ventures,SAG,Professional RSO,1,400.0
-2166,2017,Freshman and Sophomore Business Club,SAG,Departmental RSO,1,400.0
+2166,2017,Freshman and Sophomore Business Club,SAG,Departmental RSO,2,400.0
 2167,2017,Friends of the Co-ops,SAG,Cultural & Identity/Cultural & Ethnic RSO,85,10000.0
 2168,2017,"Future Business Leaders of America-Phi Beta Lambda, Inc.",SAG,Professional RSO,12,1700.0
 2169,2017,Future Physicians at Berkeley,SAG,Professional RSO,1,380.0
@@ -2191,7 +2191,7 @@
 2190,2017,Italian Society at Berkeley,SAG,Cultural & Identity/International RSO,17,1200.0
 2191,2017,Jain Students Association,SAG,Spiritual RSO,1,500.0
 2192,2017,Jericho!,SAG,Performing Arts RSO,1,900.0
-2193,2017,Jugger at Berkeley,SAG,Recreational RSO,1,300.0
+2193,2017,Jugger at Berkeley,SAG,Recreational RSO,2,300.0
 2194,2017,Kappa Gamma Delta,SAG,Professional RSO,15,1100.0
 2195,2017,Kappa Alpha Pi Pre-Law Fraternity,SAG,Professional RSO,4,3500.0
 2196,2017,Kendo Club,SAG,Recreational RSO,1,400.0
@@ -2225,7 +2225,7 @@
 2224,2017,Muslim Student Association,SAG,Spiritual RSO,31,14400.0
 2225,2017,National Organization for Women,SAG,Cultural & Identity/Women Interest RSO,17,1200.0
 2226,2017,Natya at Berkeley,SAG,Performing Arts RSO,4,315.0
-2227,2017,Nazakat at Berkeley,SAG,Performing Arts RSO,1,400.0
+2227,2017,Nazakat at Berkeley,SAG,Performing Arts RSO,2,400.0
 2228,2017,Net Impact at Berkeley,SAG,Professional RSO,16,0.0
 2229,2017,Next Generation Consulting at Berkeley,SAG,Professional RSO,2,400.0
 2230,2017,Nikkei Choral Ensemble,SAG,Performing Arts RSO,1,400.0
@@ -2254,7 +2254,7 @@
 2253,2017,Pilipino Association for Health Careers,SAG,Professional RSO,25,2500.0
 2254,2017,"Pilipinx Association of Scientists, Architects, and Engineers",SAG,Professional RSO,29,1300.0
 2255,2017,Pilipino Basketball Association,SAG,Recreational RSO,2,100.0
-2256,2017,Pointe of Berkeley,SAG,Performing Arts RSO,1,400.0
+2256,2017,Pointe of Berkeley,SAG,Performing Arts RSO,2,400.0
 2257,2017,Pokemon Club at Berkeley,SAG,Recreational RSO,5,500.0
 2258,2017,Portraits of Kindness at Berkeley,SAG,Service RSO,5,500.0
 2259,2017,PreDental Society,SAG,Professional RSO,34,850.0
@@ -2338,7 +2338,7 @@
 2337,2017,Voyager Consulting,SAG,Professional RSO,4,500.0
 2338,2017,Womxn in Mathematics at Berkeley,SAG,Cultural & Identity/Women Interest RSO,4,500.0
 2339,2017,Wrestling Club at Berkeley,SAG,Recreational RSO,2,400.0
-2340,2017,Yemeni Student Association of Berkeley,SAG,Cultural & Identity/International RSO,1,400.0
+2340,2017,Yemeni Student Association of Berkeley,SAG,Cultural & Identity/International RSO,2,400.0
 2341,2017,Zahanat,SAG,Performing Arts RSO,1,400.0
 2342,2017,100 Strong: Female Mentorship and Leadership Development,SISG,Service RSO,4,600.0
 2343,2017,Academic Cultural Enrichment Coaches,SISG,Service RSO,2,500.0
@@ -2346,7 +2346,7 @@
 2345,2017,Bone Health Initiative,SISG,Health & Wellness RSO,3,600.0
 2346,2017,American Red Cross at Cal,SISG,Service RSO,13,6000.0
 2347,2017,Amnesty International,SISG,Service RSO,8,800.0
-2348,2017,ANova,SISG,Service RSO,1,0.0
+2348,2017,ANova,SISG,Service RSO,2,0.0
 2349,2017,Anti-Trafficking Coalition at Berkeley,SISG,Service RSO,9,1500.0
 2350,2017,"Asha for Education, Berkeley",SISG,Service RSO,13,1400.0
 2351,2017,Asian American and Pacific Islander Health Research Group,SISG,Health & Wellness RSO,4,800.0
@@ -2391,7 +2391,7 @@
 2390,2017,Engineers Without Borders at Berkeley,SISG,Service RSO,6,0.0
 2391,2017,Expanding Your Horizons at Berkeley,SISG,Service RSO,5,1000.0
 2392,2017,eXperimental Computing Facility,SISG,Technology RSO,1,500.0
-2393,2017,Financial Literacy and Economic Justice Conference,SISG,Professional RSO,1,500.0
+2393,2017,Financial Literacy and Economic Justice Conference,SISG,Professional RSO,2,500.0
 2394,2017,Gates Millennium Student Association,SISG,Service RSO,11,950.0
 2395,2017,GiANT Filmmakers,SISG,Media & Film RSO,9,1910.0
 2396,2017,Global Medical Training,SISG,Service RSO,1,0.0
@@ -2506,7 +2506,7 @@
 2505,2018,Alpha Phi Omega,SAG,Service RSO,33,3500.0
 2506,2018,American Advertising Federation,SAG,Professional RSO,3,500.0
 2507,2018,American Chemical Society at Berkeley Student Chapter,SAG,Professional RSO,3,500.0
-2509,2018,American Institute of Aeronautics and Astronautics,SAG,Departmental RSO,2,0.0
+2509,2018,American Institute of Aeronautics and Astronautics,SAG,Departmental RSO,3,0.0
 2510,2018,American Medical Student Association--Berkeley Premedical Chapter,SAG,Professional RSO,20,650.0
 2511,2018,American Medical Women's Association at Berkeley,SAG,Cultural & Identity/Women Interest RSO,3,500.0
 2512,2018,American Society of Civil Engineers,SAG,Academic RSO,2,0.0
@@ -2534,10 +2534,10 @@
 2534,2018,Berkeley College Republicans,SAG,Political & Advocacy RSO,23,1000.0
 2535,2018,Berkeley Energy and Resources Collaborative (Graduate group),SAG,Environmental & Sustainability RSO,2,400.0
 2536,2018,Berkeley Indonesian Student Association,SAG,Cultural & Identity/International RSO,4,500.0
-2537,2018,Berkeley Innovation,SAG,Arts RSO,2,0.0
+2537,2018,Berkeley Innovation,SAG,Arts RSO,3,0.0
 2538,2018,Berkeley Legal Studies Association,SAG,Academic RSO,2,400.0
 2539,2018,Berkeley Women in Business,SAG,Cultural & Identity/Women Interest RSO,15,700.0
-2540,2018,Best Laid Plans,SAG,Performing Arts RSO,2,400.0
+2540,2018,Best Laid Plans,SAG,Performing Arts RSO,3,400.0
 2541,2018,Beyond Academia,SAG,Academic RSO,2,500.0
 2542,2018,Black Pre-Law Association at Berkeley,SAG,Professional RSO,2,400.0
 2543,2018,Black Recruitment and Retention Center,SAG,Sponsored RSO,36,40500.0
@@ -2582,15 +2582,15 @@
 2582,2018,Curling Club at Berkeley,SAG,Recreational RSO,6,600.0
 2583,2018,Dance Board of Berkeley Dance Community,SAG,Performing Arts RSO,2,0.0
 2584,2018,Danceworx,SAG,Performing Arts RSO,22,3400.0
-2585,2018,Data Science Society at Berkeley,SAG,Technology RSO,2,400.0
-2586,2018,Datong Society of China Studies at Berkeley,SAG,Departmental RSO,2,300.0
+2585,2018,Data Science Society at Berkeley,SAG,Technology RSO,3,400.0
+2586,2018,Datong Society of China Studies at Berkeley,SAG,Departmental RSO,3,300.0
 2587,2018,Debate Society of Berkeley,SAG,Academic RSO,7,600.0
 2588,2018,DeCadence,SAG,Performing Arts RSO,18,737.0
 2589,2018,Delta Phi Epsilon Co-ed Professional Foreign Service Fraternity,SAG,Professional RSO,15,500.0
 2590,2018,Delta Sigma Pi,SAG,Professional RSO,12,260.0
 2591,2018,Dil Se,SAG,Performing Arts RSO,3,600.0
 2592,2018,Disney Club at Berkeley,SAG,Recreational RSO,2,400.0
-2593,2018,DiversaTech,SAG,Technology RSO,2,400.0
+2593,2018,DiversaTech,SAG,Technology RSO,3,400.0
 2594,2018,Drawn to Scale,SAG,Performing Arts RSO,8,500.0
 2595,2018,Dutch Student Association at Berkeley,SAG,Cultural & Identity/International RSO,2,300.0
 2596,2018,East Asian Union,SAG,Cultural & Identity/International RSO,9,1900.0
@@ -2607,7 +2607,7 @@
 2607,2018,Fashion and Student Trends,SAG,Arts RSO,7,500.0
 2608,2018,Fei Tian Dancers,SAG,Performing Arts RSO,15,400.0
 2609,2018,Fellowship in Christ in Berkeley,SAG,Spiritual RSO,13,500.0
-2610,2018,FEMTech,SAG,Cultural & Identity/Women Interest RSO,2,400.0
+2610,2018,FEMTech,SAG,Cultural & Identity/Women Interest RSO,3,400.0
 2611,2018,GenSex,SAG,Cultural & Identity/Women Interest RSO,2,400.0
 2612,2018,Ferments at Berkeley,SAG,Recreational RSO,5,480.0
 2613,2018,Fiat Lux Scholars Association,SAG,Academic RSO,2,300.0
@@ -2615,7 +2615,7 @@
 2615,2018,"Food, Equity, Entrepreneurship, & Development",SAG,Professional RSO,3,400.0
 2616,2018,Foresight Pre-Optometry Club,SAG,Academic RSO,27,1175.0
 2617,2018,Free Ventures,SAG,Professional RSO,2,400.0
-2618,2018,Freshman and Sophomore Business Club,SAG,Departmental RSO,2,400.0
+2618,2018,Freshman and Sophomore Business Club,SAG,Departmental RSO,3,400.0
 2619,2018,Friends of the Co-ops,SAG,Cultural & Identity/Cultural & Ethnic RSO,86,10000.0
 2620,2018,"Future Business Leaders of America-Phi Beta Lambda, Inc.",SAG,Professional RSO,13,2000.0
 2621,2018,Gaming at Berkeley,SAG,Recreational RSO,7,800.0
@@ -2642,7 +2642,7 @@
 2642,2018,Italian Society at Berkeley,SAG,Cultural & Identity/International RSO,18,1200.0
 2643,2018,Jain Students Association,SAG,Spiritual RSO,2,500.0
 2644,2018,Jericho!,SAG,Performing Arts RSO,2,1000.0
-2645,2018,Jugger at Berkeley,SAG,Recreational RSO,2,500.0
+2645,2018,Jugger at Berkeley,SAG,Recreational RSO,3,500.0
 2646,2018,Kappa Alpha Delta,SAG,Academic RSO,16,220.0
 2647,2018,Kappa Alpha Pi Pre-Law Fraternity,SAG,Professional RSO,5,1000.0
 2648,2018,Kendo Club,SAG,Recreational RSO,3,500.0
@@ -2661,7 +2661,7 @@
 2661,2018,Latinx Pre-Law Society,SAG,Professional RSO,5,500.0
 2662,2018,Launchpad,SAG,Technology RSO,2,400.0
 2663,2018,Le Cercle Français of Berkeley,SAG,Cultural & Identity/International RSO,11,400.0
-2664,2018,Legends of Berkeley,SAG,Recreational RSO,2,400.0
+2664,2018,Legends of Berkeley,SAG,Recreational RSO,3,400.0
 2665,2018,Liberty in North Korea at Berkeley,SAG,Political & Advocacy RSO,14,900.0
 2666,2018,Lindy On Sproul,SAG,Performing Arts RSO,8,1200.0
 2667,2018,The Magic Club,SAG,Performing Arts RSO,3,400.0
@@ -2670,7 +2670,7 @@
 2670,2018,Materials Science and Engineering Association,SAG,Departmental RSO,5,0.0
 2671,2018,Mathematics Undergraduate Student Association,SAG,Academic RSO,2,400.0
 2672,2018,Mexican Association of Students at Berkeley,SAG,Cultural & Identity/International RSO,4,500.0
-2673,2018,Microbial Sciences Association,SAG,Academic RSO,2,400.0
+2673,2018,Microbial Sciences Association,SAG,Academic RSO,3,400.0
 2674,2018,Microfinance at Berkeley,SAG,Service RSO,6,600.0
 2675,2018,Mind Body Nutrition: Students for Integrative and Preventive Medicine,SAG,Health & Wellness RSO,2,500.0
 2676,2018,"Molecular and Cell Biology, Cell Developmental, Neurobiological Association",SAG,Departmental RSO,5,400.0
@@ -2679,7 +2679,7 @@
 2679,2018,Muslim Student Association,SAG,Spiritual RSO,32,12400.0
 2680,2018,NAMI on Campus at Berkeley,SAG,Health & Wellness RSO,3,500.0
 2681,2018,Natya at Berkeley,SAG,Performing Arts RSO,5,500.0
-2682,2018,Nazakat at Berkeley,SAG,Performing Arts RSO,2,400.0
+2682,2018,Nazakat at Berkeley,SAG,Performing Arts RSO,3,400.0
 2683,2018,Net Impact at Berkeley,SAG,Professional RSO,17,0.0
 2684,2018,Nigerian Students Association,SAG,Cultural & Identity/International RSO,4,400.0
 2685,2018,Nikkei Choral Ensemble,SAG,Performing Arts RSO,2,400.0
@@ -2702,7 +2702,7 @@
 2702,2018,Pilipino Association for Health Careers,SAG,Professional RSO,26,3000.0
 2703,2018,"Pilipinx Association of Scientists, Architects, and Engineers",SAG,Professional RSO,30,1300.0
 2704,2018,Pilipino Basketball Association,SAG,Recreational RSO,3,50.0
-2705,2018,Pointe of Berkeley,SAG,Performing Arts RSO,2,400.0
+2705,2018,Pointe of Berkeley,SAG,Performing Arts RSO,3,400.0
 2706,2018,Pokemon Club at Berkeley,SAG,Recreational RSO,6,500.0
 2707,2018,Pre-Medical Honor Society,SAG,Academic RSO,2,350.0
 2708,2018,Pre-Nursing Society,SAG,Professional RSO,6,450.0
@@ -2740,7 +2740,7 @@
 2740,2018,Steel Bridge Competition Team,SAG,Academic RSO,4,0.0
 2741,2018,Stock Trading Crew of Berkeley,SAG,Professional RSO,2,400.0
 2742,2018,Strait Talk,SAG,Cultural & Identity/International RSO,11,1200.0
-2743,2018,Student Nutrition Advocacy Club,SAG,Academic RSO,2,300.0
+2743,2018,Student Nutrition Advocacy Club,SAG,Academic RSO,3,300.0
 2744,2018,Student Organic Gardening Association,SAG,Environmental & Sustainability RSO,3,500.0
 2745,2018,Student Premed Advising Network,SAG,Academic RSO,3,400.0
 2746,2018,Students for Justice in Palestine,SAG,Political & Advocacy RSO,12,950.0
@@ -2762,7 +2762,7 @@
 2762,2018,Tokiha,SAG,Service RSO,2,400.0
 2763,2018,Transportation Team at Berkeley,SAG,Departmental RSO,2,0.0
 2764,2018,TrueLement,SAG,Performing Arts RSO,2,0.0
-2765,2018,Chi Epsilon - Civil Engineering Honor Society,SAG,Academic RSO,2,0.0
+2765,2018,Chi Epsilon - Civil Engineering Honor Society,SAG,Academic RSO,3,0.0
 2766,2018,UC Berkeley Indus,SAG,Cultural & Identity/Cultural & Ethnic RSO,30,13000.0
 2767,2018,UC Berkeley Model United Nations,SAG,Academic RSO,26,9200.0
 2768,2018,UC Jazz Ensembles,SAG,Performing Arts RSO,31,2500.0
@@ -2772,7 +2772,7 @@
 2772,2018,Undergraduate Economics Association,SAG,Academic RSO,18,300.0
 2773,2018,Undergraduate Finance Association|Undergraduate Management Consulting Group,SAG,Professional RSO,11,300.0
 2774,2018,"Undergraduate Healthcare Alliance: Uniting Students at the Intersection of Medicine, Biotechnology, and Business",SAG,Professional RSO,2,400.0
-2775,2018,Undergraduate Legal Honors Society,SAG,Academic RSO,2,400.0
+2775,2018,Undergraduate Legal Honors Society,SAG,Academic RSO,3,400.0
 2776,2018,Undergraduate Real Estate Club,SAG,Professional RSO,4,1000.0
 2777,2018,Undergraduate Women in Economics at Berkeley,SAG,Cultural & Identity/Women Interest RSO,2,400.0
 2778,2018,UpSync,SAG,Professional RSO,3,500.0
@@ -2785,7 +2785,7 @@
 2785,2018,Academic Cultural Enrichment Coaches,SISG,Service RSO,3,500.0
 2786,2018,Alternative Breaks,SISG,Service RSO,16,2000.0
 2787,2018,American Red Cross at Cal,SISG,Service RSO,14,6000.0
-2788,2018,ANova,SISG,Service RSO,2,0.0
+2788,2018,ANova,SISG,Service RSO,3,0.0
 2789,2018,Anti-Trafficking Coalition at Berkeley,SISG,Service RSO,10,1400.0
 2790,2018,Renters' Legal Assistance,SISG,Service RSO,36,200.0
 2791,2018,ASUC Student Legal Clinic,SISG,Service RSO,35,500.0
@@ -2976,7 +2976,7 @@
 2976,2019,Berkeley Consulting,SAG,Professional RSO,2,0.0
 2977,2019,Berkeley Energy and Resources Collaborative (Graduate group),SAG,Environmental & Sustainability RSO,1,200.0
 2978,2019,Berkeley Indonesian Student Association,SAG,Cultural & Identity/International RSO,5,0.0
-2979,2019,Berkeley Innovation,SAG,Arts RSO,3,0.0
+2979,2019,Berkeley Innovation,SAG,Arts RSO,4,0.0
 2980,2019,Berkeley Investment Group,SAG,Professional RSO,1,0.0
 2981,2019,Berkeley Legal Studies Association,SAG,Academic RSO,3,500.0
 2982,2019,Berkeley Model United Nations Conference,SAG,Academic RSO,1,0.0
@@ -2984,7 +2984,7 @@
 2984,2019,Berkeley Organization for Animal Advocacy,SAG,Political & Advocacy RSO,1,0.0
 2985,2019,Berkeley Tennis Association,SAG,Recreational RSO,3,400.0
 2986,2019,Berkeley Women in Business,SAG,Cultural & Identity/Women Interest RSO,16,900.0
-2987,2019,Best Laid Plans,SAG,Performing Arts RSO,3,400.0
+2987,2019,Best Laid Plans,SAG,Performing Arts RSO,4,400.0
 2988,2019,Beyond Academia,SAG,Academic RSO,3,300.0
 2989,2019,Big Data at Berkeley,SAG,Academic RSO,1,290.0
 2990,2019,Biofuels Technology Club,SAG,Environmental & Sustainability RSO,1,0.0
@@ -3004,7 +3004,7 @@
 3004,2019,Business Review at Berkeley,SAG,Publications RSO,2,400.0
 3005,2019,Cal Actuarial League,SAG,Professional RSO,15,400.0
 3006,2019,Cal American Civil Liberties Union,SAG,Political & Advocacy RSO,3,457.0
-3007,2019,American Institute of Aeronautics and Astronautics,SAG,Departmental RSO,3,0.0
+3007,2019,American Institute of Aeronautics and Astronautics,SAG,Departmental RSO,4,0.0
 3008,2019,Cal Berkeley Democrats,SAG,Political & Advocacy RSO,22,4400.0
 3009,2019,Cal Bhangra,SAG,Performing Arts RSO,6,3500.0
 3010,2019,Black Student Union,SAG,Cultural & Identity/Cultural & Ethnic RSO,10,25500.0
@@ -3050,8 +3050,8 @@
 3050,2019,Curling Club at Berkeley,SAG,Recreational RSO,7,600.0
 3051,2019,Dance Board of Berkeley Dance Community,SAG,Performing Arts RSO,3,0.0
 3052,2019,Danceworx,SAG,Performing Arts RSO,23,5000.0
-3053,2019,Data Science Society at Berkeley,SAG,Technology RSO,3,500.0
-3054,2019,Datong Society of China Studies at Berkeley,SAG,Departmental RSO,3,500.0
+3053,2019,Data Science Society at Berkeley,SAG,Technology RSO,4,500.0
+3054,2019,Datong Society of China Studies at Berkeley,SAG,Departmental RSO,4,500.0
 3055,2019,Debate Society of Berkeley,SAG,Academic RSO,7,2500.0
 3056,2019,DeCadence,SAG,Performing Arts RSO,19,1500.0
 3057,2019,Delta Kappa Alpha,SAG,Professional RSO,2,400.0
@@ -3059,7 +3059,7 @@
 3059,2019,Department of Integrative Biology Students,SAG,Departmental RSO,4,50.0
 3060,2019,Dil Se,SAG,Performing Arts RSO,4,300.0
 3061,2019,Disney Club at Berkeley,SAG,Recreational RSO,2,400.0
-3062,2019,DiversaTech,SAG,Technology RSO,3,500.0
+3062,2019,DiversaTech,SAG,Technology RSO,4,500.0
 3063,2019,Drawn to Scale,SAG,Performing Arts RSO,9,550.0
 3064,2019,Earthquake Engineering Research Institute at Berkeley,SAG,Academic RSO,1,0.0
 3065,2019,East Asian Union,SAG,Cultural & Identity/International RSO,10,2950.0
@@ -3116,7 +3116,7 @@
 3116,2019,Jain Students Association,SAG,Spiritual RSO,3,365.0
 3117,2019,Jericho!,SAG,Performing Arts RSO,3,500.0
 3118,2019,Jewish Voice for Peace at Berkeley,SAG,Political & Advocacy RSO,1,140.0
-3119,2019,Jugger at Berkeley,SAG,Recreational RSO,3,500.0
+3119,2019,Jugger at Berkeley,SAG,Recreational RSO,4,500.0
 3120,2019,K-Popular at Berkeley,SAG,Cultural & Identity/Cultural & Ethnic RSO,8,400.0
 3121,2019,Kappa Alpha Pi Pre-Law Fraternity,SAG,Professional RSO,6,775.0
 3122,2019,Kappa Gamma Delta,SAG,Professional RSO,1,100.0
@@ -3135,7 +3135,7 @@
 3135,2019,Launchpad,SAG,Technology RSO,3,0.0
 3136,2019,Laya of Berkeley,SAG,Performing Arts RSO,1,400.0
 3137,2019,Le Cercle Français of Berkeley,SAG,Cultural & Identity/International RSO,12,390.0
-3138,2019,Legends of Berkeley,SAG,Recreational RSO,3,500.0
+3138,2019,Legends of Berkeley,SAG,Recreational RSO,4,500.0
 3139,2019,Liberty in North Korea at Berkeley,SAG,Political & Advocacy RSO,15,1500.0
 3140,2019,Lindy On Sproul,SAG,Performing Arts RSO,9,1500.0
 3141,2019,Machine Learning at Berkeley,SAG,Technology RSO,1,0.0
@@ -3148,7 +3148,7 @@
 3148,2019,Medical Technology at Berkeley,SAG,Technology RSO,1,0.0
 3149,2019,Mexican Association of Students at Berkeley,SAG,Cultural & Identity/International RSO,5,500.0
 3150,2019,Microbial Biology Graduate Student Group,SAG,Academic RSO,2,0.0
-3151,2019,Microbial Sciences Association,SAG,Academic RSO,3,500.0
+3151,2019,Microbial Sciences Association,SAG,Academic RSO,4,500.0
 3152,2019,Microfinance at Berkeley,SAG,Service RSO,7,1000.0
 3153,2019,Mileage Runners of Berkeley,SAG,Service RSO,2,400.0
 3154,2019,Mind Body Nutrition: Students for Integrative and Preventive Medicine,SAG,Health & Wellness RSO,3,500.0
@@ -3184,7 +3184,7 @@
 3184,2019,Pilipino Association for Health Careers,SAG,Professional RSO,27,5650.0
 3185,2019,"Pilipinx Association of Scientists, Architects, and Engineers",SAG,Professional RSO,31,2100.0
 3186,2019,Pilipino Basketball Association,SAG,Recreational RSO,4,105.0
-3187,2019,Pointe of Berkeley,SAG,Performing Arts RSO,3,500.0
+3187,2019,Pointe of Berkeley,SAG,Performing Arts RSO,4,500.0
 3188,2019,Pokemon Club at Berkeley,SAG,Recreational RSO,7,300.0
 3189,2019,Political Computer Science,SAG,Technology RSO,1,200.0
 3190,2019,Pre-Medical Honor Society,SAG,Academic RSO,3,190.0
@@ -3235,7 +3235,7 @@
 3235,2019,Student Coalition for Disability Rights,SAG,Cultural & Identity/Cultural & Ethnic RSO,1,400.0
 3236,2019,Student Food Collective,SAG,Environmental & Sustainability RSO,1,400.0
 3237,2019,Student Organic Gardening Association,SAG,Environmental & Sustainability RSO,4,0.0
-3238,2019,Student Nutrition Advocacy Club,SAG,Academic RSO,3,500.0
+3238,2019,Student Nutrition Advocacy Club,SAG,Academic RSO,4,500.0
 3239,2019,Student Premed Advising Network,SAG,Academic RSO,4,500.0
 3240,2019,Students for Hip Hop,SAG,Recreational RSO,18,5600.0
 3241,2019,Students for Justice in Palestine,SAG,Political & Advocacy RSO,13,1500.0
@@ -3265,7 +3265,7 @@
 3265,2019,UC Rally Committee,SAG,Service RSO,119,40000.0
 3266,2019,Undergraduate Communications Association,SAG,Academic RSO,5,500.0
 3267,2019,Undergraduate Economics Association,SAG,Academic RSO,19,400.0
-3268,2019,Undergraduate Legal Honors Society,SAG,Academic RSO,3,405.0
+3268,2019,Undergraduate Legal Honors Society,SAG,Academic RSO,4,405.0
 3269,2019,Undergraduate Political Science Association,SAG,Academic RSO,2,400.0
 3270,2019,Undergraduate Real Estate Club,SAG,Professional RSO,5,1500.0
 3271,2019,Undergraduate Student Council of the College of Environmental Design,SAG,Departmental RSO,1,55.0
@@ -3297,7 +3297,7 @@
 3297,2019,Alternative Breaks,SISG,Service RSO,17,3500.0
 3298,2019,American Red Cross at Cal,SISG,Service RSO,15,6500.0
 3299,2019,American Society for Biochemistry and Molecular Biology,SISG,Professional RSO,1,500.0
-3300,2019,ANova,SISG,Service RSO,3,0.0
+3300,2019,ANova,SISG,Service RSO,4,0.0
 3301,2019,Anti-Trafficking Coalition at Berkeley,SISG,Service RSO,11,2000.0
 3302,2019,Asian American and Pacific Islander Health Research Group,SISG,Health & Wellness RSO,1,500.0
 3303,2019,ASUC Student Legal Clinic,SISG,Service RSO,36,1400.0
@@ -3496,7 +3496,7 @@
 3496,2020,Berkeley Formula Racing,SAG,Academic RSO,1,0.0
 3497,2020,Berkeley Hyperloop,SAG,Technology RSO,1,0.0
 3498,2020,Berkeley Indonesian Student Association,SAG,Cultural & Identity/International RSO,6,250.0
-3499,2020,Berkeley Innovation,SAG,Arts RSO,4,0.0
+3499,2020,Berkeley Innovation,SAG,Arts RSO,5,0.0
 3500,2020,Berkeley Legal Studies Association,SAG,Academic RSO,4,600.0
 3501,2020,Berkeley Model United Nations Conference,SAG,Academic RSO,2,0.0
 3502,2020,BERKOP,SAG,Publications RSO,7,1375.0
@@ -3567,7 +3567,7 @@
 3567,2020,Dance Board of Berkeley Dance Community,SAG,Performing Arts RSO,4,0.0
 3568,2020,Danceworx,SAG,Performing Arts RSO,24,5000.0
 3569,2020,Data Bears,SAG,Technology RSO,1,250.0
-3570,2020,Data Science Society at Berkeley,SAG,Technology RSO,4,400.0
+3570,2020,Data Science Society at Berkeley,SAG,Technology RSO,5,400.0
 3571,2020,DataStory,SAG,Academic RSO,1,0.0
 3572,2020,De Colores,SAG,Cultural & Identity/LGBTQ+ RSO,1,0.0
 3573,2020,Debate Society of Berkeley,SAG,Academic RSO,8,2000.0
@@ -3683,7 +3683,7 @@
 3683,2020,Pilipino American Alliance,SAG,Cultural & Identity/Cultural & Ethnic RSO,30,12000.0
 3684,2020,Pilipino Association for Health Careers,SAG,Professional RSO,28,4520.0
 3685,2020,"Pilipinx Association of Scientists, Architects, and Engineers",SAG,Professional RSO,32,2100.0
-3686,2020,Pointe of Berkeley,SAG,Performing Arts RSO,4,700.0
+3686,2020,Pointe of Berkeley,SAG,Performing Arts RSO,5,700.0
 3687,2020,Political Computer Science,SAG,Technology RSO,2,250.0
 3688,2020,Pre-Medical Honor Society,SAG,Academic RSO,4,400.0
 3689,2020,"Pre-Pharmacy Informational, Learning and Leadership Society",SAG,Professional RSO,20,2500.0
@@ -3761,7 +3761,7 @@
 3762,2020,Undergraduate Astronomy Society - Berkeley,SAG,Departmental RSO,1,250.0
 3763,2020,Undergraduate Economics Association,SAG,Academic RSO,20,320.0
 3764,2020,Undergraduate Laboratory at Berkeley,SAG,Academic RSO,1,0.0
-3765,2020,Undergraduate Legal Honors Society,SAG,Academic RSO,4,266.0
+3765,2020,Undergraduate Legal Honors Society,SAG,Academic RSO,5,266.0
 3766,2020,Undergraduate Real Estate Club,SAG,Professional RSO,6,1200.0
 3767,2020,Undergraduate Women in Economics at Berkeley,SAG,Cultural & Identity/Women Interest RSO,3,250.0
 3768,2020,Upsilon Pi Epsilon,SAG,Academic RSO,2,250.0
@@ -3781,7 +3781,7 @@
 3782,2020,Academic Cultural Enrichment Coaches,SISG,Service RSO,5,0.0
 3783,2020,Alternative Breaks,SISG,Service RSO,18,2800.0
 3784,2020,American Red Cross at Cal,SISG,Service RSO,16,7000.0
-3785,2020,ANova,SISG,Service RSO,4,0.0
+3785,2020,ANova,SISG,Service RSO,5,0.0
 3786,2020,Anti-Trafficking Coalition at Berkeley,SISG,Service RSO,12,1600.0
 3787,2020,ASUC Student Legal Clinic,SISG,Service RSO,37,1200.0
 3788,2020,Bay Area Environmentally Aware Consulting Network,SISG,Environmental & Sustainability RSO,12,320.0
