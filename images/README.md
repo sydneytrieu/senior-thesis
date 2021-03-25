@@ -7,4 +7,4 @@ This folder contains the images of data visualizations generated from the `noteb
 | `bp` | Boxplot | 
 | `hist` | Histogram |
 
-Note that a file labeled with the year `2019` refers to the 2019-2020 budget year.
+Note that the year refers to the start of the budget year -- e.g. `2019` refers to the 2019-2020 budget year.
