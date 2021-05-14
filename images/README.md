@@ -4,6 +4,7 @@ This folder contains the images of data visualizations generated from the `noteb
 
 | Abbreviation | Plot Type |
 | ----- | ----- |
+| `bar` | Bar chart | 
 | `bp` | Boxplot | 
 | `hist` | Histogram |
 
